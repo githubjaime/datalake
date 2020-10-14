@@ -16,5 +16,5 @@
   * [Diferenças entre Data Lake e Data Warehouse](#)
 * [LGPD](#)
   * [O que muda com a LGPD com o tratamento dos dados](#)
-  * [LGPD DA PERSPECTIVA DO DATA LAKE](#)
+  * [LGPD na perspectiva do Data Lake](#)
 
