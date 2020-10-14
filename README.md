@@ -4,4 +4,5 @@
   <img src="Data-Lake-1024x541.png" >
 </p>
 
-# datalake
+# PROJETO PRÁTICO - Tópico em Banco de Dados - Processamento Massivo de Dados 
+<sub>Cristiano Fortunado, Elaine Soares e Jaime Leite</sub>
