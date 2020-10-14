@@ -8,10 +8,10 @@
 <sub>Autores: Cristiano Fortunado, Elaine Soares e Jaime Leite</sub>
 
 
-## Indice
+## Índice
 
 * [Introdução](#introdução)
 * [LGPD](#)
-  * [O QUE É LGPD](#)
+  * [O que é LGPD](#)
   * [LGPD DA PERSPECTIVA DO DATA LAKE](#)
 
