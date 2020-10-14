@@ -8,13 +8,22 @@
 <sub>Autores: Cristiano Fortunado, Elaine Soares e Jaime Leite</sub>
 
 
-## Índice
+## Indice
 
 * [Introdução](#introdução)
-* [O Data Lake](#)
-  * [O Data Warehouse](#)
+* [O Datalake](#)
+  * [O sucessor Data Warehouse](#)
+  * [A evolução Data Lake](#)
   * [Diferenças entre Data Lake e Data Warehouse](#)
+  * [Arquitetura de referência do Data Lake](#)
+  * [O Big Data - 3 ou 5 V's?](#)
+  * [Arquitetura de processamento de dados em larga escala](#)
+  * [Os pilares de uma arquitetura de processamento de dados em larga escala](#)
+  * [Arquitetura de Big Data](#)
+  * [Perfis Profissional](#)
+  * [Análise de Dados](#)
+  * [Cultura Data Driven](#)
 * [LGPD](#)
-  * [O que muda com a LGPD com o tratamento dos dados](#)
-  * [LGPD na perspectiva do Data Lake](#)
+  * [O QUE É LGPD](#)
+  * [LGPD DA PERSPECTIVA DO DATA LAKE](#)
 
