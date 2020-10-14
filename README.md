@@ -8,11 +8,13 @@
 <sub>Autores: Cristiano Fortunado, Elaine Soares e Jaime Leite</sub>
 
 
-## Índice
+## Indice
 
 * [Introdução](#introdução)
+* [O Data Lake](#)
+  * [O Data Warehouse](#)
+  * [Diferenças entre Data Lake e Data Warehouse](#)
 * [LGPD](#)
-  * [O que é LGPD](#)
+  * [O QUE É LGPD](#)
   * [LGPD DA PERSPECTIVA DO DATA LAKE](#)
-
 
