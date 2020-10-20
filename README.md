@@ -24,6 +24,8 @@
   * [Análise de Dados](#)
   * [Cultura Data Driven](#)
 * [LGPD](#)
-  * [O QUE É LGPD](#)
-  * [LGPD DA PERSPECTIVA DO DATA LAKE](#)
+  * [O que norteia a LGPD](#)
+  * [Direito a privacidade na era digital](#)
+  * [Direito a privacidade na era digital](#)
+  * [Comparação entre a GDPR e a LGPD](#)
 
