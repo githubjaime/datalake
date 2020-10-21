@@ -28,4 +28,4 @@
   * [Direito a privacidade na era digital](#)
   * [Comparação entre a GDPR e a LGPD](#)
   * [Data Lake na LGPD](#)
-
+* [Governaça de Dados](#)
