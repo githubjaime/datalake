@@ -1,6 +1,0 @@
-Governaça de dados
-	Como promover a Governança em um Data Lake
-	Definição do comitê Gestor	
-	Política de acesso ao dados
-	Captação, transformação e expurgo dos dados
-	Ameaças e oportunidades
