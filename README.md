@@ -8,7 +8,7 @@
 <sub>Autores: Cristiano Fortunado, Elaine Soares e Jaime Leite</sub>
 
 
-## Indice
+## Índice
 
 * [Introdução](#introdução)
 * [O Datalake](#)
