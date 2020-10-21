@@ -31,3 +31,5 @@
   * [Definição do comitê Gestor](#)
   * [Política de acesso a dados](#)
   * [Captação, transformação e expurgo dos dados](#)
+* [Conclusão](#)
+* [Referências](#)
