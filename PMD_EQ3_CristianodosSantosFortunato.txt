@@ -1,0 +1,130 @@
++------------------------------------------------+
+| UFSCar - Campus Sorocaba                       |
+| Processamento Massivo de Dados / CC-So         |
+| Tópicos em Bancos de Dados / PGCC-So           |
+| Profa. Dra. SAHUDY MONTENEGRO GONZÁLEZ         |
+|                                                |
+| Cristiano dos Santos Fortunato, Aluno Especial |
++------------------------------------------------+
+
+----------------------------------------------------------------------------------------------------------------------
+1- Escreva uma consulta Map/Reduce do mongoDB para contar o número de restaurantes por tipo de gastronomia (cuisine).
+----------------------------------------------------------------------------------------------------------------------
+var mapFunc1 = function() {
+	emit({cuisine:this.cuisine}, {count:1});
+};
+
+var reduceFunc1 = function(key, values) {
+	var count = 0;
+	values.forEach(function(mapFunc1) { 
+		count += mapFunc1['count']
+	});
+	return {count:count};
+};
+
+db.restaurants.mapReduce( mapFunc1, reduceFunc1, { out: "map_reduce_cuisine" })
+
+db.map_reduce_cuisine.find()
+
+
+----------------------------------------------------------------------------------------------------------------------
+2- Escreva uma consulta Map/Reduce do mongoDB para calcular a média das notas (score) por restaurante.
+
+var mapFunc2 = function() {
+	for (var idx = 0; idx < this.grades.length; idx++) {
+		var key = {score: this.grades[idx].score, this.name};
+		var value = { count: 1};
+		emit(key, value);
+	}
+};
+
+var reduceFunc2 = function(keyName, countObjVals) {
+	reduceVal = {count: 0, score: 0 };
+	for (var idx = 0; idx < countObjVals.length; idx++) {
+		reduceVal.count += countObjVals[idx].count;
+		reduceVal.score += countObjVals[idx].score;
+	}
+	return reduceVal;
+};
+
+var finalizeFunc2 = function(key, reduceVal) {
+	reduceVal.avg = reduceVal.score/reduceVal.count;
+	return reduceVal;
+};
+
+db.restaurants.mapReduce(mapFunc2, reduceFunc2, {
+	out: { merge: "map_reduce_score" },
+	finalize: finalizeFunc2
+})
+
+db.map_reduce_score.find();
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+3- Escreva uma consulta Map/Reduce do mongoDB para contar o número de restaurantes por tipo de gastronomia (cuisine) 
+por bairro (borough).
+
+var mapFunc3 = function() {
+	emit({borough:this.borough, cuisine:this.cuisine}, {count:1});
+
+};
+
+var reduceFunc3 = function(key, values) {
+	var count = 0;
+	values.forEach(function(mapFunc3) { 
+		count += mapFunc3['count']
+	});
+	return {{borough:this.borough, cuisine:this.cuisine}, {count:count}};
+};
+
+db.restaurants.mapReduce( mapFunc3, reduceFunc3, { out: "map_reduce_cuisine_borought" })
+
+db.map_reduce_cuisine_borought.find()
+
+----------------------------------------------------------------------------------------------------------------------
+4- Escreva uma consulta Map/Reduce do mongoDB para contar os tipos de gastronomia (cuisine) diferentes 
+por bairro (borough). ***díficil***
+
+var mapFunc4 = function() {
+	emit({borough:distinct(this.borough), cuisine:this.cuisine}, {count:1});
+
+};
+
+var reduceFunc4 = function(key, values) {
+	var count = 0;
+	values.forEach(function(mapFunc4) { 
+		count += mapFunc4['count']
+	});
+	return {{borough:this.borough}, {count:count}};
+};
+
+db.restaurants.mapReduce( mapFunc4, reduceFunc4, { out: "map_reduce_cuisine_dif_borought" })
+
+db.map_reduce_cuisine_dif_borought.find()
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+5- Escreva uma consulta mongoDB para contar quantos tipos de gastronomia diferentes têm. 
+
+var mapFunc5 = function() {
+	emit({cuisine:distinct(this.cuisine)}, {count:1});
+};
+
+var reduceFunc5 = function(key, values) {
+	var count = 0;
+	values.forEach(function(mapFunc5) { 
+		count += mapFunc5['count']
+	});
+	return {count:count};
+};
+
+db.restaurants.mapReduce( mapFunc5, reduceFunc5, { out: "map_reduce_cuisine_dif" })
+
+db.map_reduce_cuisine_dif.count()
+
+
