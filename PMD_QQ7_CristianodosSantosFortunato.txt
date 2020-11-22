@@ -1,0 +1,246 @@
++------------------------------------------------+
+| UFSCar - Campus Sorocaba                       |
+| Processamento Massivo de Dados / CC-So         |
+| Tópicos em Bancos de Dados / PGCC-So           |
+| Profa. Dra. SAHUDY MONTENEGRO GONZÁLEZ         |
+|                                                |
+| Cristiano dos Santos Fortunato, Aluno Especial |
++------------------------------------------------+
+
+--------------------------------------------------------------------------------------------------------------
+PASSO 1 - Crie uma nova coleção de documentos e insira os documentos (copie e cole de mapreduce_colecao.txt)
+--------------------------------------------------------------------------------------------------------------
+
+db.vendas.insert(
+[
+	{
+	customer_id: "1",
+	date: new Date("Oct 04, 2012"),
+	status: 'A',
+	price: 250,
+	items: [ 
+		{ sku: "arroz", qty: 5, price: 2.5 },
+		{ sku: "geladeira", qty: 5, price: 2.5 } 
+	]
+	},
+
+	{
+	customer_id: "2",
+	date: new Date("Jan 04, 2013"),
+	status: 'A',
+	price: 500,
+	items: [ 
+		{ sku: "arroz", qty: 15, price: 22.5 },
+		{ sku: "tv", qty: 95, price: 26.5 } 
+	]
+	},
+
+	{
+	customer_id: "1",
+	date: new Date("Apr 04, 2013"),
+	status: 'A',
+	price: 30,		
+	items: [ 
+		{ sku: "tv", qty: 55, price: 25 },
+		{ sku: "geladeira", qty: 25, price: 28 } 
+	]
+	},
+
+	{
+	customer_id: "1",
+	date: new Date("Apr 04, 2013"),
+	status: 'A',
+	price: 70,
+	items: [ 
+		{ sku: "iphone", qty: 5, price: 52 },
+		{ sku: "itest", qty: 2, price: 82 } 
+	]
+	}
+
+]
+)
+
+
+--------------------------------------------------------------------------------------------------------------
+PASSO 2 - Faça os seguintes exercícios
+--------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------
+2.1- Mostre a coleção toda.
+
+db.vendas.find()
+--para mostrar toda coleção de forma estruturada, usamos o comanda abaixo:
+db.vendas.find().pretty()  
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+2.2- Retorne todos os documentos que contêm vendas de 'arroz'.
+
+db.vendas.find({items: {$elemMatch: { sku:"arroz"}}})
+--------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------
+2.3- Calcule a quantidade de itens de um dado produto. O produto que você escolher deve começar com a terceira letra do seu primeiro nome.
+Para este exercício, inclui 2 novos items, iphone e itest, 3 iniciados pela terceira letra do meu nome.
+
+var mapFunc1 = function() { 
+	for (var idx = 0; idx < this.items.length; idx++) { 
+		if (this.items[idx].sku == "iphone") {  
+			var key = "iphone";    
+			var value = this.items[idx].qty;
+			emit(key, value);
+		} 
+	} 
+};
+
+var reduceFunc1 = function(keySku,  valuesQtd) { 
+	return array.sum(valuesQtd); 
+
+};
+
+db.vendas.mapReduce( mapFunc1, reduceFunc1, { out: "map_reduce_iphone"}) 
+
+db.map_reduce_iphone.find()
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+2.4- Calcule o valor total por status.
+
+var mapFunc2 = function() {
+	emit(this.status, this.price);
+}
+
+var reduceFunc2 = function() {
+	return Array.sum(values);
+}
+
+db.vendas.mapReduce( mapFunc2, reduceFunc2, { out: "map_reduce_status" })
+
+db.map_reduce_status.find()
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+2.5- Calcule o valor total por status, para valores (price) maiores que X. X = sua idade! 
+
+var mapFunc2 = function() {
+	emit(this.status, this.price);
+}
+
+var reduceFunc2 = function() {
+	return Array.sum(values);
+};
+
+db.vendas.mapReduce( mapFunc2, reduceFunc2, { out: "map_reduce_status",query: {price: {$gt:47}} })
+
+db.map_reduce_status.find()
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+2.6- Calcule o valor total das vendas.
+
+var mapFunction3 = function() {
+	emit("1", this.price);
+};
+
+var reduceFunction3 = function(keyCustId, valuesPrices) {
+	return Array.sum(valuesPrices);
+};
+
+db.vendas.mapReduce( mapFunction3, reduceFunction3, {out: {inline: 1}} )
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+2.7- Calcule o número de compras, o gasto total e a média (gasto total/número de compras) em R$ por cliente. 
+Dica: use finalize
+
+--------------------------------------------------------------------------------------------------------------
+var mapFunc3 = function() {
+	for (var idx = 0; idx < this.items.length; idx++) {
+		var key = this.items[idx].customer_id;
+		var value = { count: 1, price: this.items[idx].price};
+		emit(key, value);
+	}
+};
+
+var reduceFunc3 = function(keyCustId, countObjVals) {
+	reduceVal = {count: 0, price: 0 };
+	for (var idx = 0; idx < countObjVals.length; idx++) {
+		reduceVal.count += countObjVals[idx].count;
+		reduceVal.price += countObjVals[idx].price;
+	}
+	return reduceVal;
+};
+
+var finalizeFunc3 = function(key, reduceVal) {
+	reduceVal.avg = reduceVal.price/reduceVal.count;
+	return reduceVal;
+};
+
+db.vendas.mapReduce(mapFunc3, reduceFunc3, {
+	out: { merge: "map_reduce_example" },
+	finalize: finalizeFunc3
+})
+
+db.map_reduce_example.find();
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+2.8- Calcule o valor total por cliente, considerando o valor e a quantidade de cada um dos itens.
+
+var mapFunc8 = function() {
+	for (var idx = 0; idx < this.items.length; idx++) {
+		var key = this.items[idx].customer_id;
+		var value = { price: this.items[idx].price, qty: this.items.qty};
+		emit(key, value);
+	}
+};
+
+var reduceFunc8 = function(keyCustId, countObjVals) {
+	reduceVal = {price: 0, qty: 0 };
+	for (var idx = 0; idx < countObjVals.length; idx++) {
+		reduceVal.price += countObjVals[idx].price;
+		reduceVal.qty += countObjVals[idx].qty;
+	}
+	return reduceVal;
+};
+
+var finalizeFunc8 = function(key, reduceVal) {
+	reduceVal.mult = reduceVal.price*reduceVal.qty;
+	return reduceVal;
+};
+
+db.vendas.mapReduce(mapFunc8, reduceFunc8, {
+	out: { merge: "map_reduce_pricexqty" },
+	finalize: finalizeFunc8
+})
+
+db.map_reduce_pricexqty.find();
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+2.9- Calcule a quantidade de itens adquiridos por categoria, considerando que existam duas categorias. 
+Defina suas próprias categorias de produtos! 
+Exemplos: comestíveis, laticínios, home cinema, cozinha, eletrodomésticos, etc.
+
+var mapFunc9 = function() {
+	emit(this.category, this.qty);
+}
+
+var reduceFunc9 = function() {
+	return Array.sum(values);
+};
+
+db.vendas.mapReduce( mapFunc9, reduceFunc9, { out: "map_reduce_category",query: {category: {$eq:"alimentos"} || {$eq:"eletronicos"}} })
+
+db.map_reduce_category.find()
+--------------------------------------------------------------------------------------------------------------
+
