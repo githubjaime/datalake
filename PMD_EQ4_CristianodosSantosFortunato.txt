@@ -1,0 +1,277 @@
++------------------------------------------------+
+| UFSCar - Campus Sorocaba                       |
+| Processamento Massivo de Dados / CC-So         |
+| Tópicos em Bancos de Dados / PGCC-So           |
+| Profa. Dra. SAHUDY MONTENEGRO GONZÁLEZ         |
+|                                                |
+| Cristiano dos Santos Fortunato, Aluno Especial |
++------------------------------------------------+
+
+----------------------------------------------------------------------------------------------------------------------
+1- Crie o banco de dados (observe que dentro do tutorial a segunda instrução é a de criação dos dados - nós e arestas - do grafo)
+
+	Graph Database
+	179 nodes (2 labels)
+	258 relationships (6 Types)
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+2- Teste
+2.1 Retorne todas as pessoas do BD.
+	MATCH (varPessoas:Person)
+	RETURN varPessoas
+
+2.2 Retorne todos os filmes do BD
+	MATCH (varFilmes:Movie)
+	RETURN varFilmes
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+3 - Retorne todos os atores do BD. Retorne 10 atores
+	
+	MATCH (varAtores:Person)
+	RETURN varAtores.name
+
+	MATCH (varAtores:Person)
+	RETURN varAtores.name
+	LIMIT 10
+
+
+	Quando inclui o atributo "name", mostra em formato de lista com os nomes, e sem o atributo,  mostra em formato grafico de bolas.
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+4 - Qual a idade de Tom Hanks? Dica: ano atual = (1970+timestamp()/365*86400000))
+
+
+	MATCH (varIdadeTH:Person)
+	WHERE varIdadeTH.name = "Tom Hanks"
+	RETURN varIdadeTH.name, varIdadeTH.born, (2020 - varIdadeTH.born)	
+
+	não consegui aplicar a dica de ano atual
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+5-Quem é mais velho, Tom Hanks ou Meg Ryan? Use o CASE .... WHEN
+
+
+	MATCH (varTH:Person)-[:ACTED_IN]->()<-[:ACTED_IN]-(varMR:Person)
+	WHERE varTH.name="Tom Hanks" AND varMR.name="Meg Ryan"
+	RETURN 
+	CASE 
+		WHEN varMR.born > varTH.born 
+		THEN varTH.name
+		WHEN varMR.born < varTH.born 
+		THEN varMR.name
+	END
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+6-Quem gravou um filme primeiro, Tom Hanks ou Meg Ryan?
+
+	MATCH (varTH:Person),(varMR:Movie)
+	WHERE varTH.name = 'Tom Hanks' OR varMR.name = 'Meg Ryan'
+	CREATE (varTH)-[:ACTED_IN]->(varMR)<-[:PRODUCED]-(g)
+	RETURN  varTH.name, varMR.released, collect(DISTINCT varMR.title) AS movies ORDER BY varMR.released
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+7-Quais filmes Tom Hanks atuou e dirigiu?
+
+	MATCH (varTH:Person)-[:ACTED_IN]->(varMovie:Movie)<-[:DIRECTED]-(varTH:Person)
+	WHERE varTH.name = 'Tom Hanks'
+	RETURN  varTH.name as `Ator/Diretor`, varMovie.title as Filme	
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+
+8-Em quais filmes uma pessoa foi ator e diretor?
+
+
+	MATCH (a1:Person)-[:ACTED_IN]->(m:Movie)<-[:DIRECTED]-(a1:Person)
+	RETURN  a1.name as `Ator/Diretor`, m.title as Filme
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+9-Quais pessoas foram atores e diretores em um mesmo filme?
+
+
+	MATCH (actor:Person) -[:ACTED_IN]->(movie:Movie)<-[:DIRECTED]- (director:Person)
+	RETURN actor.name, director.name, count(movie);
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+10-Em quantos filmes Tom Hanks atuou?
+
+	MATCH (varTH:Person)-[:ACTED_IN]->(varMovie)
+	WHERE varTH.name = 'Tom Hanks'
+	RETURN varTH.name, count(varMovie)
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+11-Em quantos filmes cada ator atuou? ordene descrescente pelo número de filmes
+
+
+	MATCH (a:Person)-[:ACTED_IN]->(m)
+	RETURN a.name, count(m)
+	ORDER BY count(m) DESC
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+12-Qual a diferença de idade entre Tom Hanks e Meg Ryan?
+
+
+	MATCH (tom:Person {name:'Tom Hanks'})  -[:ACTED_IN]->(movie:Movie),  (movie)<-[:ACTED_IN]-(meg:Person {name:'Meg Ryan'})
+	RETURN DISTINCT meg.name AS Name, (tom.born - meg.born) AS diff
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+13-Acrescente o ator "Mel Gibson" com ano de nascimento 1956. faça junto com o 14.
+
+	CREATE (varMG:Person {name:'Mel Gibson', born:1956}) 
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+
+14- Acrescente o filme “What Women Want” lançado no ano 2000, e os relacionamentos dos atores Mel Gibson e Helen Hunt 
+que atuaram nesse filme como Nick Marshall e Darcy McGuire, respectivamente. Obs.: Helen Hunt já existe no grafo! Use merge.
+
+	CREATE (varMovie:Movie {title:'What Women Want', released:2000})
+	MERGE (varMovie:Movie, varPerson:Person)
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+15-Quais atores atuaram com Meg Ryan mas não atuaram com Tom Hanks?
+
+	MATCH (MR:Person {name:"Meg Ryan"})-[:ACTED_IN]->(movie), (other)-[:ACTED_IN]->(movie), (TH:Person {name:"Tom Hanks"})
+	WHERE NOT (TH)-[:ACTED_IN]->(movie)
+	RETURN DISTINCT other.name
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+
+16-Quais atores estao relacionados em até 5 passos com Tom Hanks?
+
+
+	MATCH p =(actor:Person) -[:ACTED_IN]->(movie:Movie)<-[:DIRECTED]- (actor1:Person) 
+	WHERE actor.name = 'Tom Hanks'
+	RETURN nodes(p) LIMIT 5
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+17-Qual o caminho mínimo entre Tom Hanks e Val Kilmer?
+
+
+	MATCH (TH:Person { name: 'Tom Hanks' }),(VK:Person { name: 'Val Kilmer' }), p = shortestPath((TH)-[:ACTED_IN*]-(VK))
+	RETURN p
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+18-Encontre atores e diretores que atuaram em filmes dos anos 90.
+
+	MATCH (actor:Person) -[:ACTED_IN]->(movie:Movie)<-[:DIRECTED]- (director:Person)
+	WHERE 1990 <= movie.released < 2000
+	RETURN movie.released, actor.name, director.name;
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+
+19-Encontre quantos filmes dos anos 90 tem no BD.
+
+	MATCH (varMovie:Movie)
+	WHERE 1990 <= varMovie.released < 2000
+	RETURN count(varMovie)
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+
+20-Quais atores trabalharam com Billy Crystal e Tom Hanks?
+
+
+	MATCH (BC:Person {name:"Billy Crystal"})-[:ACTED_IN]->(), (other)-[:ACTED_IN]->(), (TH:Person {name:"Tom Hanks"})
+	RETURN DISTINCT other.name
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+
+21-Remova o tor Mel Gibson e todos os seus relacionamentos
+
+
+	MATCH (m:Person {name:"Mel Gibson"}) DETACH DELETE m
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+
+22-Como obter as propriedades dos nós e arestas?
+
+
+	MATCH (p:Person)
+	RETURN properties(p)
+
+	MATCH (p) -[relatedTo]-(n)   
+	RETURN distinct type(relatedTo)
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+
+23-Propriedade que não existe para um nó:
+
+
+	MATCH (n) WHERE NOT EXISTS(n.born) RETURN n
+	MATCH (p) WHERE NOT EXISTS(p.Person) RETURN p
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+
+24- Consultar o ID criado para cada elemento (nó ou aresta):
+
+
+
+	MATCH (m: Movie {title: 'The Matrix'})
+	RETURN ID(m)
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+25- "Desafio": Como fazer para retornar no Exercício 17 apenas as pessoas (p) que compõem o caminho?  
+Como fazer para retornar no Exercício 17 apenas os relacionamentos (-[ ]-) que compõem o caminho?  
+
+
+	MATCH (varTH:Person { name: 'Tom Hanks' }),(varVK:Person { name: 'Val Kilmer' }), p = shortestPath((varTH)-[:ACTED_IN*]-(varVK))
+	RETURN p
+
+
