@@ -60,3 +60,13 @@ arquitetura orientada à dados.
 ## Conclusão ##
 
 ## Referências ##
+
+FOOTE, K. A Brief History of Data Lakes. Dataversity.net, 2018. Disponível em: <
+https://www.dataversity.net/brief-history-data-lakes/>. Acesso em: 13 de Nov. de
+2020
+
+JAMES, J. What ‘Data Never Sleeps 7.0’ Says—and Doesn’t Say. Domo.com, 2019.
+Disponível em: <https://www.domo.com/blog/what-data-never-sleeps-7-0-says-anddoesnt-
+say/>. Acesso em: 25 de Nov. de 2020.
+
+
