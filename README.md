@@ -23,8 +23,6 @@
   * [Data Lake na LGPD](#)
  * [O Datalake](#)
    * [O sucessor Data Warehouse](#)
-   * [A evolução Data Lake](#)
-   * [Diferenças entre Data Lake e Data Warehouse](#)
    * [Arquitetura de referência do Data Lake](#)
    * [Arquitetura de processamento de dados em larga escala](#)
    * [Os pilares de uma arquitetura de processamento de dados em larga escala](#)
@@ -57,6 +55,26 @@ um único local, tornando o Data Lake a peça central de infra-estrutura em uma
 arquitetura orientada à dados. Dixon (BAUM, 2020, p.3) defende que "o Data Lake é um grande corpo de
 água, no qual a água entra e sai por diversos dutos, e de onde exemplos podem ser
 retirados e analisados”
+
+### Arquitetura de referência do Data Lake
+
+O Data Lake deixa o dado disponível para ser lido, permitindo que qualquer
+pessoa com o conhecimento apropriado tenha acesso para explorar e analizar toda
+a gama de dados existente no Data Lake afim de obter informação desejada. Para
+entender como o Data Lake possibilita isso, a Figura abaixo mostra uma
+arquitetura simples dessa tecnologia, exemplificando as grandes fases do processo,
+divididos entre captura, armazenamento e entrega dos dados.
+
+
+Fonte: BAUM, 2020, p.4 - Adaptado
+Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
+dados por dia (MARR, B., 2018), que mais de 80% desses dados são de
+característica não estruturada e que tecnologias como IoT devem triplicar a
+quantidade de informações que geramos por dia, fica claro que a peça central de
+uma arquitetura orientada à dados deve ser capaz de suportar uma quantidade
+colossal de dados, sendo o Data Lake a melhor opção conhecida para ser o
+armazenamento do que conceitualmente denominamos como Big Data (DOMO,
+2017), conceito que irermos explorar no próximo capítulo.
 
 
 ## Conclusão ##
