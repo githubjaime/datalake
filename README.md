@@ -40,10 +40,23 @@
 A Governança é um tema da alta administração das empresas maduras, e na maioria das vezes é uma exigência dos acionistas, e a sua implantação tem como objetivo estratégico a obtenção de melhores resultados nos negócios, através da definição, medição e divulgação das de grandes metas da organização. 
 Podemos definir governança como um conjunto de processos e procedimentos para atingir os objetivos estratégicos de uma organização, ou também, como uma prática de planejar, controlar, medir e divulgar os resultados da estratégia das empresas.
 Deve-se implantar a governança para atingir os objetivos estratégicos de uma organização, para isso é necessário definir e acompanhar a implantação de programas alinhados a estratégia para obtenção de melhores resultados.
-Para que haja um forte engajamento das pessoas com a governança, é importante estabelecer os responsáveis para cada atividade, os fóruns para definição, estudo e de tomada de decisão.
+Para queGovIU pessoas com a governança, é importante estabelecer os responsáveis para cada atividade, os fóruns para definição, estudo e de tomada de decisão.
+
 Estrutura de Governança Corporativa
 
+<p align="center">
+  <img src="PilaresIU.png" >
+</p>
 
+<p align="center">
+  <img src="GovIU.png" >
+</p>
+
+
+
+<p align="center">
+  <img src="PilaresIU.png" >
+</p>
 ## O Data Lake 
 ### O sucessor do Data Warehouse
 
