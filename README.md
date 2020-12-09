@@ -21,7 +21,7 @@
   * [Direito a privacidade na era digital](#)
   * [Comparação entre a GDPR e a LGPD](#)
   * [Data Lake na LGPD](#)
-  [O Datalake](#)
+ * [O Datalake](#)
   * [O sucessor Data Warehouse](#)
   * [A evolução Data Lake](#)
   * [Diferenças entre Data Lake e Data Warehouse](#)
