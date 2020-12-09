@@ -76,8 +76,9 @@ entender como o Data Lake possibilita isso, a Figura abaixo mostra uma
 arquitetura simples dessa tecnologia, exemplificando as grandes fases do processo,
 divididos entre captura, armazenamento e entrega dos dados.
 
-# IMAGEM 1 - INSERIR AQUI 
-
+<p align="center">
+  <img src="IMAGEM-01.JPEG" >
+</p>
 Fonte: BAUM, 2020, p.4 - Adaptado
 
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
