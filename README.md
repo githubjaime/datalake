@@ -15,7 +15,7 @@
   * [Como promover a Governança em um Data Lake](#)
   * [Definição do comitê Gestor](#)
   * [Política de acesso a dados](#)
-  * [Captação, transformação e expurgo dos dados](#)* 
+  * [Captação, transformação e expurgo dos dados](#)
 * [LGPD](#)
   * [O que norteia a LGPD](#)
   * [Direito a privacidade na era digital](#)
