@@ -68,6 +68,23 @@ divididos entre captura, armazenamento e entrega dos dados.
 
 ### Os pilares de uma arquitetura de processamento de dados em larga escala
 
+Independente da arquitetura a ser implementada para Big Data, o ideal é
+que os componentes sejam desacoplados entre si, trazendo benefícios como
+facilidade de manutenção, melhoria de custos, velocidade para escalar o ambiente e
+muitos outros. Sendo assim, é interessante enxergar a arquitetura de dados como
+grandes pilares, conforme descrito na Figura a seguir.
+
+
+Fonte: SNIVELY, 2018, slide 9
+
+De forma direta, os dados são coletados pela plataforma de diversas
+origens, em seguida são armazenados para que sejam acessados quando
+necessário. O próximo passo é processar os dados com o objetivo de extrair
+informações relavantes e analizar os casos em que essas informações são
+aplicáveis. Em seguida essas informações ficam disponíveis para serem acessadas
+e interpretadas por áreas de negócio ou analistas que tomam decisões baseadas
+nessas informações.
+
 ### Arquitetura de Big Data
 
 
@@ -145,4 +162,10 @@ MARR, B. How Much Data Do We Create Every Day? The Mind-Blowing Stats
 Everyone Should Read. Forbes.com, 2018. Disponível em:
 <https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-wecreate-
 every-day-the-mind-blowing-stats-everyone-should-read/#23cc78e60ba9>. Acesso em: 18 de Nov. de 2019.
+
+SNIVELY, B. Big Data Analytics Architectural Patterns and Best Practices.
+Slideshare.net, 2018. Disponível em: <
+https://pt.slideshare.net/AmazonWebServices/big-data-analytics-architecturalpatterns-
+and-best-practices-ant201r1-aws-reinvent-2018>. Acesso em: 20 de Nov. de
+2020.
 
