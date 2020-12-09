@@ -64,6 +64,18 @@ entender como o Data Lake possibilita isso, a Figura abaixo mostra uma
 arquitetura simples dessa tecnologia, exemplificando as grandes fases do processo,
 divididos entre captura, armazenamento e entrega dos dados.
 
+
+Fonte: BAUM, 2020, p.4 - Adaptado
+
+Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
+dados por dia (MARR, B., 2018), que mais de 80% desses dados são de
+característica não estruturada e que tecnologias como IoT devem triplicar a
+quantidade de informações que geramos por dia, fica claro que a peça central de
+uma arquitetura orientada à dados deve ser capaz de suportar uma quantidade
+colossal de dados, sendo o Data Lake a melhor opção conhecida para ser o
+armazenamento do que conceitualmente denominamos como Big Data (DOMO,
+2017), conceito que irermos explorar no próximo capítulo.
+
 ### Arquitetura de processamento de dados em larga escala
 
 De acordo com AKHATAR (2018, Cap.1), a definição de Big Data são “dados
@@ -263,6 +275,10 @@ MARR, B. How Much Data Do We Create Every Day? The Mind-Blowing Stats
 Everyone Should Read. Forbes.com, 2018. Disponível em:
 <https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-wecreate-
 every-day-the-mind-blowing-stats-everyone-should-read/#23cc78e60ba9>. Acesso em: 18 de Nov. de 2019.
+
+MICROSOFT. Estilo de Arquitetura de Big Data. Microsoft.com, 2019. Disponível em:
+<https://docs.microsoft.com/pt-br/azure/architecture/guide/architecture-styles/bigdata>.
+Acesso em: 18 de Nov. de 2020.
 
 SNIVELY, B. Big Data Analytics Architectural Patterns and Best Practices.
 Slideshare.net, 2018. Disponível em: <
