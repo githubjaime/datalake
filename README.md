@@ -122,7 +122,7 @@ absorver volumes gigantescos de dados é uma característica imperativa nos
 processos de análise de dados atuais e futuros.
 
 . Velocidade: O segundo V faz alusão à velocidade em que os dados são
-gerados ou inseridos em uma plataforma de Big Data. Na Figura 5, podemos ver
+gerados ou inseridos em uma plataforma de Big Data. Na Figura a seguir, podemos ver
 que, na média, em apenas 60 segundos do ano de 2019, foram enviados 18.100.000
 mensagens de texto entre celulares e 4.497.420 de buscas foram realizadas no
 Google, tudo isso alimentando em tempo real os sistemas de dados das empresas
