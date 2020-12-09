@@ -21,7 +21,7 @@
   * [Data Lake na LGPD](#)
  * [O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-o-data-lake)
    * [O sucessor do Data Warehouse](https://github.com/elainefabiola/datalake/blob/main/README.md#o-sucessor-do-data-warehouse)
-   * [Arquitetura de referência do Data Lake](#section)
+   * [Arquitetura de referência do Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#-arquitetura-de-refer%C3%AAncia)
    * [Arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#arquitetura-de-processamento-de-dados-em-larga-escala)
    * [Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#arquitetura-de-big-data)
