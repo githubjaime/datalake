@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="Data-Lake-1024x541.png" width="800">
 </p>
@@ -21,7 +19,7 @@
   * [Direito a privacidade na era digital](#)
   * [Comparação entre a GDPR e a LGPD](#)
   * [Data Lake na LGPD](#)
- * [O Datalake](##sectionJ1)
+ * [O Datalake](#sectionJ1)
    * [O sucessor do Data Warehouse](#)
    * [Arquitetura de referência do Data Lake](#)
    * [Arquitetura de processamento de dados em larga escala](#)
