@@ -78,8 +78,8 @@ divididos entre captura, armazenamento e entrega dos dados.
 
 <p align="center">
   <img src="IMAGEM-01.jpg" >
+  Fonte: BAUM, 2020, p.4 - Adaptado
 </p>
-Fonte: BAUM, 2020, p.4 - Adaptado
 
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
 dados por dia (MARR, B., 2018), que mais de 80% desses dados são de
@@ -124,9 +124,8 @@ um centro urbano com uma determinada condição climática.
 
 <p align="center">
   <img src="IMAGEM-02.jpg" >
+  Fonte: JAMES, 2019
 </p>
-Fonte: JAMES, 2019
-
 
 Além dos 3 V’s existem vertentes conceituais que querem transformar em 8
 V’s, adicionando muitas outras características, porém os conceitos mais amplamente
