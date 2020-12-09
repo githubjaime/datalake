@@ -67,6 +67,7 @@ divididos entre captura, armazenamento e entrega dos dados.
 
 
 Fonte: BAUM, 2020, p.4 - Adaptado
+
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
 dados por dia (MARR, B., 2018), que mais de 80% desses dados são de
 característica não estruturada e que tecnologias como IoT devem triplicar a
@@ -84,6 +85,10 @@ armazenamento do que conceitualmente denominamos como Big Data (DOMO,
 BAUM, D. Cloud Data Lakes for Dummies. Edição Especial. New Jersey: Snowflake.
 2020.
 
+DOMO, Data Never Sleeps 5.0, Domo.com, 2017. Disponível em:
+<https://www.domo.com/learn/data-never-sleeps-
+5?aid=ogsm072517_1&sf100871281=1>. Acesso em: 25 de Nov. de 2020.
+
 FOOTE, K. A Brief History of Data Lakes. Dataversity.net, 2018. Disponível em: <
 https://www.dataversity.net/brief-history-data-lakes/>. Acesso em: 13 de Nov. de
 2020
@@ -92,4 +97,8 @@ JAMES, J. What ‘Data Never Sleeps 7.0’ Says—and Doesn’t Say. Domo.com, 2
 Disponível em: <https://www.domo.com/blog/what-data-never-sleeps-7-0-says-anddoesnt-
 say/>. Acesso em: 25 de Nov. de 2020.
 
+MARR, B. How Much Data Do We Create Every Day? The Mind-Blowing Stats
+Everyone Should Read. Forbes.com, 2018. Disponível em:
+<https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-wecreate-
+every-day-the-mind-blowing-stats-everyone-should-read/#23cc78e60ba9>. Acesso em: 18 de Dez. de 2019.
 
