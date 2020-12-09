@@ -45,3 +45,7 @@ Podemos definir governança como um conjunto de processos e procedimentos para a
 Deve-se implantar a governança para atingir os objetivos estratégicos de uma organização, para isso é necessário definir e acompanhar a implantação de programas alinhados a estratégia para obtenção de melhores resultados.
 Para que haja um forte engajamento das pessoas com a governança, é importante estabelecer os responsáveis para cada atividade, os fóruns para definição, estudo e de tomada de decisão.
 Estrutura de Governança Corporativa
+
+
+##Conclusão##
+##Referências##
