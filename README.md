@@ -21,7 +21,7 @@
   * [Data Lake na LGPD](#)
  * [O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-o-data-lake)
    * [O sucessor do Data Warehouse](https://github.com/elainefabiola/datalake/blob/main/README.md#o-sucessor-do-data-warehouse)
-   * [Arquitetura de referência do Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#arquitetura-de-referência-do-data-lake)
+   * [Arquitetura de referência do Data Lake](#section)
    * [Arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#arquitetura-de-processamento-de-dados-em-larga-escala)
    * [Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#arquitetura-de-big-data)
@@ -77,7 +77,7 @@ arquitetura orientada à dados. Dixon (BAUM, 2020, p.3) defende que "o Data Lake
 água, no qual a água entra e sai por diversos dutos, e de onde exemplos podem ser
 retirados e analisados”
 
-### Arquitetura de Referência
+### <a name=“section”><a/> Arquitetura de Referência
 
 O Data Lake deixa o dado disponível para ser lido, permitindo que qualquer
 pessoa com o conhecimento apropriado tenha acesso para explorar e analizar toda
