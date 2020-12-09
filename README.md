@@ -21,7 +21,6 @@
   * [Direito a privacidade na era digital](#)
   * [Comparação entre a GDPR e a LGPD](#)
   * [Data Lake na LGPD](#)
-  
  * [O Datalake](#)
   * [O sucessor Data Warehouse](#)
   * [A evolução Data Lake](#)
@@ -32,6 +31,5 @@
   * [Arquitetura de Big Data](#)
   * [Perfis Profissional](#)
   * [Cultura Data Driven](#)
-  
 * [Conclusão](#)
 * [Referências](#)
