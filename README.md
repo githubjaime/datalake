@@ -78,7 +78,9 @@ divididos entre captura, armazenamento e entrega dos dados.
 
 <p align="center">
   <img src="IMAGEM-01.jpg" >
+  <br />
   Fonte: BAUM, 2020, p.4 - Adaptado
+  <br />
 </p>
 
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
@@ -124,7 +126,9 @@ um centro urbano com uma determinada condição climática.
 
 <p align="center">
   <img src="IMAGEM-02.jpg" >
+  <br />
   Fonte: JAMES, 2019
+  <br />
 </p>
 
 Além dos 3 V’s existem vertentes conceituais que querem transformar em 8
