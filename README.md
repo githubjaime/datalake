@@ -122,8 +122,9 @@ possível cruzar informações de diversas características, como por exemplo o 
 de uma pessoa solicitando um motorista, dependendo da sua localização dentro de
 um centro urbano com uma determinada condição climática.
 
-# IMAGEM 2 - INSERIR AQUI 
-
+<p align="center">
+  <img src="IMAGEM-02.jpg" >
+</p>
 Fonte: JAMES, 2019
 
 Além dos 3 V’s existem vertentes conceituais que querem transformar em 8
@@ -147,8 +148,9 @@ facilidade de manutenção, melhoria de custos, velocidade para escalar o ambien
 muitos outros. Sendo assim, é interessante enxergar a arquitetura de dados como
 grandes pilares, conforme descrito na Figura a seguir.
 
-# IMAGEM 3 - INSERIR AQUI 
-
+<p align="center">
+  <img src="IMAGEM-03.jpg" >
+</p>
 Fonte: SNIVELY, 2018, slide 9
 
 De forma direta, os dados são coletados pela plataforma de diversas
@@ -167,8 +169,9 @@ que comporte as necessidades descritas anteriormente, sendo assim, a Figura a se
 descreve uma arquitetura genérica de referência para ser utilizada em ambientes de
 Big Data bem como a descrição de cada componente.
 
-# IMAGEM 4 - INSERIR AQUI 
-
+<p align="center">
+  <img src="IMAGEM-04.jpg" >
+</p>
 Fonte: MICROSOFT, 2019
 
 . Origem de dados: Nada mais é do que a origem dos diversos dados que
