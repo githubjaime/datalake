@@ -64,6 +64,7 @@ entender como o Data Lake possibilita isso, a Figura abaixo mostra uma
 arquitetura simples dessa tecnologia, exemplificando as grandes fases do processo,
 divididos entre captura, armazenamento e entrega dos dados.
 
+# IMAGEM 1 - INSERIR AQUI 
 
 Fonte: BAUM, 2020, p.4 - Adaptado
 
@@ -108,6 +109,8 @@ possível cruzar informações de diversas características, como por exemplo o 
 de uma pessoa solicitando um motorista, dependendo da sua localização dentro de
 um centro urbano com uma determinada condição climática.
 
+# IMAGEM 2 - INSERIR AQUI 
+
 Fonte: JAMES, 2019
 
 Além dos 3 V’s existem vertentes conceituais que querem transformar em 8
@@ -131,6 +134,8 @@ facilidade de manutenção, melhoria de custos, velocidade para escalar o ambien
 muitos outros. Sendo assim, é interessante enxergar a arquitetura de dados como
 grandes pilares, conforme descrito na Figura a seguir.
 
+# IMAGEM 3 - INSERIR AQUI 
+
 Fonte: SNIVELY, 2018, slide 9
 
 De forma direta, os dados são coletados pela plataforma de diversas
@@ -148,6 +153,8 @@ capacidades citadas, é importante que se tenha uma arquitetura de componentes
 que comporte as necessidades descritas anteriormente, sendo assim, a Figura a seguir
 descreve uma arquitetura genérica de referência para ser utilizada em ambientes de
 Big Data bem como a descrição de cada componente.
+
+# IMAGEM 4 - INSERIR AQUI 
 
 Fonte: MICROSOFT, 2019
 
