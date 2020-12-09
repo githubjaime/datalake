@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="Data-Lake-1024x541.png" width="600">
+  <img src="Data-Lake-1024x541.png" width="800">
 </p>
 
 # PROJETO PRÁTICO - DATA LAKE
