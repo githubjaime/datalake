@@ -259,9 +259,7 @@ quantidade e diversidade gigantesca de dados que precisam ser armazenados,
 processados e interpretados para que uma decisão seja tomada, seja esta decisão
 feita por um ser humano entendendo e avaliando a predisposição de um paciente
 para uma doença, ou um algoritmo, recomendando um filme para você assistir onde
-quiser.
-
-Além das empresas que possuem na informação seu principal negócio,
+quiser. Além das empresas que possuem na informação seu principal negócio,
 existe um conceito que vem ganhando força dia após dia que é a cultura de gestão
 baseada em dados. Este modelo de gestão exclui a subjetividade do processo de
 tomada de decisão e traz benefícios como visão clara das métricas da empresa,
