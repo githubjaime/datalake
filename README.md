@@ -78,9 +78,21 @@ armazenamento do que conceitualmente denominamos como Big Data (DOMO,
 2017), conceito que irermos explorar no próximo capítulo.
 
 
+### Arquitetura de processamento de dados em larga escala
+
+De acordo com AKHATAR (2018, Cap.1), a definição de Big Data são “dados
+massivos em volume, com relação ao sistema de processamento, com uma
+variedade de dados estruturados e não estruturados quem contêm diferentes
+padrões de dados a serem analisados”.
+
+
+
 ## Conclusão ##
 
 ## Referências ##
+
+AKHATAR, S. Big Data Architect’s Handbook: A guide to biulding proficiency in tools
+systems used by leading big data experts. Birminghan: Packt, 2018.
 
 BAUM, D. Cloud Data Lakes for Dummies. Edição Especial. New Jersey: Snowflake.
 2020.
