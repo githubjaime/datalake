@@ -19,7 +19,7 @@
   * [Direito a privacidade na era digital](#)
   * [Comparação entre a GDPR e a LGPD](#)
   * [Data Lake na LGPD](#)
- * [O Datalake](#sectionJ1)
+ * [O Datalake](#sectionj1)
    * [O sucessor do Data Warehouse](#)
    * [Arquitetura de referência do Data Lake](#)
    * [Arquitetura de processamento de dados em larga escala](#)
@@ -66,7 +66,7 @@ Prestação de contas (accountability) – Os agentes de governança devem prest
 Responsabilidade corporativa – Os agentes de governança devem zelar pela viabilidade econômico-financeira das organizações, reduzir as externalidades negativas de seus negócios e suas operações e aumentar as positivas, levando em consideração, no seu modelo de negócios, os diversos capitais (financeiro, manufaturado, intelectual, humano, social, ambiental, reputacional, etc.) no curto, médio e longo prazos.
 Fonte: IBGC, 2020
 
-## <a name=“sectionJ1”><a/> O Data Lake 
+## <a name=“sectionj1”><a/> O Data Lake 
 ### O sucessor do Data Warehouse
 
 Por conta dessa necessidade, em 2010 James Dixon cunhou o termo Data
