@@ -47,6 +47,16 @@ Para que haja um forte engajamento das pessoas com a governança, é importante 
 Estrutura de Governança Corporativa
 
 
+## O Data Lake 
+### O sucessor Data Warehouse
+
+Por conta dessa necessidade, em 2010 James Dixon cunhou o termo Data
+Lake (FOOTE, K. 2018), descrevendo uma arquitetura híbrida para armazenamento
+massivo de informações em qualquer formato, incluindo dados não estruturados, em
+um único local, tornando o Data Lake a peça central de infra-estrutura em uma
+arquitetura orientada à dados.
+
+
 ## Conclusão ##
 
 ## Referências ##
