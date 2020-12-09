@@ -127,6 +127,7 @@ um centro urbano com uma determinada condição climática.
 </p>
 Fonte: JAMES, 2019
 
+
 Além dos 3 V’s existem vertentes conceituais que querem transformar em 8
 V’s, adicionando muitas outras características, porém os conceitos mais amplamente
 aceitos são Veracidade e Valor, criando 5 Vs, sendo assim:
@@ -153,6 +154,7 @@ grandes pilares, conforme descrito na Figura a seguir.
 </p>
 Fonte: SNIVELY, 2018, slide 9
 
+
 De forma direta, os dados são coletados pela plataforma de diversas
 origens, em seguida são armazenados para que sejam acessados quando
 necessário. O próximo passo é processar os dados com o objetivo de extrair
@@ -173,6 +175,7 @@ Big Data bem como a descrição de cada componente.
   <img src="IMAGEM-04.jpg" >
 </p>
 Fonte: MICROSOFT, 2019
+
 
 . Origem de dados: Nada mais é do que a origem dos diversos dados que
 comporão a plataforma de Big Data e, levando em conta o conceito de Data Lake, a
