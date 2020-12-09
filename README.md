@@ -125,7 +125,7 @@ de uma pessoa solicitando um motorista, dependendo da sua localização dentro d
 um centro urbano com uma determinada condição climática.
 
 <p align="center">
-  <img src="IMAGEM-02.jpg" width="48">
+  <img src="IMAGEM-02.jpg" width="600">
   <br />
   Fonte: JAMES, 2019
   <br />
