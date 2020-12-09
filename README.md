@@ -27,7 +27,6 @@
    * [Arquitetura de processamento de dados em larga escala](#)
    * [Os pilares de uma arquitetura de processamento de dados em larga escala](#)
    * [Arquitetura de Big Data](#)
-   * [Perfis Profissional](#)
    * [Cultura Data Driven](#)
 * [Conclusão](#)
 * [Referências](#)
@@ -38,13 +37,11 @@
 
 **Governança Corporativa**
 
-Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas, (Instituto Brasileiro de Governança Corporativa –IBGC–, 2020), ainda segundo o IBGC,2020, as boas práticas de governança corporativa convertem princípios básicos em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econômico de longo prazo da organização, facilitando seu acesso a recursos e contribuindo para a qualidade da gestão da organização, sua longevidade e o bem comum.
-
-Orgarnograma de da gorvernança corporativa do Itaú Unibanco Participações -IUPAR-, 2020.
-
-<p align="center">
-  <img src="iupar.png" >
-</p>
+A Governança é um tema da alta administração das empresas maduras, e na maioria das vezes é uma exigência dos acionistas, e a sua implantação tem como objetivo estratégico a obtenção de melhores resultados nos negócios, através da definição, medição e divulgação das de grandes metas da organização. 
+Podemos definir governança como um conjunto de processos e procedimentos para atingir os objetivos estratégicos de uma organização, ou também, como uma prática de planejar, controlar, medir e divulgar os resultados da estratégia das empresas.
+Deve-se implantar a governança para atingir os objetivos estratégicos de uma organização, para isso é necessário definir e acompanhar a implantação de programas alinhados a estratégia para obtenção de melhores resultados.
+Para que haja um forte engajamento das pessoas com a governança, é importante estabelecer os responsáveis para cada atividade, os fóruns para definição, estudo e de tomada de decisão.
+Estrutura de Governança Corporativa
 
 
 ## O Data Lake 
@@ -67,6 +64,28 @@ entender como o Data Lake possibilita isso, a Figura abaixo mostra uma
 arquitetura simples dessa tecnologia, exemplificando as grandes fases do processo,
 divididos entre captura, armazenamento e entrega dos dados.
 
+
+### Cultura Data Driven
+
+Perceba que os modelos de negócios citados acima não existiriam sem a
+disciplina de análise de dados pois exigem inúmeros tipos de dados sendo eles
+estruturados, não estruturados, dados em tempo real, dados históricos, enfim, uma
+quantidade e diversidade gigantesca de dados que precisam ser armazenados,
+processados e interpretados para que uma decisão seja tomada, seja esta decisão
+feita por um ser humano entendendo e avaliando a predisposição de um paciente
+para uma doença, ou um algoritmo, recomendando um filme para você assistir onde
+quiser.
+Além das empresas que possuem na informação seu principal negócio,
+existe um conceito que vem ganhando força dia após dia que é a cultura de gestão
+baseada em dados. Este modelo de gestão exclui a subjetividade do processo de
+tomada de decisão e traz benefícios como visão clara das métricas da empresa,
+aumento da produtividade e consequentemente dos lucros, antecipação de
+possíveis falhas e problemas e velocidade na tomada de decisões. Todos esses
+benefícios são alcançados com dados coletados ao longo dos processos já
+existentes e precisam ser trabalhados para que se extraiam as informações que tem
+valor para a empresa. Conceitos como o “DataOps Manifesto” direcionam os
+princípios e boas práticas a serem seguidas por todos aqueles que desejam
+implementar uma cultura de dados (DATAOPS MANIFESTO, 2019).
 
 Fonte: BAUM, 2020, p.4 - Adaptado
 
@@ -99,6 +118,9 @@ systems used by leading big data experts. Birminghan: Packt, 2018.
 BAUM, D. Cloud Data Lakes for Dummies. Edição Especial. New Jersey: Snowflake.
 2020.
 
+DATAOPS MANIFESTO, DataOps Manifesto.org, 2019 Disponível em: <
+https://www.dataopsmanifesto.org/>. Acesso em: 25 de Nov. de 2020.
+
 DOMO, Data Never Sleeps 5.0, Domo.com, 2017. Disponível em:
 <https://www.domo.com/learn/data-never-sleeps-
 5?aid=ogsm072517_1&sf100871281=1>. Acesso em: 25 de Nov. de 2020.
@@ -114,5 +136,5 @@ say/>. Acesso em: 25 de Nov. de 2020.
 MARR, B. How Much Data Do We Create Every Day? The Mind-Blowing Stats
 Everyone Should Read. Forbes.com, 2018. Disponível em:
 <https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-wecreate-
-every-day-the-mind-blowing-stats-everyone-should-read/#23cc78e60ba9>. Acesso em: 18 de Dez. de 2019.
+every-day-the-mind-blowing-stats-everyone-should-read/#23cc78e60ba9>. Acesso em: 18 de Nov. de 2019.
 
