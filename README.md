@@ -22,7 +22,7 @@
   * [Comparação entre a GDPR e a LGPD](#)
   * [Data Lake na LGPD](#)
  * [O Datalake](#)
-   * [O sucessor Data Warehouse](#)
+   * [O sucessor do Data Warehouse](#)
    * [Arquitetura de referência do Data Lake](#)
    * [Arquitetura de processamento de dados em larga escala](#)
    * [Os pilares de uma arquitetura de processamento de dados em larga escala](#)
@@ -45,7 +45,7 @@ Estrutura de Governança Corporativa
 
 
 ## O Data Lake 
-### O sucessor Data Warehouse
+### O sucessor do Data Warehouse
 
 Por conta dessa necessidade, em 2010 James Dixon cunhou o termo Data
 Lake (FOOTE, K. 2018), descrevendo uma arquitetura híbrida para armazenamento
@@ -55,7 +55,7 @@ arquitetura orientada à dados. Dixon (BAUM, 2020, p.3) defende que "o Data Lake
 água, no qual a água entra e sai por diversos dutos, e de onde exemplos podem ser
 retirados e analisados”
 
-### Arquitetura de referência do Data Lake
+### Arquitetura de Referência
 
 O Data Lake deixa o dado disponível para ser lido, permitindo que qualquer
 pessoa com o conhecimento apropriado tenha acesso para explorar e analizar toda
@@ -63,6 +63,14 @@ a gama de dados existente no Data Lake afim de obter informação desejada. Para
 entender como o Data Lake possibilita isso, a Figura abaixo mostra uma
 arquitetura simples dessa tecnologia, exemplificando as grandes fases do processo,
 divididos entre captura, armazenamento e entrega dos dados.
+
+### Arquitetura de processamento de dados em larga escala
+
+### Os pilares de uma arquitetura de processamento de dados em larga escala
+
+### Arquitetura de Big Data
+
+
 
 
 ### Cultura Data Driven
