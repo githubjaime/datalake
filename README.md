@@ -239,18 +239,6 @@ valor para a empresa. Conceitos como o “DataOps Manifesto” direcionam os
 princípios e boas práticas a serem seguidas por todos aqueles que desejam
 implementar uma cultura de dados (DATAOPS MANIFESTO, 2019).
 
-Fonte: BAUM, 2020, p.4 - Adaptado
-
-Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
-dados por dia (MARR, B., 2018), que mais de 80% desses dados são de
-característica não estruturada e que tecnologias como IoT devem triplicar a
-quantidade de informações que geramos por dia, fica claro que a peça central de
-uma arquitetura orientada à dados deve ser capaz de suportar uma quantidade
-colossal de dados, sendo o Data Lake a melhor opção conhecida para ser o
-armazenamento do que conceitualmente denominamos como Big Data (DOMO,
-2017), conceito que irermos explorar no próximo capítulo.
-
-
 
 
 ## Conclusão ##
