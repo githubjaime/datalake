@@ -154,9 +154,10 @@ grandes pilares, conforme descrito na Figura a seguir.
 
 <p align="center">
   <img src="IMAGEM-03.jpg" >
+  <br />
+  Fonte: SNIVELY, 2018, slide 9  
+  <br />
 </p>
-Fonte: SNIVELY, 2018, slide 9
-
 
 De forma direta, os dados são coletados pela plataforma de diversas
 origens, em seguida são armazenados para que sejam acessados quando
@@ -176,9 +177,10 @@ Big Data bem como a descrição de cada componente.
 
 <p align="center">
   <img src="IMAGEM-04.jpg" >
+  <br />
+  Fonte: MICROSOFT, 2019  
+  <br />
 </p>
-Fonte: MICROSOFT, 2019
-
 
 . Origem de dados: Nada mais é do que a origem dos diversos dados que
 comporão a plataforma de Big Data e, levando em conta o conceito de Data Lake, a
