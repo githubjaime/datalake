@@ -40,23 +40,10 @@
 A Governança é um tema da alta administração das empresas maduras, e na maioria das vezes é uma exigência dos acionistas, e a sua implantação tem como objetivo estratégico a obtenção de melhores resultados nos negócios, através da definição, medição e divulgação das de grandes metas da organização. 
 Podemos definir governança como um conjunto de processos e procedimentos para atingir os objetivos estratégicos de uma organização, ou também, como uma prática de planejar, controlar, medir e divulgar os resultados da estratégia das empresas.
 Deve-se implantar a governança para atingir os objetivos estratégicos de uma organização, para isso é necessário definir e acompanhar a implantação de programas alinhados a estratégia para obtenção de melhores resultados.
-Para queGovIU pessoas com a governança, é importante estabelecer os responsáveis para cada atividade, os fóruns para definição, estudo e de tomada de decisão.
-
+Para que haja um forte engajamento das pessoas com a governança, é importante estabelecer os responsáveis para cada atividade, os fóruns para definição, estudo e de tomada de decisão.
 Estrutura de Governança Corporativa
 
-<p align="center">
-  <img src="PilaresGovIU.jpg" >
-</p>
 
-<p align="center">
-  <img src="GovIU.png" >
-</p>
-
-
-
-<p align="center">
-  <img src="PilaresIU.png" >
-</p>
 ## O Data Lake 
 ### O sucessor do Data Warehouse
 
@@ -79,6 +66,46 @@ divididos entre captura, armazenamento e entrega dos dados.
 
 ### Arquitetura de processamento de dados em larga escala
 
+De acordo com AKHATAR (2018, Cap.1), a definição de Big Data são “dados
+massivos em volume, com relação ao sistema de processamento, com uma
+variedade de dados estruturados e não estruturados quem contêm diferentes
+padrões de dados a serem analisados”.
+
+Além do conceito supracitado, alguns especialistas defendem que para um
+sistema ser considerado um Big Data, ele deve conter 3 características principais, os
+3 V’s do Big Data, são eles:
+. Volume: Talvez o mais obvio dos 3 V's, fazendo referência ao “big” no
+termo Big Data, volume é uma caraterística direta do termo em questão. Como a
+quantidade de dados crescendo na velocidade já citada, ter a capacidade de
+absorver volumes gigantescos de dados é uma característica imperativa nos
+processos de análise de dados atuais e futuros.
+. Velocidade: O segundo V faz alusão à velocidade em que os dados são
+gerados ou inseridos em uma plataforma de Big Data. Na Figura 5, podemos ver
+que, na média, em apenas 60 segundos do ano de 2019, foram enviados 18.100.000
+mensagens de texto entre celulares e 4.497.420 de buscas foram realizadas no
+Google, tudo isso alimentando em tempo real os sistemas de dados das empresas
+que prestam esses serviços.
+. Variedade: Por variedade podemos entender os diferentes tipos de dados
+processados numa plataforma de Big Data, sejam esses estruturados ou não
+estruturados, sendo que o Big Data conseguiu transformar a realidade de um
+universo primordialmente de dados estruturados em bacos relacionais. Hoje é
+possível cruzar informações de diversas características, como por exemplo o perfil
+de uma pessoa solicitando um motorista, dependendo da sua localização dentro de
+um centro urbano com uma determinada condição climática.
+
+Fonte: JAMES, 2019
+Além dos 3 V’s existem vertentes conceituais que querem transformar em 8
+V’s, adicionando muitas outras características, porém os conceitos mais amplamente
+aceitos são Veracidade e Valor, criando 5 Vs, sendo assim:
+. Veracidade: Levando em conta que nem todo dado é relevante para a
+análise em questão a acurácia do dado é importante para o sistema de Big Data como 
+um todo para trazer valor à análise, dessa forma, quanto maior a acurácia do
+dado, melhor é qualidade de informação final.
+. Valor: Se considerarmos que o objetivo do Big Data é entregar informação
+que gere conhecimento para o negócio, nada mais significativo do que valor como
+requisito a ser incluído na arquitetura.
+
+
 ### Os pilares de uma arquitetura de processamento de dados em larga escala
 
 Independente da arquitetura a ser implementada para Big Data, o ideal é
@@ -86,7 +113,6 @@ que os componentes sejam desacoplados entre si, trazendo benefícios como
 facilidade de manutenção, melhoria de custos, velocidade para escalar o ambiente e
 muitos outros. Sendo assim, é interessante enxergar a arquitetura de dados como
 grandes pilares, conforme descrito na Figura a seguir.
-
 
 Fonte: SNIVELY, 2018, slide 9
 
@@ -100,8 +126,63 @@ nessas informações.
 
 ### Arquitetura de Big Data
 
+Para que uma estrutura de Big Dara entregue o valor descrito com as
+capacidades citadas, é importante que se tenha uma arquitetura de componentes
+que comporte as necessidades descritas anteriormente, sendo assim, a Figura a seguir
+descreve uma arquitetura genérica de referência para ser utilizada em ambientes de
+Big Data bem como a descrição de cada componente.
 
-
+Fonte: MICROSOFT, 2019
+. Origem de dados: Nada mais é do que a origem dos diversos dados que
+comporão a plataforma de Big Data e, levando em conta o conceito de Data Lake, a
+origem de dados pode ser virtualmente qualquer dado de qualquer característica
+(estruturado ou não). Desde arquivos de logs ou transcrições de um telefonema,
+passando por tabelas vindas do ERP ou planilhas alimentadas por prestadores de
+serviços.
+. Armazenamento de dados: É o repositório de todo o Big Data, uma
+estrutura de Data Lake com capacidade de armazenar grandes volumes de dados e
+escalar conforme o crescimento do ambiente.
+. Ingestão de mensagens em tempo real: Esse é um componente que
+depende do objetivo da estrutura de Big Data e deve ser usado quando existe a
+necessidade de consumir e processar dados em tempo real. De forma genérica, as
+mensagens são recebidas pela estrutura e armazenadas temporariamente antes de
+serem inseridas no sistema de Big Data. Essa abordagem é útil pois pode funcionar
+como um cache de informações, guardando dados, sem correr o risco de prejudicar
+a capacidade do Data Lake de receber os dados em tempo real. Arquiteturas que
+dependem de sensores de IoT, dados de trânsito e muitos outros fazem uso dessa
+abordagem.
+. Processamento em lote: Este componente remonta da mesma estratégia
+utilizada em ETLs (do inglês Extract, Transform and Load) convencionais, onde
+grandes quantidades de dados de demandam muito tempo de processamento. Em
+geral, neste passo, utilizam-se abordagens mais inovativas como MapReduce, onde
+o objetivo é executar algoritmos que, paralelamente mapeam as entradas dos dados
+com o uso de dicionários de palavras e clusterizam esses dados, agregando em
+formatos mais simples e compartimentados que são a entrada para componentes
+seguintes da arquitetura.
+. Processamento de stream (fluxo): Stream é um mecanismo de entrada
+pervasivo que aceita qualquer tipo de mensagem que vêm do componente
+responsável por executar a ingestão de dados em tempo real, por conta disso, é
+necessário fazer uma sanitização básica dos dados recebidos. Independente da
+qualidade, neste passo aplicam-se filtros e agregação de dados para que os
+mesmos sejam persistidos com mais qualidade no componente seguinte.
+. Armazenamento de dados analíticos: Uma vez com os dados
+processados, é comum que o destino final dos dados processados sejam bancos de
+dados, na sua maioria, em modelos não relacionais como bancos NoSQL de
+documentos ou relacionais, como Data Warehouse. Isso acontece porque a maioria 
+das ferramentas de análise de dados são preparadas para fazer interfaces com
+esses bancos de dados.
+. Análise e relatórios: Como dito anteriormente, o grande objetivo de
+soluções de Big Data é preparar o dado bruto para ser analisado e, para isso, a
+solução faz toda a preparação e processamento do dado e o transforma em dado
+estruturado num modelo analítico para que então um profissional capacitado possa
+extrair informação de qualidade sobre aqueles dados. É comum que os profissionais
+de análise façam uso de ferramentas de modelagem e visualização de dados para
+que encontrem a melhor informação possível para tomar decisões.
+. Orquestração: Em geral, soluções de Big Data fazem processamentos
+repetidos, conhecidos como fluxo de trabalho. Como exemplo prático podemos citar
+transformação de dados de entrada, carregamento de sistemas, inserção em
+sistemas ou tabelas, enfim, processos interdependentes que dependente de um
+componente de orquestração para serem executados.
 
 ### Cultura Data Driven
 
@@ -136,13 +217,6 @@ colossal de dados, sendo o Data Lake a melhor opção conhecida para ser o
 armazenamento do que conceitualmente denominamos como Big Data (DOMO,
 2017), conceito que irermos explorar no próximo capítulo.
 
-
-### Arquitetura de processamento de dados em larga escala
-
-De acordo com AKHATAR (2018, Cap.1), a definição de Big Data são “dados
-massivos em volume, com relação ao sistema de processamento, com uma
-variedade de dados estruturados e não estruturados quem contêm diferentes
-padrões de dados a serem analisados”.
 
 
 
