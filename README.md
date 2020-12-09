@@ -45,7 +45,7 @@ Para queGovIU pessoas com a governança, é importante estabelecer os responsáv
 Estrutura de Governança Corporativa
 
 <p align="center">
-  <img src="PilaresIU.png" >
+  <img src="PilaresGovIU.jpg" >
 </p>
 
 <p align="center">
