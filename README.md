@@ -21,8 +21,8 @@
   * [Direito a privacidade na era digital](#)
   * [Comparação entre a GDPR e a LGPD](#)
   * [Data Lake na LGPD](#)
- * [O Datalake](#)
-   * [O sucessor do Data Warehouse](#)
+ * [O Datalake](#O Datalake)
+   * [O sucessor do Data Warehouse](#O sucessor do Data Warehouse)
    * [Arquitetura de referência do Data Lake](#)
    * [Arquitetura de processamento de dados em larga escala](#)
    * [Os pilares de uma arquitetura de processamento de dados em larga escala](#)
@@ -46,7 +46,7 @@ Segundo IUPAR, 2020m O principal objetivo da estrutura de governança corporativ
 Os três pilares principais da estrutura de governança corporativa:
 
 <p align="center">
-  <img src="PilaresGovIU.jpg" width="800">
+  <img src="PilaresGovIU.jpg" width="700">
 </p>
 
 Organograma da estrutura da administração, estruturado em fórum colegiados, visando uma abordagem diversificada dos assuntos para uma tomada de decisão.
