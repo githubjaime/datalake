@@ -46,7 +46,7 @@ Segundo IUPAR, 2020m O principal objetivo da estrutura de governança corporativ
 Os três pilares principais da estrutura de governança corporativa:
 
 <p align="center">
-  <img src="PilaresGovIU.jpg" >
+  <img src="PilaresGovIU.jpg" width="800">
 </p>
 
 Organograma da estrutura da administração, estruturado em fórum colegiados, visando uma abordagem diversificada dos assuntos para uma tomada de decisão.
