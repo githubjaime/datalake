@@ -37,11 +37,23 @@
 
 **Governança Corporativa**
 
-A Governança é um tema da alta administração das empresas maduras, e na maioria das vezes é uma exigência dos acionistas, e a sua implantação tem como objetivo estratégico a obtenção de melhores resultados nos negócios, através da definição, medição e divulgação das de grandes metas da organização. 
-Podemos definir governança como um conjunto de processos e procedimentos para atingir os objetivos estratégicos de uma organização, ou também, como uma prática de planejar, controlar, medir e divulgar os resultados da estratégia das empresas.
-Deve-se implantar a governança para atingir os objetivos estratégicos de uma organização, para isso é necessário definir e acompanhar a implantação de programas alinhados a estratégia para obtenção de melhores resultados.
-Para que haja um forte engajamento das pessoas com a governança, é importante estabelecer os responsáveis para cada atividade, os fóruns para definição, estudo e de tomada de decisão.
-Estrutura de Governança Corporativa
+Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas, (Instituto Brasileiro de Governança Corporativa –IBGC–, 2020), ainda segundo o IBGC, 2020, as boas práticas de governança corporativa convertem princípios básicos em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econômico de longo prazo da organização, facilitando seu acesso a recursos e contribuindo para a qualidade da gestão da organização, sua longevidade e o bem comum.
+
+Modelo de Governanca IUPAR - Itaú Unibanco Participações, 2020
+
+Segundo IUPAR, 2020m O principal objetivo da estrutura de governança corporativa é criar um conjunto eficiente de mecanismos de incentivo e monitoramento para assegurar que os administradores estejam sempre alinhados aos interesses dos acionistas de forma sustentável e perene. 
+
+Os três pilares principais da estrutura de governança corporativa:
+
+<p align="center">
+  <img src="PilaresGovIU.jpg" >
+</p>
+
+Organograma da estrutura da administração, estruturado em fórum colegiados, visando uma abordagem diversificada dos assuntos para uma tomada de decisão.
+
+<p align="center">
+  <img src="GovIU.png" >
+</p>
 
 
 ## O Data Lake 
@@ -261,6 +273,14 @@ DOMO, Data Never Sleeps 5.0, Domo.com, 2017. Disponível em:
 FOOTE, K. A Brief History of Data Lakes. Dataversity.net, 2018. Disponível em: <
 https://www.dataversity.net/brief-history-data-lakes/>. Acesso em: 13 de Nov. de
 2020
+
+IBGC, Instituto Brasileiro de Governança Corporativa, 2020. Disponível em:
+https://www.ibgc.org.br/conhecimento/governanca-corporativa
+Acesso em 24 de set de 2020
+
+IUPAR, Site de Relações com Investidores, 2020. Disponível em:
+https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt
+Acesso em 24 de set de 2020
 
 JAMES, J. What ‘Data Never Sleeps 7.0’ Says—and Doesn’t Say. Domo.com, 2019.
 Disponível em: <https://www.domo.com/blog/what-data-never-sleeps-7-0-says-anddoesnt-
