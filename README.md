@@ -54,12 +54,17 @@ Por conta dessa necessidade, em 2010 James Dixon cunhou o termo Data
 Lake (FOOTE, K. 2018), descrevendo uma arquitetura híbrida para armazenamento
 massivo de informações em qualquer formato, incluindo dados não estruturados, em
 um único local, tornando o Data Lake a peça central de infra-estrutura em uma
-arquitetura orientada à dados.
+arquitetura orientada à dados. Dixon (BAUM, 2020, p.3) defende que "o Data Lake é um grande corpo de
+água, no qual a água entra e sai por diversos dutos, e de onde exemplos podem ser
+retirados e analisados”
 
 
 ## Conclusão ##
 
 ## Referências ##
+
+BAUM, D. Cloud Data Lakes for Dummies. Edição Especial. New Jersey: Snowflake.
+2020.
 
 FOOTE, K. A Brief History of Data Lakes. Dataversity.net, 2018. Disponível em: <
 https://www.dataversity.net/brief-history-data-lakes/>. Acesso em: 13 de Nov. de
