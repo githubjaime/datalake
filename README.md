@@ -77,7 +77,7 @@ arquitetura simples dessa tecnologia, exemplificando as grandes fases do process
 divididos entre captura, armazenamento e entrega dos dados.
 
 <p align="center">
-  <img src="IMAGEM-01.jpeg" >
+  <img src="IMAGEM-01.jpg" >
 </p>
 Fonte: BAUM, 2020, p.4 - Adaptado
 
