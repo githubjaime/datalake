@@ -93,6 +93,8 @@ Conforme escrito no   seu  art.  1° que dispões:
 **O tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.**
 
 
+Para LGPD  considera-se: 
+
 A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguidos  ao  realizar tratamentos de dados pessoais:
 
 
@@ -336,6 +338,8 @@ systems used by leading big data experts. Birminghan: Packt, 2018.
 
 BAUM, D. Cloud Data Lakes for Dummies. Edição Especial. New Jersey: Snowflake.
 2020.
+
+BRASIL. Lei nº. 13.709, de 14 de agosto de 2018.Dispõe sobre a proteção de dados pessoais e altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet). Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/Lei/L13709.htm Acesso em: 13 de Nov 2020.
 
 DATAOPS MANIFESTO, DataOps Manifesto.org, 2019 Disponível em: <
 https://www.dataopsmanifesto.org/>. Acesso em: 25 de Nov. de 2020.
