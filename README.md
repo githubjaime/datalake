@@ -71,8 +71,10 @@ Fonte: IBGC, 2020
 
 O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 2010 foi realizadoa a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do  Núcleo de Informação e Coordenação do Ponto BR (NIC.br) a linha do tempo que mostra os debaates como surgio a LGPD é apresentado abaixo:
 
-*13.5.16: consulta pública do MJ resulta no PL 5.276/16, de autoria do Poder Executivo;
+* 13.5.16: consulta pública do MJ resulta no PL 5.276/16, de autoria do Poder Executivo;
+
 *17.3.18: caso Cambridge Analytica/Facebook;
+
 *25.5.18: eficácia plena do GDPR;
 *29.5.18: PL 5.276/2016 e 4.060/12 declarados prejudicados em face de Subemenda Substitutiva de Plenário (PLC 53/2018 – Orlando Silva). Texto aprovado na Câmara;
 *10.7.18: PLC 53/18 aprovado no Senado, nos termos do parecer do CAE, restando prejudicado o PLS 330/13;
