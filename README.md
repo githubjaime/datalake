@@ -68,6 +68,14 @@ Fonte: IBGC, 2020
 
 
 ## Lei Geral de Proteção de Dados (LGPD)
+
+
+
+<p align="center">
+  <img src="lgpd01.jpg">
+</p>
+
+
 A Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020. É um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
 Conforme escrito no   seu  art.  1° que dispões:
 
