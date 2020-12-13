@@ -69,6 +69,16 @@ Fonte: IBGC, 2020
 
 ## Lei Geral de Proteção de Dados (LGPD)
 
+ 2010: consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições);
+· 13.5.16: consulta pública do MJ resulta no PL 5.276/16, de autoria do Poder Executivo;
+· 17.3.18: caso Cambridge Analytica/Facebook;
+· 25.5.18: eficácia plena do GDPR;
+· 29.5.18: PL 5.276/2016 e 4.060/12 declarados prejudicados em face de Subemenda Substitutiva de Plenário (PLC 53/2018 – Orlando Silva). Texto aprovado na Câmara;
+· 10.7.18: PLC 53/18 aprovado no Senado, nos termos do parecer do CAE, restando prejudicado o PLS 330/13;
+· Sanção: 14/8/2018, com veto à criação da Autoridade Nacional de Proteção de Dados (ANPD), sob a alegação de um possível vício de iniciativa (Projeto de lei de iniciativa parlamentar que cria órgão ou entidade da Administração Pública atingiria o desenho de competências legislativas. Haveria, pois, inconstitucionalidade insuperável e insanável, a justificar o veto). Porém, os mais de 40 artigos que se referem diretamente a ANPD não foram vetados, felizmente;
+· Publicação no Diário Oficial da União: 15/8/2018 (inicialmente com 18 meses de prazo para sua eficácia plena – vacacio legis);
+· MP 869/18: 28/12/2018 (entre outras questões cria a ANPD e acrescenta mais seis meses de vacacio legis);
+· Eficácia plena da LGPD: 16.08.20.
 
 
 <p align="center">
