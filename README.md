@@ -97,9 +97,11 @@ Para os fins de aplicação LGPD:
 
 
 **I - dado pessoal:** informação relacionada a pessoa natural identificada ou identificável; 
+
       * Identificada e Identificável (cookies, outros identificadores eletrônicos e geolocacionais)
 
 **II - dado pessoal sensível:** dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;
+
       *Podem acarretar em práticas discriminatórias
       *Saúde, orientação sexual, política, biometria, genéticos
       *Dados de crianças e adolescentes
