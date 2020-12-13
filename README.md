@@ -133,6 +133,10 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 **X - responsabilização e prestação de contas:** demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
 
 
+<p align="center">
+  <img src="lgpd02.jpg">
+</p>
+
 
 ## <a name=“sectionj1”><a/> O Data Lake 
 ### O sucessor do Data Warehouse
