@@ -66,6 +66,12 @@ Prestação de contas (accountability) – Os agentes de governança devem prest
 Responsabilidade corporativa – Os agentes de governança devem zelar pela viabilidade econômico-financeira das organizações, reduzir as externalidades negativas de seus negócios e suas operações e aumentar as positivas, levando em consideração, no seu modelo de negócios, os diversos capitais (financeiro, manufaturado, intelectual, humano, social, ambiental, reputacional, etc.) no curto, médio e longo prazos.
 Fonte: IBGC, 2020
 
+
+## Lei Geral de Proteção de Dados (LGPD)
+A Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020. É um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
+
+
+
 ## <a name=“sectionj1”><a/> O Data Lake 
 ### O sucessor do Data Warehouse
 
