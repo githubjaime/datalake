@@ -348,6 +348,9 @@ DOMO, Data Never Sleeps 5.0, Domo.com, 2017. Disponível em:
 <https://www.domo.com/learn/data-never-sleeps-
 5?aid=ogsm072517_1&sf100871281=1>. Acesso em: 25 de Nov. de 2020.
 
+FEDERAL, Senado. Senado Notícias. Disponível em: https://www12.senado.leg.br/noticias/materias/2020/09/18/lei-geral-de-protecao-de-dados-entra-em-vigor 
+Acesso em 13 Nov 2020.
+
 FOOTE, K. A Brief History of Data Lakes. Dataversity.net, 2018. Disponível em: <
 https://www.dataversity.net/brief-history-data-lakes/>. Acesso em: 13 de Nov. de
 2020
