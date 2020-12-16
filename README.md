@@ -69,7 +69,7 @@ Fonte: IBGC, 2020
 
 ## Lei Geral de Proteção de Dados (LGPD)
 
-O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 2010 foi realizadoa a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do  Núcleo de Informação e Coordenação do Ponto BR (NIC.br) a linha do tempo que mostra os debaates como surgio a LGPD é apresentado abaixo segundo (NIC.BR,2020):
+O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 2010 foi realizada a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do  Núcleo de Informação e Coordenação do Ponto BR (NIC.br). A linha do tempo abaixo mostra os debates e o surgimento da LGPD (NIC.BR,2020):
 
 * 13.5.16: consulta pública do MJ resulta no PL 5.276/16, de autoria do Poder Executivo;
 * 17.3.18: caso Cambridge Analytica/Facebook;
@@ -88,12 +88,12 @@ O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 
 
 
 A Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020. É um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
-Conforme escrito no   seu  art.  1° que dispões:
+Conforme escrito no seu art. 1° que dispõe:
 
 **O tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.**
 
 
-Para os fins de aplicação LGPD os dados são:
+Para os fins de aplicação LGPD os dados são definidos como:
 
 
 **I - dado pessoal:** informação relacionada a pessoa natural identificada ou identificável; 
