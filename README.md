@@ -138,6 +138,31 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 </p>
 
 
+Dentro da Lei Geral de Proteção de Dados, temos no Capítulo II - Do tratamento de dados pessoais. Sobre o tratamento de dados pessoais possui as seguintes seções: Dos Requisitos para o Tratamento de Dados Pessoais, Do Tratamento de Dados Pessoais Sensíveis, Do Tratamento de Dados Pessoais de Crianças e de Adolescentes e Do Término do Tratamento de Dados. Por esse motivo teve ser levado em consideração os direitos do titular e os deveres do controlado destes dados. 
+
+O tratamento de dados pessoais, conforme disposição do art. 7º da LGPD, somente poderá ocorrer nos seguintes casos:
+
+a) com o consentimento do titular;
+
+b) para o cumprimento de obrigação legal ou regulatória pelo controlador;
+
+c) pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas;
+
+d) para a realização de estudos por órgão de pesquisa, sem a individualização da pessoa;
+
+e) para a execução de contrato ou de procedimentos preliminares relacionados a um contrato;
+
+f) para pleitos em processo judicial, administrativo ou arbitral;
+
+g) para a proteção da vida ou da incolumidade física do titular ou de terceiro;
+
+h) para a tutela da saúde, em procedimento realizado por profissionais da área da saúde ou por entidades sanitárias;
+
+i) para atender aos interesses legítimos do controlador ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais;
+
+j) para a proteção do crédito, nos termos do Código de Defesa do Consumidor (CDC).
+
+
 ## <a name=“sectionj1”><a/> O Data Lake 
 ### O sucessor do Data Warehouse
 
