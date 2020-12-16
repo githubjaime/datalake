@@ -169,7 +169,11 @@ O tratamento de dados pessoais, conforme disposição do art. 7º da LGPD, somen
   <img src="lgpd03.jpg">
 </p>
 
+O tratamento de dados pessoais de crianças e de adolescentes, conforme disposição do art. 14º da LGPD, somente poderá ocorrer nos seguintes casos:
 
+**I** - consentimento específico e  dado por pelo menos um dos pais ou pelo responsável legal;
+
+**II** - No tratamento de dados os controladores deverão manter pública a informação sobre os tipos de dados coletados, a forma de sua utilização;
 
 ## <a name=“sectionj1”><a/> O Data Lake 
 ### O sucessor do Data Warehouse
