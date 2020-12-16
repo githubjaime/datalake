@@ -178,7 +178,7 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 <p align="center">
   <img src="lgpd02.jpg">
   <br />
-  Fonte: RIELLI, 2020
+   Fonte: Adaptado de RIELLI, 2020
   <br />
 </p>
 
