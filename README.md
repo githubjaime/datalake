@@ -39,7 +39,7 @@ Governança corporativa é o sistema pelo qual as empresas e demais organizaçõ
 
 Modelo de Governanca IUPAR - Itaú Unibanco Participações, 2020
 
-Segundo IUPAR, 2020m O principal objetivo da estrutura de governança corporativa é criar um conjunto eficiente de mecanismos de incentivo e monitoramento para assegurar que os administradores estejam sempre alinhados aos interesses dos acionistas de forma sustentável e perene. 
+Segundo IUPAR, 2020, O principal objetivo da estrutura de governança corporativa é criar um conjunto eficiente de mecanismos de incentivo e monitoramento para assegurar que os administradores estejam sempre alinhados aos interesses dos acionistas de forma sustentável e perene. 
 
 Os três pilares principais da estrutura de governança corporativa:
 
@@ -66,20 +66,57 @@ Prestação de contas (accountability) – Os agentes de governança devem prest
 Responsabilidade corporativa – Os agentes de governança devem zelar pela viabilidade econômico-financeira das organizações, reduzir as externalidades negativas de seus negócios e suas operações e aumentar as positivas, levando em consideração, no seu modelo de negócios, os diversos capitais (financeiro, manufaturado, intelectual, humano, social, ambiental, reputacional, etc.) no curto, médio e longo prazos.
 Fonte: IBGC, 2020
 
+###Definição do comitê Gestor###
 
-## Lei Geral de Proteção de Dados (LGPD)
+**O PMO, Project Management Office, ou em português, Escritório de Gerenciamento de Projetos**
 
-O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 2010 foi realizada a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do  Núcleo de Informação e Coordenação do Ponto BR (NIC.br). A linha do tempo abaixo mostra os debates e o surgimento da LGPD (NIC.BR,2020):
+O PMO tem como objetivo desenvolver e fornecer recursos intelectuais, processos e procedimentos para definição do escopo, planejamento das atividades, pessoas  e aquisições necessárias para execução, a qual fornece um estudo prévio de prazo e de  entregáveis, critérios de qualidade e aceitação, também fornece um orçamento prévio para atingimento dos objetivos com integração de pessoas, áreas e ferramentas, identificação e monitoramento de riscos e a comunicação do andamento do programa , performance e resultados medidos por indicadores pré-definidos para as partes envolvidas nos diversos fóruns comitês e demais canais.
+Ao receber uma demanda do comitê executivo, o responsável pelo PMO, seleciona uma pessoa e o apresenta como Gerente do Programa, esta pessoa tem como responsabilidade, entender a demanda e definir, planejar, executar, monitorar e divulgar os resultados do programa.
+Para uma melhor contextualização do nosso artigo, vamos descrever o objetivo do programa como “adequação a legislação de proteção dos dados, identificar e corrigir possíveis vazamentos de informação ou acesso indevido, com fins alheios aos interesses da empresa, que possam vir a trazer algum prejuízo financeiro via indenizações ou a imagem da empresa”.
+
+**As áreas de suporte intelectual e operacional, Pessoas, Tecnologia e Jurídico**
+
+Conforme nosso artigo, a área de tecnologia juntamente com a área Jurídica tem papel fundamental no programa, e é a partir das necessidades apresentadas pelo jurídico que os estudos tecnológicos que são realizados, e algumas alternativas são discutidas, sendo necessário estabelecer um grupo multidisciplinar com pessoas capacitadas em suas áreas de conhecimento para administrar os dados da empresa, canais de entrada, transformação e armazenamento, este grupo pode recomendar um estudo de maturidade da empresa em relação aos dados, onde estão e como são protegidos. O grupo pode definir o uso conceitual do DataLake, e neste momento é submetido ao PMO a carta de viabilidade, recursos intelectuais aquisições necessárias, bem como plano de implantação e de investimentos.
+
+**As áreas de monitoramento, Auditoria e Controles Internos**
+
+Como vimos, nossa demanda é para atender a legislação, e como vamos tratar de riscos operacionais e de imagem da organização afim de evitar prejuízos financeiros, as áreas de auditoria e controles internos define como avaliar o programa, e fazem recomendações de políticas e regras de proteção e acesso aos dados, também desenvolvem um checklist de verificação para acompanhamento durante a implantação e após sua operacionalização.
+As áreas de negócios, logística e produção
+
+Atualmente temos fonte infinita para captura dos dados, que pode ser por um aplicativo com interação humana, IoT, aprendizado de máquina, sinais e transmissores de qualquer natureza, ás áreas de negócios, mais do que nunca estão entrelaçadas com a ás áreas de logística e produção, pois um pedido de manufatura, não necessariamente passa por uma pessoa, as vendas são realizadas por uma coke ou coffee machine, os pedidos são enviados automaticamente para logística que cuida da distribuição, que pode ser no modelo tradicional, usando carros e equipamentos com operador, ou até nos modelos atuais de drones, carros e equipamentos autônomos, responsáveis pelo abastecimentos dos estoques finais, que a partir de métricas de armazenamento, dispara um pedido de produção aos setores de manufatura, e não se trata apenas de um produto, pode ser um serviço ligado a vida, que faz o diagnóstico conforme parâmetros pré-estabelecidos, e envia para um sistema que a partir de indicadores faz análise e recomendações para evitar enfermidades e a até morte, maquinas ligadas a vida monitoram sinais vitais e a partir da dinâmica do aprendizado de máquina, verifica-se a suplementação vitamínica e/ou proteica necessária.
+
+A origem, os canais de captura e o formato dos dados não tem tanta importância em relação ao armazenamento, pois devemos estar preparados para armazenar todo tipo de dado, mas para implementar uma estratégia de proteção e acesso aos dados, as áreas de negócios devem conhecer profundamente qual o tipo de informação que é importante para alavancar os negócios, bem como o tipo de acesso que cada pessoa ou grupo de pessoas devem ter em seus canais de captura e inserção de dados e manipulação de relatórios. 
+
+Um pedido de venda originado pela área de negócios, em seus infinitos canais, contém informações que devem ser protegidas, como dados pessoais do comprador, documentos, endereço forma de pagamento, e de suas preferências de compra, produtos, preços, quantidade e intervalos de compras, pois ele passa pelo setor produtivo, onde é feito o planejamento de produção com dados do produto e quantidade, e depois enviados ao cliente; ou, um cliente que abre uma conta bancária por um canal digital, informa seus dados pessoais e patrimoniais, necessita transitar informações financeiras de uma organização para outra, e recebe as suas correspondências físicas; ou, no envio de um pedido de vitamina D para uma farmácia, gerado por um equipamento ligado a vida, em comum, todos passam por um setor de 
+logística e de distribuição, que pode ter muitas pessoas, através de suas empresas, parcerias e terceirizações e envolvidas com a informação, assim, embora tenhamos um ponto de encontro dos dados, eles estão replicados em outras estruturas de dados nos canais de parceria ou de prestação de serviços, sendo necessário uma política completa para a fragmentação da informação, de modo que cada acesso seja monitorado e controlado, uma definição clara de quem pode ver o que, de forma centralizada na origem da demanda, o demandado deve controlar e proteger a informação nos diversos canais, oferecendo acesso seguro e simplificado nas suas relações empresariais.
+
+**Escritório de Investimentos**
+
+Após viabilidade técnica e identificação das áreas envolvidas e suas responsabilidades, o programa é apresentado no escritório de investimentos pelo patrocinador, gerente do programa e os executivos das áreas envolvidas. O escritório de investimento tem uma cadeira permanente no comitê executivo, tem como responsabilidade estabelecer processos e procedimentos para análise de viabilidade financeira, ferramentas e técnicas para definição e controle de orçamento para liberação de 
+recursos financeiros conforme entregas realizadas e o monitoramento do retorno do investimento.
+
+Agora que entendemos o que precisa ser feito, quem faz o que e quando e qual o investimento, é desenvolvida a governança para o Data Lake, um dos itens mais importante, e é o fator de sucesso do programa, que após definida, deve ser submetida para aprovação do comitê executivo, que aprovada com pessoas, fóruns e responsabilidades, inicia o trabalho.
+
+<p align="center">
+  <img src="GovDL.png" >
+</p>
+
+
+
+## Lei Geral de Prot ção de Dados (LGPD)
+
+O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 2010 foi realizada a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do  Núcleo de Informação e Coordenação do Ponto BR (NIC.br). A linha do tempo abaixo mostra os debates e o surgimento da LGPD (NIC.BR,2020):
 
 * 13.5.16: consulta pública do MJ resulta no PL 5.276/16, de autoria do Poder Executivo;
 * 17.3.18: caso Cambridge Analytica/Facebook;
 * 25.5.18: eficácia plena do GDPR;
 * 29.5.18: PL 5.276/2016 e 4.060/12 declarados prejudicados em face de Subemenda Substitutiva de Plenário (PLC 53/2018 – Orlando Silva). Texto aprovado na Câmara;
 * 10.7.18: PLC 53/18 aprovado no Senado, nos termos do parecer do CAE, restando prejudicado o PLS 330/13;
-* Sanção: 14/8/2018, com veto à criação da Autoridade Nacional de Proteção de Dados (ANPD), sob a alegação de um possível vício de iniciativa (Projeto de lei de iniciativa parlamentar que cria órgão ou entidade da Administração Pública atingiria o desenho de competências legislativas. Haveria, pois, inconstitucionalidade insuperável e insanável, a justificar o veto). Porém, os mais de 40 artigos que se referem diretamente a ANPD não foram vetados, felizmente;
+* Sanção: 14/8/2018, com veto à criação da Autoridade Nacional de Proteção de Dados (ANPD), sob a alegação de um possível vício de iniciativa (Projeto de lei de iniciativa parlamentar que cria órgão ou entidade da Administração Pública atingiria o desenho de competências legislativas. Haveria, pois, inconstitucionalidade insuperável e insanável, a justificar o veto). Porém, . mais de 40 artigos que se referem diretamente a ANPD não foram vetados, felizmente;
 * Publicação no Diário Oficial da União: 15/8/2018 (inicialmente com 18 meses de prazo para sua eficácia plena – vacacio legis);
 * MP 869/18: 28/12/2018 (entre outras questões cria a ANPD e acrescenta mais seis meses de vacacio legis);
 * Eficácia plena da LGPD: 16.08.20.
+
 
 
 <p align="center">
@@ -87,23 +124,24 @@ O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 
   
 </p>
 
-
-A Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020 (FEDERAL,200). É um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
-Conforme escrito no seu art. 1° que dispõe:
-
-**O tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.**
+ Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020 (FEDERAL,200). É um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
+Conforme escrito no seu art. 1° que dispõ.
+**O tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e d privacidade e o livre desenvolvimento da personalidade da pessoa natural.**
+****
 
 
 Para os fins de aplicação LGPD os dados são definidos como:
 
+*I - dado pessoal:** informação relacionada a pessoa natural identificada ou identificável
 
-**I - dado pessoal:** informação relacionada a pessoa natural identificada ou identificável; 
-
-      * Identificada e Identificável (cookies, outros identificadores eletrônicos e geolocacionais)
+      * Identificada e Identificável (cookies, outros identificadores eletrônicos e geoloacionais)
 
 **II - dado pessoal sensível:** dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;
 
-      *Podem acarretar em práticas discriminatórias
+      reas de monitoramento, Auditoria e Controles Internos**
+
+Como vimos, noDLa demanda é para atender a legislação, e como vamos tratar de riscos operacionais e de imagem da organização afim de evitar prejuízos financeiros, as áre*Podem acarretar em práticas discriminatórias
+      
       *Saúde, orientação sexual, política, biometria, genéticos
       *Dados de crianças e adolescentes
     
