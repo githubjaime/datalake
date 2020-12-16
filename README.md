@@ -57,22 +57,25 @@ Organograma da estrutura da administração, estruturado em fórum colegiados, v
 
 Os princípios básicos de governança corporativa permeiam, em maior ou menor grau, todas as práticas do Código das Melhores Práticas de Governança Corporativa, e sua adequada adoção resulta em um clima de confiança tanto internamente quanto nas relações com terceiros. São eles:
 
-Transparência – Consiste no desejo de disponibilizar para as partes interessadas as informações que sejam de seu interesse e não apenas aquelas impostas por disposições de leis ou regulamentos. Não deve restringir-se ao desempenho econômico-financeiro, contemplando também os demais fatores (inclusive intangíveis) que norteiam a ação gerencial e que conduzem à preservação e à otimização do valor da organização; 
+**Transparência** – Consiste no desejo de disponibilizar para as partes interessadas as informações que sejam de seu interesse e não apenas aquelas impostas por disposições de leis ou regulamentos. Não deve restringir-se ao desempenho econômico-financeiro, contemplando também os demais fatores (inclusive intangíveis) que norteiam a ação gerencial e que conduzem à preservação e à otimização do valor da organização; 
 
-Equidade – Caracteriza-se pelo tratamento justo e isonômico de todos os sócios e demais partes interessadas (stakeholders), levando em consideração seus direitos, deveres, necessidades, interesses e expectativas;
+**Equidade** – Caracteriza-se pelo tratamento justo e isonômico de todos os sócios e demais partes interessadas (stakeholders), levando em consideração seus direitos, deveres, necessidades, interesses e expectativas;
 
-Prestação de contas (accountability) – Os agentes de governança devem prestar contas de sua atuação de modo claro, conciso, compreensível e tempestivo, assumindo integralmente as consequências de seus atos e omissões e atuando com diligência e responsabilidade no âmbito dos seus papéis;   
+**Prestação de contas (accountability)** – Os agentes de governança devem prestar contas de sua atuação de modo claro, conciso, compreensível e tempestivo, assumindo integralmente as consequências de seus atos e omissões e atuando com diligência e responsabilidade no âmbito dos seus papéis;   
 
-Responsabilidade corporativa – Os agentes de governança devem zelar pela viabilidade econômico-financeira das organizações, reduzir as externalidades negativas de seus negócios e suas operações e aumentar as positivas, levando em consideração, no seu modelo de negócios, os diversos capitais (financeiro, manufaturado, intelectual, humano, social, ambiental, reputacional, etc.) no curto, médio e longo prazos.
-Fonte: IBGC, 2020
+**Responsabilidade corporativa** – Os agentes de governança devem zelar pela viabilidade econômico-financeira das organizações, reduzir as externalidades negativas de seus negócios e suas operações e aumentar as positivas, levando em consideração, no seu modelo de negócios, os diversos capitais (financeiro, manufaturado, intelectual, humano, social, ambiental, reputacional, etc.) no curto, médio e longo prazos.
 
-###Definição do comitê Gestor
+Fonte: IBGC, 2020.
+
+### Definição do comitê Gestor
 
 **O PMO, Project Management Office, ou em português, Escritório de Gerenciamento de Projetos**
 
-O PMO tem como objetivo desenvolver e fornecer recursos intelectuais, processos e procedimentos para definição do escopo, planejamento das atividades, pessoas  e aquisições necessárias para execução, a qual fornece um estudo prévio de prazo e de  entregáveis, critérios de qualidade e aceitação, também fornece um orçamento prévio para atingimento dos objetivos com integração de pessoas, áreas e ferramentas, identificação e monitoramento de riscos e a comunicação do andamento do programa , performance e resultados medidos por indicadores pré-definidos para as partes envolvidas nos diversos fóruns comitês e demais canais.
+O PMO tem como objetivo desenvolver e fornecer recursos intelectuais, processos e procedimentos para definição do **escopo**, planejamento das atividades, **pessoas**  e **aquisições** necessárias para execução, a qual fornece um estudo prévio de **prazo** e de  entregáveis, critérios de **qualidade** e aceitação, também fornece um **orçamento** prévio para atingimento dos objetivos com **integração** de pessoas, áreas e ferramentas, identificação e monitoramento de **riscos** e a **comunicação** do andamento do programa , performance e resultados medidos por indicadores pré-definidos para as **partes envolvidas** nos diversos fóruns comitês e demais canais.
+
 Ao receber uma demanda do comitê executivo, o responsável pelo PMO, seleciona uma pessoa e o apresenta como Gerente do Programa, esta pessoa tem como responsabilidade, entender a demanda e definir, planejar, executar, monitorar e divulgar os resultados do programa.
-Para uma melhor contextualização do nosso artigo, vamos descrever o objetivo do programa como “adequação a legislação de proteção dos dados, identificar e corrigir possíveis vazamentos de informação ou acesso indevido, com fins alheios aos interesses da empresa, que possam vir a trazer algum prejuízo financeiro via indenizações ou a imagem da empresa”.
+
+Para uma melhor contextualização do nosso artigo, vamos descrever o objetivo do programa como **“adequação a legislação de proteção dos dados, identificar e corrigir possíveis vazamentos de informação ou acesso indevido, com fins alheios aos interesses da empresa, que possam vir a trazer algum prejuízo financeiro via indenizações ou a imagem da empresa”**.
 
 **As áreas de suporte intelectual e operacional, Pessoas, Tecnologia e Jurídico**
 
@@ -101,9 +104,11 @@ Agora que entendemos o que precisa ser feito, quem faz o que e quando e qual o i
   <img src="GovDL.png" >
 </p>
 
+### Política de acesso a dados
 
+### Captação, transformação e expurgo dos dados
 
-## Lei Geral de Prot ção de Dados (LGPD)
+## Lei Geral de Proteção de Dados (LGPD)
 
 O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 2010 foi realizada a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do  Núcleo de Informação e Coordenação do Ponto BR (NIC.br). A linha do tempo abaixo mostra os debates e o surgimento da LGPD (NIC.BR,2020):
 
