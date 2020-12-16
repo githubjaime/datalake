@@ -237,11 +237,14 @@ retirados e analisados”
 O Data Lake deixa o dado disponível para ser lido, permitindo que qualquer
 pessoa com o conhecimento apropriado tenha acesso para explorar e analizar toda
 a gama de dados existente no Data Lake afim de obter informação desejada. Para
-entender como o Data Lake possibilita isso, a Figura abaixo mostra uma
+entender como o Data Lake possibilita isso, a Figura 7 abaixo mostra uma
 arquitetura simples dessa tecnologia, exemplificando as grandes fases do processo,
 divididos entre captura, armazenamento e entrega dos dados.
 
 <p align="center">
+  <br />
+  Figura 7 - Arquitetura do Data Lake tradicional. 
+  <br />
   <img src="IMAGEM-01.jpg" >
   <br />
   Fonte: BAUM, 2020, p.4 - Adaptado
