@@ -9,7 +9,7 @@
 ## Índice
 
 * [Introdução](#introdução)
-* [Governança de Dados]((https://github.com/elainefabiola/datalake/blob/main/README.md#-governanca-de-dados)
+* [Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#como-promover-a-governan%C3%A7a-em-um-data-lake)
   * [Como promover a Governança em um Data Lake](#)
   * [Definição do comitê Gestor](#)
   * [Política de acesso a dados](#)
