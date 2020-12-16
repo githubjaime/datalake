@@ -242,7 +242,6 @@ arquitetura simples dessa tecnologia, exemplificando as grandes fases do process
 divididos entre captura, armazenamento e entrega dos dados.
 
 <p align="center">
-  <br />
   Figura 7 - Arquitetura do Data Lake tradicional. 
   <br />
   <img src="IMAGEM-01.jpg" >
@@ -293,7 +292,6 @@ de uma pessoa solicitando um motorista, dependendo da sua localização dentro d
 um centro urbano com uma determinada condição climática.
 
 <p align="center">
-  <br />
   Figura 8 - “A cada um minuto em 2019...” 
   <br />
   <img src="IMAGEM-02.jpg" width="600">
@@ -324,7 +322,6 @@ muitos outros. Sendo assim, é interessante enxergar a arquitetura de dados como
 grandes pilares, conforme descrito na Figura 9 a seguir.
 
 <p align="center">
-  <br />
   Figura 9 - Processos de Big Data simplificado. 
   <br />
   <img src="IMAGEM-03.jpg" >
@@ -350,7 +347,6 @@ descreve uma arquitetura genérica de referência para ser utilizada em ambiente
 Big Data bem como a descrição de cada componente.
 
 <p align="center">
-  <br />
   Figura 10 - Arquitetura de componentes de Big Data. 
   <br />
   <img src="IMAGEM-04.jpg" >
