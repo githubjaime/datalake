@@ -121,6 +121,9 @@ O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 201
 
 <p align="center">
   <img src="lgpd01.jpg">
+  <br />
+  Fonte: RIELLI, 2020
+  <br />
   
 </p>
 
