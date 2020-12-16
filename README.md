@@ -127,6 +127,8 @@ O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 201
   
 </p>
 
+
+
  Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020 (FEDERAL,200). É um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
 Conforme escrito no seu art. 1° que dispõ.
 **O tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e d privacidade e o livre desenvolvimento da personalidade da pessoa natural.**
@@ -215,6 +217,14 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
 **I** - consentimento específico e  dado por pelo menos um dos pais ou pelo responsável legal;
 
 **II** - No tratamento de dados os controladores deverão manter pública a informação sobre os tipos de dados coletados, a forma de sua utilização;
+
+
+<p align="center">
+  <img src="dadosestruturadojpg.jpg">
+  <br />
+  Fonte: RIELLI, 2020
+  <br />
+
 
 ## <a name=“sectionj1”><a/> O Data Lake 
 ### O sucessor do Data Warehouse
