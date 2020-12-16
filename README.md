@@ -345,11 +345,14 @@ nessas informações.
 
 Para que uma estrutura de Big Dara entregue o valor descrito com as
 capacidades citadas, é importante que se tenha uma arquitetura de componentes
-que comporte as necessidades descritas anteriormente, sendo assim, a Figura a seguir
+que comporte as necessidades descritas anteriormente, sendo assim, a Figura 10 a seguir
 descreve uma arquitetura genérica de referência para ser utilizada em ambientes de
 Big Data bem como a descrição de cada componente.
 
 <p align="center">
+  <br />
+  Figura 10 - Arquitetura de componentes de Big Data. 
+  <br />
   <img src="IMAGEM-04.jpg" >
   <br />
   Fonte: MICROSOFT, 2019  
