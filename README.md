@@ -426,9 +426,38 @@ valor para a empresa. Conceitos como o “DataOps Manifesto” direcionam os
 princípios e boas práticas a serem seguidas por todos aqueles que desejam
 implementar uma cultura de dados (DATAOPS MANIFESTO, 2019).
 
-
-
 ## Conclusão ##
+
+Estabelecer uma arquitetura de dados depende majoritariamente do objetivo
+da corporação e dos insumos de dados existentes, porém sem esse tipo de
+abordagem, as empresas dos mais diversos segmentos terão dificuldades para se
+manterem relevantes no mercado, tendo em vista que esta é uma condição
+estratégica nos dias de hoje.
+
+É óbvio que existem diversas abordagens e muitas formas de se realizar
+este objetivo e, neste trabalho, focamos em uma estratégia conceitual e genérica de
+arquitetura que tem sido amplamente utilizada no mercado por empresas que
+tiveram sucesso nessa jornada de implementação de uma cultura baseada em
+dados. Questões como escolha de fornecedores, detalhamento técnico, preços de
+licenciamento e roadmap de produtos continuam precisando ser avaliadas e levadas
+em consideração no momento da escolha e implementação de uma abordagem de
+dados, porém as considerações feitas nesse trabalho permitem um ponto de partida
+do cenário conceitual para a adoção de um fluxo de obtenção de informações.
+
+É importante deixar claro também que nem todas as necessidades serão
+sanadas com a abordagem apresentada neste trabalho, porém, é de suma
+importância que os tomadores de decisões tenham claro seus objetivos e consigam
+direcionar o escopo de implementação da estratégia de adoção de dados, sendo
+assim, esse trabalho se coloca como um ponto de partida conceitual, e não como
+um guia de implementação da estratégia de dados corporativa.
+
+Por fim, é importante levantar necessidades para a estratégia de dados que
+não foram abordados neste trabalho, como por exemplo, visualização de dados e
+automação de processamento, que embora sejam disciplinas muito importantes, são
+também extremamente personalizadas para as informações que serão tratadas,
+ficando sob a responsabilidade do implementador entender as principais opções
+disponíveis e implementar a abordagem mais coerente para o problema que deseja
+resolver.
 
 ## Referências ##
 
