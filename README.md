@@ -421,6 +421,10 @@ MICROSOFT. Estilo de Arquitetura de Big Data. Microsoft.com, 2019. Disponível e
 <https://docs.microsoft.com/pt-br/azure/architecture/guide/architecture-styles/bigdata>.
 Acesso em: 18 de Nov. de 2020.
 
+ NIC.br - Núcleo de Informação e Coordenação do .br. Como era e como fica a Lei Geral de Proteção de Dados 
+ Disponível em:<https://www.nic.br/noticia/na-midia/como-era-e-como-fica-a-lei-geral-de-protecao-de-dados/>
+ Acesso em: 16 de Dez. de 2020.
+
 SNIVELY, B. Big Data Analytics Architectural Patterns and Best Practices.
 Slideshare.net, 2018. Disponível em: <
 https://pt.slideshare.net/AmazonWebServices/big-data-analytics-architecturalpatterns-
