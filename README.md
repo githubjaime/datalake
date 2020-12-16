@@ -84,6 +84,7 @@ O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 
 
 <p align="center">
   <img src="lgpd01.jpg">
+  
 </p>
 
 
@@ -135,6 +136,9 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 
 <p align="center">
   <img src="lgpd02.jpg">
+  <br />
+  Fonte: RIELLI, 2020
+  <br />
 </p>
 
 
