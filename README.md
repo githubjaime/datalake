@@ -142,25 +142,24 @@ Dentro da Lei Geral de Proteção de Dados, temos no Capítulo II - Do tratament
 
 O tratamento de dados pessoais, conforme disposição do art. 7º da LGPD, somente poderá ocorrer nos seguintes casos:
 
-a) com o consentimento do titular;
+**I** - mediante o fornecimento de consentimento pelo titular; 
 
-b) para o cumprimento de obrigação legal ou regulatória pelo controlador;
+**II** - para o cumprimento de obrigação legal ou regulatória pelo controlador;
 
-c) pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas;
+**III** - pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as disposições do Capítulo IV desta Lei; 
 
-d) para a realização de estudos por órgão de pesquisa, sem a individualização da pessoa;
+**IV** - para a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;
 
-e) para a execução de contrato ou de procedimentos preliminares relacionados a um contrato;
+**V** - quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o titular, a pedido do titular dos dados; 
+**VI** para pleitos em processo judicial, administrativo ou arbitral;
 
-f) para pleitos em processo judicial, administrativo ou arbitral;
+**VII** para a proteção da vida ou da incolumidade física do titular ou de terceiro;
 
-g) para a proteção da vida ou da incolumidade física do titular ou de terceiro;
+**VIII** para a tutela da saúde, em procedimento realizado por profissionais da área da saúde ou por entidades sanitárias;
 
-h) para a tutela da saúde, em procedimento realizado por profissionais da área da saúde ou por entidades sanitárias;
+**IX** para atender aos interesses legítimos do controlador ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais;
 
-i) para atender aos interesses legítimos do controlador ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais;
-
-j) para a proteção do crédito, nos termos do Código de Defesa do Consumidor (CDC).
+**X** para a proteção do crédito, nos termos do Código de Defesa do Consumidor (CDC).
 
 
 ## <a name=“sectionj1”><a/> O Data Lake 
