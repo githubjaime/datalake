@@ -278,7 +278,7 @@ absorver volumes gigantescos de dados é uma característica imperativa nos
 processos de análise de dados atuais e futuros.
 
 **Velocidade:** O segundo V faz alusão à velocidade em que os dados são
-gerados ou inseridos em uma plataforma de Big Data. Na Figura a seguir, podemos ver
+gerados ou inseridos em uma plataforma de Big Data. Na Figura 8 a seguir, podemos ver
 que, na média, em apenas 60 segundos do ano de 2019, foram enviados 18.100.000
 mensagens de texto entre celulares e 4.497.420 de buscas foram realizadas no
 Google, tudo isso alimentando em tempo real os sistemas de dados das empresas
@@ -293,6 +293,9 @@ de uma pessoa solicitando um motorista, dependendo da sua localização dentro d
 um centro urbano com uma determinada condição climática.
 
 <p align="center">
+  <br />
+  Figura 8 - “A cada um minuto em 2019...” 
+  <br />
   <img src="IMAGEM-02.jpg" width="600">
   <br />
   Fonte: JAMES, 2019
@@ -318,9 +321,12 @@ Independente da arquitetura a ser implementada para Big Data, o ideal é
 que os componentes sejam desacoplados entre si, trazendo benefícios como
 facilidade de manutenção, melhoria de custos, velocidade para escalar o ambiente e
 muitos outros. Sendo assim, é interessante enxergar a arquitetura de dados como
-grandes pilares, conforme descrito na Figura a seguir.
+grandes pilares, conforme descrito na Figura 9 a seguir.
 
 <p align="center">
+  <br />
+  Figura 9 - Processos de Big Data simplificado. 
+  <br />
   <img src="IMAGEM-03.jpg" >
   <br />
   Fonte: SNIVELY, 2018, slide 9  
