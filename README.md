@@ -9,11 +9,11 @@
 ## Índice
 
 * [Introdução](#introdução)
-* [Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#como-promover-a-governan%C3%A7a-em-um-data-lake)
-  * [Como promover a Governança em um Data Lake](#)
-  * [Definição do comitê Gestor](#)
-  * [Política de acesso a dados](#)
-  * [Captação, transformação e expurgo dos dados](#)
+* [Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#governan%C3%A7a-de-dados-em-data-lake)
+  * [Como promover a Governança em um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#como-promover-a-governan%C3%A7a-em-um-data-lake)
+  * [Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#defini%C3%A7ão-do-comitê-gestor)
+  * [Política de acesso a dados](https://github.com/elainefabiola/datalake/blob/main/README.md#)
+  * [Captação, transformação e expurgo dos dados](https://github.com/elainefabiola/datalake/blob/main/README.md#)
 * [LGPD](#)
   * [O que norteia a LGPD](#)
   * [Direito a privacidade na era digital](#)
@@ -66,7 +66,7 @@ Prestação de contas (accountability) – Os agentes de governança devem prest
 Responsabilidade corporativa – Os agentes de governança devem zelar pela viabilidade econômico-financeira das organizações, reduzir as externalidades negativas de seus negócios e suas operações e aumentar as positivas, levando em consideração, no seu modelo de negócios, os diversos capitais (financeiro, manufaturado, intelectual, humano, social, ambiental, reputacional, etc.) no curto, médio e longo prazos.
 Fonte: IBGC, 2020
 
-###Definição do comitê Gestor###
+###Definição do comitê Gestor
 
 **O PMO, Project Management Office, ou em português, Escritório de Gerenciamento de Projetos**
 
@@ -126,8 +126,6 @@ O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 201
   <br />
   
 </p>
-
-
 
  Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020 (FEDERAL,200). É um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
 Conforme escrito no seu art. 1° que dispõ.
@@ -217,14 +215,6 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
 **I** - consentimento específico e  dado por pelo menos um dos pais ou pelo responsável legal;
 
 **II** - No tratamento de dados os controladores deverão manter pública a informação sobre os tipos de dados coletados, a forma de sua utilização;
-
-
-<p align="center">
-  <img src="dadosestruturadojpg.jpg">
-  <br />
-  Fonte: RIELLI, 2020
-  <br />
-
 
 ## <a name=“sectionj1”><a/> O Data Lake 
 ### O sucessor do Data Warehouse
