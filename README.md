@@ -27,7 +27,7 @@
    * [Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#arquitetura-de-big-data)
    * [Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#cultura-data-driven)
 * [Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#conclus%C3%A3o)
-* [Referências](#)
+* [Referências](https://github.com/elainefabiola/datalake/blob/main/README.md#refer%C3%AAncias)
 
 
 ## Governança de Dados em Data Lake 
