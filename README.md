@@ -425,7 +425,7 @@ NIC.br - Núcleo de Informação e Coordenação do .br. Como era e como fica a 
 Disponível em:<https://www.nic.br/noticia/na-midia/como-era-e-como-fica-a-lei-geral-de-protecao-de-dados/>
 Acesso em: 16 de Dez. de 2020.
 
-Rielli, Mariana Marques, 2020. slides. Disponível em:
+RIELLI, Mariana Marques, 2020. slides. Disponível em:
 <https://edisciplinas.usp.br/pluginfile.php/5360635/mod_folder/content/0/Palestra%20Mariana%20Rielli%20sobre%20LGPD%20%28semestre%20passado%29.pdf?forcedownload=1>. Acesso em: 16 de Dez. de 2020.
 
 SNIVELY, B. Big Data Analytics Architectural Patterns and Best Practices.
