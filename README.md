@@ -208,6 +208,7 @@ O tratamento de dados pessoais, conforme disposição do art. 7º da LGPD, somen
 
 <p align="center">
   <img src="lgpd03.jpg">
+   Fonte: Adaptado de RIELLI, 2020
 </p>
 
 O tratamento de dados pessoais de crianças e de adolescentes, conforme disposição do art. 14º da LGPD, somente poderá ocorrer nos seguintes casos:
