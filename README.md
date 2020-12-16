@@ -69,7 +69,7 @@ Fonte: IBGC, 2020
 
 ## Lei Geral de Proteção de Dados (LGPD)
 
-O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 2010 foi realizadoa a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do  Núcleo de Informação e Coordenação do Ponto BR (NIC.br) a linha do tempo que mostra os debaates como surgio a LGPD é apresentado abaixo:
+O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 2010 foi realizadoa a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do  Núcleo de Informação e Coordenação do Ponto BR (NIC.br) a linha do tempo que mostra os debaates como surgio a LGPD é apresentado abaixo segundo (NIC.BR,2020):
 
 * 13.5.16: consulta pública do MJ resulta no PL 5.276/16, de autoria do Poder Executivo;
 * 17.3.18: caso Cambridge Analytica/Facebook;
