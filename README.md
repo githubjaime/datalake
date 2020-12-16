@@ -87,7 +87,7 @@ O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 
 </p>
 
 
-A Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020. É um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
+A Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020 (FEDERAL,200). É um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
 Conforme escrito no seu art. 1° que dispõe:
 
 **O tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.**
@@ -421,9 +421,9 @@ MICROSOFT. Estilo de Arquitetura de Big Data. Microsoft.com, 2019. Disponível e
 <https://docs.microsoft.com/pt-br/azure/architecture/guide/architecture-styles/bigdata>.
 Acesso em: 18 de Nov. de 2020.
 
- NIC.br - Núcleo de Informação e Coordenação do .br. Como era e como fica a Lei Geral de Proteção de Dados 
- Disponível em:<https://www.nic.br/noticia/na-midia/como-era-e-como-fica-a-lei-geral-de-protecao-de-dados/>
- Acesso em: 16 de Dez. de 2020.
+NIC.br - Núcleo de Informação e Coordenação do .br. Como era e como fica a Lei Geral de Proteção de Dados 
+Disponível em:<https://www.nic.br/noticia/na-midia/como-era-e-como-fica-a-lei-geral-de-protecao-de-dados/>
+Acesso em: 16 de Dez. de 2020.
 
 SNIVELY, B. Big Data Analytics Architectural Patterns and Best Practices.
 Slideshare.net, 2018. Disponível em: <
