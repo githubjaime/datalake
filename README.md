@@ -161,6 +161,11 @@ O tratamento de dados pessoais, conforme disposição do art. 7º da LGPD, somen
 
 **X** para a proteção do crédito, nos termos do Código de Defesa do Consumidor (CDC).
 
+<p align="center">
+  <img src="lgpd03.jpg">
+</p>
+
+
 
 ## <a name=“sectionj1”><a/> O Data Lake 
 ### O sucessor do Data Warehouse
