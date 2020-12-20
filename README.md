@@ -3,7 +3,7 @@
 </p>
 
 # PROJETO PRÁTICO - DATA LAKE
-<sub>Autores: Cristiano Fortunado, Elaine Soares e Jaime Leite</sub>
+<sub>Autores: Cristiano dos Santos Fortunato, Elaine Soares e Jaime Leite</sub>
 
 
 ## Índice
@@ -33,11 +33,13 @@
 ## Governança de Dados em Data Lake 
 ### Como promover a Governança em um Data Lake
 
+O sucesso da Governança em um Data Lake deve-se ao alinhamento com os princípios básicos da Governaça Corporativa, com o patrocinio dos principais executivos e envolvimento de todas as pessoas da organização, indistintamente, pois todos, de alguma forma produz ou manipula os dados.
+
 **Governança Corporativa**
 
 Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas, (Instituto Brasileiro de Governança Corporativa –IBGC–, 2020), ainda segundo o IBGC, 2020, as boas práticas de governança corporativa convertem princípios básicos em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econômico de longo prazo da organização, facilitando seu acesso a recursos e contribuindo para a qualidade da gestão da organização, sua longevidade e o bem comum.
 
-Modelo de Governanca IUPAR - Itaú Unibanco Participações, 2020
+Para exemplificar, abaixo vamos apresentar um modelo de Governanca, escolhemos o IUPAR - Itaú Unibanco Participações, 2020
 
 Segundo IUPAR, 2020, O principal objetivo da estrutura de governança corporativa é criar um conjunto eficiente de mecanismos de incentivo e monitoramento para assegurar que os administradores estejam sempre alinhados aos interesses dos acionistas de forma sustentável e perene. 
 
@@ -45,12 +47,14 @@ Os três pilares principais da estrutura de governança corporativa:
 
 <p align="center">
   <img src="PilaresGovIU.jpg" width="700">
+  <br /> Fonte:  IUPAR, 2020 <br />
 </p>
 
 Organograma da estrutura da administração, estruturado em fórum colegiados, visando uma abordagem diversificada dos assuntos para uma tomada de decisão.
 
 <p align="center">
   <img src="GovIU.png" >
+<br /> Fonte:  IUPAR, 2020 <br />
 </p>
 
 **Princípios Básicos da Governança Corporativa**
@@ -69,9 +73,16 @@ Fonte: IBGC, 2020.
 
 ### Definição do comitê Gestor
 
+Para facilitar a compreensão da Governança em um Data Lake, vamos criar um "case", utilizando uma estrututura organizacional simples, com algumas áreas.
+
 **O PMO, Project Management Office, ou em português, Escritório de Gerenciamento de Projetos**
 
 O PMO tem como objetivo desenvolver e fornecer recursos intelectuais, processos e procedimentos para definição do **escopo**, planejamento das atividades, **pessoas**  e **aquisições** necessárias para execução, a qual fornece um estudo prévio de **prazo** e de  entregáveis, critérios de **qualidade** e aceitação, também fornece um **orçamento** prévio para atingimento dos objetivos com **integração** de pessoas, áreas e ferramentas, identificação e monitoramento de **riscos** e a **comunicação** do andamento do programa , performance e resultados medidos por indicadores pré-definidos para as **partes envolvidas** nos diversos fóruns comitês e demais canais.
+
+<p align="center">
+  <img src="PMO.jpg" >
+<br /> Fonte:  PMI, 2020 <br />
+</p>
 
 Ao receber uma demanda do comitê executivo, o responsável pelo PMO, seleciona uma pessoa e o apresenta como Gerente do Programa, esta pessoa tem como responsabilidade, entender a demanda e definir, planejar, executar, monitorar e divulgar os resultados do programa.
 
@@ -93,15 +104,11 @@ A origem, os canais de captura e o formato dos dados não tem tanta importância
 Um pedido de venda originado pela área de negócios, em seus infinitos canais, contém informações que devem ser protegidas, como dados pessoais do comprador, documentos, endereço forma de pagamento, e de suas preferências de compra, produtos, preços, quantidade e intervalos de compras, pois ele passa pelo setor produtivo, onde é feito o planejamento de produção com dados do produto e quantidade, e depois enviados ao cliente; ou, um cliente que abre uma conta bancária por um canal digital, informa seus dados pessoais e patrimoniais, necessita transitar informações financeiras de uma organização para outra, e recebe as suas correspondências físicas; ou, no envio de um pedido de vitamina D para uma farmácia, gerado por um equipamento ligado a vida, em comum, todos passam por um setor de 
 logística e de distribuição, que pode ter muitas pessoas, através de suas empresas, parcerias e terceirizações e envolvidas com a informação, assim, embora tenhamos um ponto de encontro dos dados, eles estão replicados em outras estruturas de dados nos canais de parceria ou de prestação de serviços, sendo necessário uma política completa para a fragmentação da informação, de modo que cada acesso seja monitorado e controlado, uma definição clara de quem pode ver o que, de forma centralizada na origem da demanda, o demandado deve controlar e proteger a informação nos diversos canais, oferecendo acesso seguro e simplificado nas suas relações empresariais.
 
-**Escritório de Investimentos**
-
-Após viabilidade técnica e identificação das áreas envolvidas e suas responsabilidades, o programa é apresentado no escritório de investimentos pelo patrocinador, gerente do programa e os executivos das áreas envolvidas. O escritório de investimento tem uma cadeira permanente no comitê executivo, tem como responsabilidade estabelecer processos e procedimentos para análise de viabilidade financeira, ferramentas e técnicas para definição e controle de orçamento para liberação de 
-recursos financeiros conforme entregas realizadas e o monitoramento do retorno do investimento.
-
 Agora que entendemos o que precisa ser feito, quem faz o que e quando e qual o investimento, é desenvolvida a governança para o Data Lake, um dos itens mais importante, e é o fator de sucesso do programa, que após definida, deve ser submetida para aprovação do comitê executivo, que aprovada com pessoas, fóruns e responsabilidades, inicia o trabalho.
 
 <p align="center">
   <img src="GovDL.png" >
+  <br /> Fonte: do autor, 2020 <br />
 </p>
 
 ### Política de acesso a dados
@@ -515,6 +522,10 @@ Acesso em: 18 de Nov. de 2020.
 NIC.br - Núcleo de Informação e Coordenação do .br. Como era e como fica a Lei Geral de Proteção de Dados 
 Disponível em:<https://www.nic.br/noticia/na-midia/como-era-e-como-fica-a-lei-geral-de-protecao-de-dados/>
 Acesso em: 16 de Dez. de 2020.
+
+PMI. Developing a proposal for implementing a PMO. PMI.org, 2020. Disponível em:
+https://www.pmi.org/learning/library/process-developing-custom-pmo-proposal-3133
+Acesso em 24 de set de 2020.
 
 RIELLI, Mariana Marques, 2020. slides. Disponível em:
 <https://edisciplinas.usp.br/pluginfile.php/5360635/mod_folder/content/0/Palestra%20Mariana%20Rielli%20sobre%20LGPD%20%28semestre%20passado%29.pdf?forcedownload=1>. Acesso em: 16 de Dez. de 2020.
