@@ -97,7 +97,14 @@ Conforme nosso artigo, a área de tecnologia juntamente com a área Jurídica te
 Como vimos, nossa demanda é para atender a legislação, e como vamos tratar de riscos operacionais e de imagem da organização afim de evitar prejuízos financeiros, as áreas de auditoria e controles internos define como avaliar o programa, e fazem recomendações de políticas e regras de proteção e acesso aos dados, também desenvolvem um checklist de verificação para acompanhamento durante a implantação e após sua operacionalização.
 As áreas de negócios, logística e produção
 
+**Origem dos Dados**
+
 Atualmente temos fonte infinita para captura dos dados, que pode ser por um aplicativo com interação humana, IoT, aprendizado de máquina, sinais e transmissores de qualquer natureza, ás áreas de negócios, mais do que nunca estão entrelaçadas com a ás áreas de logística e produção, pois um pedido de manufatura, não necessariamente passa por uma pessoa, as vendas são realizadas por uma coke ou coffee machine, os pedidos são enviados automaticamente para logística que cuida da distribuição, que pode ser no modelo tradicional, usando carros e equipamentos com operador, ou até nos modelos atuais de drones, carros e equipamentos autônomos, responsáveis pelo abastecimentos dos estoques finais, que a partir de métricas de armazenamento, dispara um pedido de produção aos setores de manufatura, e não se trata apenas de um produto, pode ser um serviço ligado a vida, que faz o diagnóstico conforme parâmetros pré-estabelecidos, e envia para um sistema que a partir de indicadores faz análise e recomendações para evitar enfermidades e a até morte, maquinas ligadas a vida monitoram sinais vitais e a partir da dinâmica do aprendizado de máquina, verifica-se a suplementação vitamínica e/ou proteica necessária.
+
+<p align="center">
+  <img src="Examples-of-Big-Data-sources-1.png" >
+<br /> Fonte: ZIELINSKI, 2018 <br />
+</p>
 
 A origem, os canais de captura e o formato dos dados não tem tanta importância em relação ao armazenamento, pois devemos estar preparados para armazenar todo tipo de dado, mas para implementar uma estratégia de proteção e acesso aos dados, as áreas de negócios devem conhecer profundamente qual o tipo de informação que é importante para alavancar os negócios, bem como o tipo de acesso que cada pessoa ou grupo de pessoas devem ter em seus canais de captura e inserção de dados e manipulação de relatórios. 
 
@@ -536,3 +543,5 @@ https://pt.slideshare.net/AmazonWebServices/big-data-analytics-architecturalpatt
 and-best-practices-ant201r1-aws-reinvent-2018>. Acesso em: 20 de Nov. de
 2020.
 
+ZIELINSKI, Jerzy, 2018. Does Smart Grid need new Informatics Tools?. 
+PRZEGLĄD ELEKTROTECHNICZNY. 1. 32-34. 10.15199/48.2018.04.08. 
