@@ -132,7 +132,7 @@ Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem
 
 <p align="center">
   <img src="dmo.png" >
-  <br /> Fonte: do autor, 2020 <br />
+  <br /> Fonte: phila.gov, 2020 <br />
 </p>
 
 Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da IBM, 2018. é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
@@ -551,9 +551,13 @@ NIC.br - Núcleo de Informação e Coordenação do .br. Como era e como fica a 
 Disponível em:<https://www.nic.br/noticia/na-midia/como-era-e-como-fica-a-lei-geral-de-protecao-de-dados/>
 Acesso em: 16 de Dez. de 2020.
 
+Site Governo da Philadelphia, Estados Unidos da América
+https://www.phila.gov/hhs/data/Pages/default.aspx
+Acesso em: 16 de Dez. de 2020.
+
 PMI. Developing a proposal for implementing a PMO. PMI.org, 2020. Disponível em:
 https://www.pmi.org/learning/library/process-developing-custom-pmo-proposal-3133
-Acesso em 24 de set de 2020.
+Acesso em: 24 de set de 2020.
 
 RIELLI, Mariana Marques, 2020. slides. Disponível em:
 <https://edisciplinas.usp.br/pluginfile.php/5360635/mod_folder/content/0/Palestra%20Mariana%20Rielli%20sobre%20LGPD%20%28semestre%20passado%29.pdf?forcedownload=1>. Acesso em: 16 de Dez. de 2020.
