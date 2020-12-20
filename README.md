@@ -84,7 +84,7 @@ O PMO tem como objetivo desenvolver e fornecer recursos intelectuais, processos 
 <br /> Fonte:  PMI, 2020 <br />
 </p>
 
-Ao receber uma demanda do comitê executivo, o responsável pelo PMO, seleciona uma pessoa e o apresenta como Gerente do Programa, esta pessoa tem como responsabilidade, entender a demanda e definir, planejar, executar, monitorar e divulgar os resultados do programa.
+Conforme diagrama de dependencia, o PMO é uma área com visão de toda a organização, e depende de receber a demanda para estabelecer processos, ferramentas e rotinas de monitoramento e controle no planejamento e execução dos projetos. Ao receber uma demanda, o responsável pelo PMO, seleciona uma pessoa e o apresenta como Gerente do Programa, com a finalidade de engajar um time de projeto capaz de integrar as áreas envolvidas para entender a demanda e produzir o resultado esperado pelos demandates, com restrição de prazo e orçamento.
 
 Para uma melhor contextualização do nosso artigo, vamos descrever o objetivo do programa como **“adequação a legislação de proteção dos dados, identificar e corrigir possíveis vazamentos de informação ou acesso indevido, com fins alheios aos interesses da empresa, que possam vir a trazer algum prejuízo financeiro via indenizações ou a imagem da empresa”**.
 
@@ -118,9 +118,24 @@ Agora que entendemos o que precisa ser feito, quem faz o que e quando e qual o i
   <br /> Fonte: do autor, 2020 <br />
 </p>
 
-### Política de acesso a dados
+Em nossa estrutura de comitês, podemos descrever cada um deles da seguinte forma, composição, atuação e responsabilidade:
 
-### Captação, transformação e expurgo dos dados
+** Comitê Executivo **
+
+Comitê formado pelos principais executivos da empresa, que tem como missão tomar as decisões estratégicas, receber e encerrar as fases ou projetos, responsável pelo  orçamento, aprovar novos investimentos, e engajamento da alta administração.
+
+** Comitê Operacional **
+
+Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem como principal motivação resolver conflitos operacionais, analisar alternativas para o perfeito funcionamento e acesso aos dados, aprovar políticas e controles internos para o uso adequado da informação, oferecer suporte as áreas para identificar e miticar e/ou eliminar os risco de perda e de vazamento de informação restrita.
+
+** Escritório de Gerenciamento de Dados **
+
+<p align="center">
+  <img src="dmo.png" >
+  <br /> Fonte: do autor, 2020 <br />
+</p>
+
+Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da IBM, 2018. é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
 
 ## Lei Geral de Proteção de Dados (LGPD)
 
@@ -486,6 +501,8 @@ resolver.
 AKHATAR, S. Big Data Architect’s Handbook: A guide to biulding proficiency in tools
 systems used by leading big data experts. Birminghan: Packt, 2018.
 
+BARBIERI, CARLOS. Governanca de Dados - Práticas, Conceitos e Novos Caminhos. Rio de Janeiro, Alta Book, 2019
+
 BAUM, D. Cloud Data Lakes for Dummies. Edição Especial. New Jersey: Snowflake.
 2020.
 
@@ -507,6 +524,10 @@ https://www.dataversity.net/brief-history-data-lakes/>. Acesso em: 13 de Nov. de
 
 IBGC, Instituto Brasileiro de Governança Corporativa, 2020. Disponível em:
 https://www.ibgc.org.br/conhecimento/governanca-corporativa
+Acesso em 24 de set de 2020
+
+IBM, Institute for Business, The new hero of big data and analytics: The Chief Data Officer
+https://www.ibm.com/thought-leadership/institute-business-value/report/chief-data-officer
 Acesso em 24 de set de 2020
 
 IUPAR, Site de Relações com Investidores, 2020. Disponível em:
