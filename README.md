@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="Data-Lake-1024x541.png" width="800">
+<br> Figura 1 - Data Lake </br>
+<img src="Data-Lake-1024x541.png" width="800">
 </p>
 
 # PROJETO PRÁTICO - DATA LAKE
@@ -43,16 +44,16 @@ Para exemplificar, abaixo vamos apresentar um modelo de Governanca, escolhemos o
 
 Segundo IUPAR, 2020, O principal objetivo da estrutura de governança corporativa é criar um conjunto eficiente de mecanismos de incentivo e monitoramento para assegurar que os administradores estejam sempre alinhados aos interesses dos acionistas de forma sustentável e perene. 
 
-Os três pilares principais da estrutura de governança corporativa:
 
 <p align="center">
+  <br> Figura 2 - Os três pilares principais da estrutura de governança corporativa:</br>
   <img src="PilaresGovIU.jpg" width="700">
   <br /> Fonte:  IUPAR, 2020 <br />
 </p>
 
-Organograma da estrutura da administração, estruturado em fórum colegiados, visando uma abordagem diversificada dos assuntos para uma tomada de decisão.
 
 <p align="center">
+  <br> Figura 3 - Organograma da estrutura da administração, estruturado em fórum colegiados, visando uma abordagem diversificada dos assuntos para uma tomada de decisão.</br>
   <img src="GovIU.png" >
 <br /> Fonte:  IUPAR, 2020 <br />
 </p>
@@ -80,6 +81,7 @@ Para facilitar a compreensão da Governança em um Data Lake, vamos criar um "ca
 O PMO tem como objetivo desenvolver e fornecer recursos intelectuais, processos e procedimentos para definição do **escopo**, planejamento das atividades, **pessoas**  e **aquisições** necessárias para execução, a qual fornece um estudo prévio de **prazo** e de  entregáveis, critérios de **qualidade** e aceitação, também fornece um **orçamento** prévio para atingimento dos objetivos com **integração** de pessoas, áreas e ferramentas, identificação e monitoramento de **riscos** e a **comunicação** do andamento do programa , performance e resultados medidos por indicadores pré-definidos para as **partes envolvidas** nos diversos fóruns comitês e demais canais.
 
 <p align="center">
+  <br> Figura 4 - Escritório de Gerenciamento de Projetos.</br>
   <img src="PMO.jpg" >
 <br /> Fonte:  PMI, 2020 <br />
 </p>
@@ -102,6 +104,7 @@ As áreas de negócios, logística e produção
 Atualmente temos fonte infinita para captura dos dados, que pode ser por um aplicativo com interação humana, IoT, aprendizado de máquina, sinais e transmissores de qualquer natureza, ás áreas de negócios, mais do que nunca estão entrelaçadas com a ás áreas de logística e produção, pois um pedido de manufatura, não necessariamente passa por uma pessoa, as vendas são realizadas por uma coke ou coffee machine, os pedidos são enviados automaticamente para logística que cuida da distribuição, que pode ser no modelo tradicional, usando carros e equipamentos com operador, ou até nos modelos atuais de drones, carros e equipamentos autônomos, responsáveis pelo abastecimentos dos estoques finais, que a partir de métricas de armazenamento, dispara um pedido de produção aos setores de manufatura, e não se trata apenas de um produto, pode ser um serviço ligado a vida, que faz o diagnóstico conforme parâmetros pré-estabelecidos, e envia para um sistema que a partir de indicadores faz análise e recomendações para evitar enfermidades e a até morte, maquinas ligadas a vida monitoram sinais vitais e a partir da dinâmica do aprendizado de máquina, verifica-se a suplementação vitamínica e/ou proteica necessária.
 
 <p align="center">
+  <br> Figura 5 - Fonte de Dados</br>
   <img src="Examples-of-Big-Data-sources-1.png" >
 <br /> Fonte: ZIELINSKI, 2018 <br />
 </p>
@@ -114,6 +117,7 @@ logística e de distribuição, que pode ter muitas pessoas, através de suas em
 Agora que entendemos o que precisa ser feito, quem faz o que e quando e qual o investimento, é desenvolvida a governança para o Data Lake, um dos itens mais importante, e é o fator de sucesso do programa, que após definida, deve ser submetida para aprovação do comitê executivo, que aprovada com pessoas, fóruns e responsabilidades, inicia o trabalho.
 
 <p align="center">
+  <br> Figura 6 - Estrutura de Comitês</br>
   <img src="GovDL.png" >
   <br /> Fonte: do autor, 2020 <br />
 </p>
@@ -131,6 +135,7 @@ Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem
 **Escritório de Gerenciamento de Dados**
 
 <p align="center">
+  <br> Figura 7 - Escritório de Gerenciamento de Dados</br>
   <img src="dmo.png" >
   <br /> Fonte: phila.gov, 2020 <br />
 </p>
@@ -154,6 +159,7 @@ O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 201
 
 
 <p align="center">
+  <br> Figura 8 - </br>  
   <img src="lgpd01.jpg">
   <br />
   Fonte: RIELLI, 2020
@@ -210,6 +216,7 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 
 
 <p align="center">
+  <br> Figura 9 - </br>  
   <img src="lgpd02.jpg">
   <br />
    Fonte: Adaptado de RIELLI, 2020
@@ -241,6 +248,7 @@ O tratamento de dados pessoais, conforme disposição do art. 7º da LGPD, somen
 **X** para a proteção do crédito, nos termos do Código de Defesa do Consumidor (CDC).
 
 <p align="center">
+  <br> Figura 10 - </br>  
   <img src="lgpd03.jpg">
 </p>
 
@@ -271,7 +279,7 @@ arquitetura simples dessa tecnologia, exemplificando as grandes fases do process
 divididos entre captura, armazenamento e entrega dos dados.
 
 <p align="center">
-  Figura 7 - Arquitetura do Data Lake tradicional. 
+  Figura 11 - Arquitetura do Data Lake tradicional. 
   <br />
   <img src="IMAGEM-01.jpg" >
   <br />
@@ -321,7 +329,7 @@ de uma pessoa solicitando um motorista, dependendo da sua localização dentro d
 um centro urbano com uma determinada condição climática.
 
 <p align="center">
-  Figura 8 - “A cada um minuto em 2019...” 
+  Figura 12 - “A cada um minuto em 2019...” 
   <br />
   <img src="IMAGEM-02.jpg" width="600">
   <br />
@@ -351,7 +359,7 @@ muitos outros. Sendo assim, é interessante enxergar a arquitetura de dados como
 grandes pilares, conforme descrito na Figura 9 a seguir.
 
 <p align="center">
-  Figura 9 - Processos de Big Data simplificado. 
+  Figura 13 - Processos de Big Data simplificado. 
   <br />
   <img src="IMAGEM-03.jpg" >
   <br />
@@ -376,7 +384,7 @@ descreve uma arquitetura genérica de referência para ser utilizada em ambiente
 Big Data bem como a descrição de cada componente.
 
 <p align="center">
-  Figura 10 - Arquitetura de componentes de Big Data. 
+  Figura 14 - Arquitetura de componentes de Big Data. 
   <br />
   <img src="IMAGEM-04.jpg" >
   <br />
