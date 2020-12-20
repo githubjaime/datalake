@@ -120,15 +120,15 @@ Agora que entendemos o que precisa ser feito, quem faz o que e quando e qual o i
 
 Em nossa estrutura de comitês, podemos descrever cada um deles da seguinte forma, composição, atuação e responsabilidade:
 
-** Comitê Executivo **
+**Comitê Executivo**
 
 Comitê formado pelos principais executivos da empresa, que tem como missão tomar as decisões estratégicas, receber e encerrar as fases ou projetos, responsável pelo  orçamento, aprovar novos investimentos, e engajamento da alta administração.
 
-** Comitê Operacional **
+**Comitê Operacional**
 
 Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem como principal motivação resolver conflitos operacionais, analisar alternativas para o perfeito funcionamento e acesso aos dados, aprovar políticas e controles internos para o uso adequado da informação, oferecer suporte as áreas para identificar e miticar e/ou eliminar os risco de perda e de vazamento de informação restrita.
 
-** Escritório de Gerenciamento de Dados **
+**Escritório de Gerenciamento de Dados**
 
 <p align="center">
   <img src="dmo.png" >
