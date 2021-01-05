@@ -159,7 +159,7 @@ O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 201
 
 
 <p align="center">
-  <br> Figura 8 - </br>  
+  <br> Figura 8 - Via crucis da LGPD </br>  
   <img src="lgpd01.jpg">
   <br />
   Fonte: RIELLI, 2020
