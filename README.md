@@ -17,6 +17,7 @@
   * [Captação, transformação e expurgo dos dados](https://github.com/elainefabiola/datalake/blob/main/README.md#capta%C3%A7%C3%A3o-transforma%C3%A7%C3%A3o-e-expurgo-dos-dados)
 * [Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake#lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
   * [O que norteia a LGPD](https://github.com/elainefabiola/datalake#o-que-norteia-a-lgpd)
+   * [Dado pessoal](#)
   * [Direito a privacidade na era digital](#)
   * [Comparação entre a GDPR e a LGPD](#)
   * [Data Lake na LGPD](#)
@@ -172,7 +173,7 @@ O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 201
 Conforme escrito no seu art. 1° que dispõ.
 **O tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e d privacidade e o livre desenvolvimento da personalidade da pessoa natural.**
 ****
-
+### Dado pessoal ###
 
 Para os fins de aplicação LGPD os dados são definidos como:
 
