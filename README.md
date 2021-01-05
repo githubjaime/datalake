@@ -142,7 +142,8 @@ Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem
 
 Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da IBM, 2018. é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
 
-## Lei Geral de Proteção de Dados (LGPD)
+## Lei Geral de Proteção de Dados (LGPD)##
+### O que norteia a LGPD ###
 
 O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 2010 foi realizada a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do  Núcleo de Informação e Coordenação do Ponto BR (NIC.br). A linha do tempo abaixo mostra os debates e o surgimento da LGPD (NIC.BR,2020):
 
