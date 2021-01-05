@@ -179,6 +179,15 @@ Para os fins de aplicação LGPD os dados são definidos como:
 
       * Identificada e Identificável (cookies, outros identificadores eletrônicos e geoloacionais)
 
+
+<p align="center">
+  <br> Figura 8 - </br>  
+  <img src="elementopessoal.jpg">
+  <br />
+  Fonte: Elaborada pelo autor
+  <br />
+  
+</p>
 **II - dado pessoal sensível:** dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;
 
       reas de monitoramento, Auditoria e Controles Internos**
