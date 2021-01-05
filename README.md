@@ -181,7 +181,7 @@ Para os fins de aplicação LGPD os dados são definidos como:
 
 
 <p align="center">
-  <br> Figura 8 - </br>  
+  <br> Figura 9 -Elemento dado pessoal </br>  
   <img src="elementopessoal.jpg">
   <br />
   Fonte: Elaborada pelo autor
