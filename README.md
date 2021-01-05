@@ -15,7 +15,7 @@
   * [Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#defini%C3%A7%C3%A3o-do-comit%C3%AA-gestor)
   * [Política de acesso a dados](https://github.com/elainefabiola/datalake/blob/main/README.md#pol%C3%ADtica-de-acesso-a-dados)
   * [Captação, transformação e expurgo dos dados](https://github.com/elainefabiola/datalake/blob/main/README.md#capta%C3%A7%C3%A3o-transforma%C3%A7%C3%A3o-e-expurgo-dos-dados)
-* [LGPD](#)
+* [Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](#)
   * [O que norteia a LGPD](#)
   * [Direito a privacidade na era digital](#)
   * [Comparação entre a GDPR e a LGPD](#)
