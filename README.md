@@ -20,8 +20,8 @@
    * [Dado pessoal](https://github.com/elainefabiola/datalake#dado-pessoal)
   * [Direitos garantidos aos titulares de dados](https://github.com/elainefabiola/datalake#direitos-garantidos-aos-titulares-de-dados)
   * [Como realizar o tratamento dos dados pessoais](https://github.com/elainefabiola/datalake#como-realizar-o-tratamento-dos-dados-pessoais)
-  * [Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)](#)
-  * [Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)](#)
+  * [Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)](https://github.com/elainefabiola/datalake#relat%C3%B3rio-de-impacto-%C3%A0-prote%C3%A7%C3%A3o-dos-dados-pessoais-ripd)
+ 
   * [Data Lake na LGPD](#)
  * [O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-o-data-lake)
    * [Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#origem-do-termo)
@@ -299,7 +299,16 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
 
 Art. 5º Para os fins desta Lei, considera-se:
 
-XVII - relatório de impacto à proteção de dados pessoais: documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco; 
+**XVII - relatório de impacto à proteção de dados pessoais:** documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco; 
+
+Enquanto o art. 5º inciso XVII define o que é um RIPD, o seu conteúdo mínimo é indicado pelo
+no art. 38.
+
+**Art. 38. A autoridade nacional poderá determinar ao controlador que elabore relatório
+de impacto à proteção de dados pessoais**, inclusive de dados sensíveis, referente a suas
+operações de tratamento de dados, nos termos de regulamento, observados os segredos
+comercial e industrial.
+
 
 
 ## <a name=“sectionj1”><a/> O Data Lake 
