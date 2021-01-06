@@ -297,6 +297,14 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
 
 ### Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)  ###
 
+<p align="center">
+  <br> Figura 13 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
+  <img src="art777.jpg">
+  <br />
+   Fonte: Elaborada pelo autor, 2020
+  <br />
+
+
 Art. 5º Para os fins desta Lei, considera-se:
 
 **XVII - relatório de impacto à proteção de dados pessoais:** documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco; 
