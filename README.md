@@ -249,8 +249,6 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 
 ### Como realizar o tratamento dos dados pessoais ###
 
-Dentro da Lei Geral de Proteção de Dados, temos no Capítulo II - Do tratamento de dados pessoais. Sobre o tratamento de dados pessoais possui as seguintes seções: Dos Requisitos para o Tratamento de Dados Pessoais, Do Tratamento de Dados Pessoais Sensíveis, Do Tratamento de Dados Pessoais de Crianças e de Adolescentes e Do Término do Tratamento de Dados. Por esse motivo teve ser levado em consideração os direitos do titular e os deveres do controlado destes dados. 
-
 <p align="center">
   <br> Figura 12 - Hipóteses de tratamento de dados pessoais </br>  
   <img src="art7.jpg">
@@ -258,6 +256,10 @@ Dentro da Lei Geral de Proteção de Dados, temos no Capítulo II - Do tratament
    Fonte: Elaborada pelo autor, 2020
   <br />
 </p>
+
+Dentro da Lei Geral de Proteção de Dados, temos no Capítulo II - Do tratamento de dados pessoais. Sobre o tratamento de dados pessoais possui as seguintes seções: Dos Requisitos para o Tratamento de Dados Pessoais, Do Tratamento de Dados Pessoais Sensíveis, Do Tratamento de Dados Pessoais de Crianças e de Adolescentes e Do Término do Tratamento de Dados. Por esse motivo teve ser levado em consideração os direitos do titular e os deveres do controlado destes dados. 
+
+
 
 O tratamento de dados pessoais, conforme disposição do art. 7º da LGPD, somente poderá ocorrer nos seguintes casos:
 
