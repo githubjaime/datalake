@@ -286,16 +286,21 @@ O tratamento de dados pessoais, conforme disposição do art. 7º da LGPD, somen
 
 **X** para a proteção do crédito, nos termos do Código de Defesa do Consumidor (CDC).
 
-<p align="center">
-  <br> Figura 10 - </br>  
-  <img src="lgpd03.jpg">
-</p>
 
 O tratamento de dados pessoais de crianças e de adolescentes, conforme disposição do art. 14º da LGPD, somente poderá ocorrer nos seguintes casos:
 
 **I** - consentimento específico e  dado por pelo menos um dos pais ou pelo responsável legal;
 
 **II** - No tratamento de dados os controladores deverão manter pública a informação sobre os tipos de dados coletados, a forma de sua utilização;
+
+
+
+### Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)  ###
+
+Art. 5º Para os fins desta Lei, considera-se:
+
+XVII - relatório de impacto à proteção de dados pessoais: documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco; 
+
 
 ## <a name=“sectionj1”><a/> O Data Lake 
 ### Origem do Termo
