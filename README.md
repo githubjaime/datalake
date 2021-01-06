@@ -643,4 +643,6 @@ and-best-practices-ant201r1-aws-reinvent-2018>. Acesso em: 20 de Nov. de
 2020.
 
 ZIELINSKI, Jerzy, 2018. Does Smart Grid need new Informatics Tools?. 
-PRZEGLĄD ELEKTROTECHNICZNY. 1. 32-34. 10.15199/48.2018.04.08. 
+PRZEGLĄD ELEKTROTECHNICZNY. 1. 32-34. 10.15199/48.2018.04.08. Disponível em:<https://www.researchgate.net/publication/324230350_Does_Smart_Grid_need_new_Informatics_Tools>. Acesso em: 20 de Nov. de
+2020.
+
