@@ -18,7 +18,7 @@
 * [Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake#lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
   * [O que norteia a LGPD](https://github.com/elainefabiola/datalake#o-que-norteia-a-lgpd)
    * [Dado pessoal](https://github.com/elainefabiola/datalake#dado-pessoal)
-  * [Direitos garantidos aos titulares de dados](#)
+  * [Direitos garantidos aos titulares de dados](https://github.com/elainefabiola/datalake#direitos-garantidos-aos-titulares-de-dados)
   * [Comparação entre a GDPR e a LGPD](#)
   * [Data Lake na LGPD](#)
  * [O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-o-data-lake)
