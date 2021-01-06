@@ -13,7 +13,8 @@
 * [Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#governan%C3%A7a-de-dados-em-data-lake)
   * [Como promover a Governança em um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#como-promover-a-governan%C3%A7a-em-um-data-lake)
   * [Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#defini%C3%A7%C3%A3o-do-comit%C3%AA-gestor)
-  * [Escritório de gerenciamento de dados](https://github.com/elainefabiola/datalake/blob/main/README.md#escritorio-de-gerenciamento-de-dados)
+  * [Política de acesso a dados](https://github.com/elainefabiola/datalake/blob/main/README.md#pol%C3%ADtica-de-acesso-a-dados)
+  * [Captação, transformação e expurgo dos dados](https://github.com/elainefabiola/datalake/blob/main/README.md#capta%C3%A7%C3%A3o-transforma%C3%A7%C3%A3o-e-expurgo-dos-dados)
 * [Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake#lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
   * [O que norteia a LGPD](https://github.com/elainefabiola/datalake#o-que-norteia-a-lgpd)
    * [Dado pessoal](https://github.com/elainefabiola/datalake#dado-pessoal)
@@ -305,9 +306,9 @@ de impacto à proteção de dados pessoais**, inclusive de dados sensíveis, ref
 operações de tratamento de dados, nos termos de regulamento, observados os segredos
 comercial e industrial.
 
-### Data Lake na LGPD ###
+### Data Lakes na LGPD ###
 
-Com a entrada em vigor da LGPD, as preocupações dos usuários com a privacidade de dados deve ser direcionada aos documentos não estruturados. Segundo a cartilha publicada pelo Centro XXX XXXX (CGE) de 2020, os dados não-estruturados são dados não organizados dentro de uma estrutura rígida definida, mas que estão presentes, por exemplo, em um arquivo de texto, tais como textos, planilhas, imagens, arquivos de áudio ou vídeo. Esses arquivos estão repletos de dados de usuários que precisam ser controlados e protegidos, contra vazamentos e acessos não autorizados. Esses dados não são mantidos em SGBDs, mas sim em Data Lakes.
+Com a entrada em vigor da LGPD, as preocupações dos usuários com a privacidade de dados deve ser direcionada aos documentos não estruturados. Segundo a cartilha publicada pela Controladoria Geral do Estado de Minas Gerais (CGE-MG) de 2020, os dados não-estruturados são dados não organizados dentro de uma estrutura rígida definida, mas que estão presentes, por exemplo, em um arquivo de texto, tais como textos, planilhas, imagens, arquivos de áudio ou vídeo. Esses arquivos estão repletos de dados de usuários que precisam ser controlados e protegidos, contra vazamentos e acessos não autorizados. Esses dados não são mantidos em SGBDs, mas sim em Data Lakes.
 
 Uma das medidas que podemos tomar para assegurar a proteção da maior parte dos documentos não estruturados é a adoção de sistemas de gestão eletrônica de documentos no ciclo de vida dos dados pessoais que só trafegam em modo criptografado e anonimizados. 
 
@@ -580,6 +581,8 @@ BAUM, D. Cloud Data Lakes for Dummies. Edição Especial. New Jersey: Snowflake.
 2020.
 
 BRASIL. Lei nº. 13.709, de 14 de agosto de 2018.Dispõe sobre a proteção de dados pessoais e altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet). Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/Lei/L13709.htm Acesso em: 13 de Nov 2020.
+
+CGE-MG. Cartilha LGPD Disponível em: <https://cge.mg.gov.br/download/category/35-arquivos-diversos?download=450:cartilha-lgpd> Acesso em: 02 de Jan. de 2021
 
 DATAOPS MANIFESTO, DataOps Manifesto.org, 2019 Disponível em: <
 https://www.dataopsmanifesto.org/>. Acesso em: 25 de Nov. de 2020.
