@@ -317,7 +317,16 @@ de impacto à proteção de dados pessoais**, inclusive de dados sensíveis, ref
 operações de tratamento de dados, nos termos de regulamento, observados os segredos
 comercial e industrial.
 
+### O ciclo de vida do tratamento dos dados pessoais ###
 
+Em resumo podemos entender o tratamento de dados como um ciclo de vida. Confome as fases apresentada na figura abaixo, as quais correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
+
+<p align="center">
+  <br> Figura 13 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
+  <img src="ripd2.jpg">
+  <br />
+   Fonte: Elaborada pelo autor, 2020
+  <br />
 
 ## <a name=“sectionj1”><a/> O Data Lake 
 ### Origem do Termo
