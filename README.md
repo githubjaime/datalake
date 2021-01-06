@@ -323,7 +323,7 @@ Em resumo podemos entender o tratamento de dados como um ciclo de vida. Confome 
 
 <p align="center">
   <br> Figura 13 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
-  <img src="ripd2.jpg">
+  <img src="ciclovida.jpg">
   <br />
    Fonte: Elaborada pelo autor, 2020
   <br />
