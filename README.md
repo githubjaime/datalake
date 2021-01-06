@@ -299,7 +299,7 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
 
 <p align="center">
   <br> Figura 13 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
-  <img src="art777.jpg">
+  <img src="ripd2.jpg">
   <br />
    Fonte: Elaborada pelo autor, 2020
   <br />
