@@ -20,8 +20,8 @@
    * [Dado pessoal](https://github.com/elainefabiola/datalake#dado-pessoal)
   * [Direitos garantidos aos titulares de dados](https://github.com/elainefabiola/datalake#direitos-garantidos-aos-titulares-de-dados)
   * [Como realizar o tratamento dos dados pessoais](https://github.com/elainefabiola/datalake#como-realizar-o-tratamento-dos-dados-pessoais)
-  * [Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)]
-  * [Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)] (#)
+  * [Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)](#)
+  * [Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)](#)
   * [Data Lake na LGPD](#)
  * [O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-o-data-lake)
    * [Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#origem-do-termo)
