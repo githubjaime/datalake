@@ -309,9 +309,10 @@ comercial e industrial.
 
 ### Data Lake na LGPD ###
 
-Com a entrada em vigor da LGPD das preocupações dos usuários com a privacidade de dados devem ser os documentos não estruturados. Segundo CGE de 2020 os dados não-estruturados são dados não organizados dentro de uma estrutura rígida definida, mas que estão presentes, por exemplo, em um arquivo de texto - como textos, planilhas, imagens, arquivos de áudio ou vídeo) estão cheios de dados de usuários que precisam estar controlados, e protegidos, contra vazamentos e acessos não autorizados e esses dados que não são mantidos em SGBDs, mas em Data Lakes.
+Com a entrada em vigor da LGPD das preocupações dos usuários com a privacidade de dados devem ser os documentos não estruturados. Segundo CGE de 2020 os dados não-estruturados são dados não organizados dentro de uma estrutura rígida definida, mas que estão presentes, por exemplo, em um arquivo de texto - como textos, planilhas, imagens, arquivos de áudio ou vídeo) estão cheios de dados de usuários que precisam estar controlados, e protegidos, contra vazamentos e acessos não autorizados e esses dados não são mantidos em SGBDs, mas em Data Lakes.
 
-### O ciclo de vida dos dados pessoais ###
+Uma das medidas que podemos tomar para a maior parte dos documentos não estruturados é a adoção de sistemas de gestão eletrônica de documentos no ciclo de vida dos dados pessoais que só trafegam em modo criptografado. 
+
 
 Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fases apresentadas na figura abaixo, correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
 
