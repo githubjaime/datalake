@@ -19,7 +19,7 @@
   * [O que norteia a LGPD](https://github.com/elainefabiola/datalake#o-que-norteia-a-lgpd)
    * [Dado pessoal](https://github.com/elainefabiola/datalake#dado-pessoal)
   * [Direitos garantidos aos titulares de dados](https://github.com/elainefabiola/datalake#direitos-garantidos-aos-titulares-de-dados)
-  * [Comparação entre a GDPR e a LGPD](#)
+  * [Como realizar o tratamento dos dados pessoais](#)
   * [Data Lake na LGPD](#)
  * [O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-o-data-lake)
    * [Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#origem-do-termo)
@@ -247,7 +247,7 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 **X - responsabilização e prestação de contas:** demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
 
 
-
+### Como realizar o tratamento dos dados pessoais ###
 
 Dentro da Lei Geral de Proteção de Dados, temos no Capítulo II - Do tratamento de dados pessoais. Sobre o tratamento de dados pessoais possui as seguintes seções: Dos Requisitos para o Tratamento de Dados Pessoais, Do Tratamento de Dados Pessoais Sensíveis, Do Tratamento de Dados Pessoais de Crianças e de Adolescentes e Do Término do Tratamento de Dados. Por esse motivo teve ser levado em consideração os direitos do titular e os deveres do controlado destes dados. 
 
