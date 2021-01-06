@@ -255,7 +255,7 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
   <br />
    Fonte: Elaborada pelo autor, 2020
   <br />
-</p>
+
 
 
 
