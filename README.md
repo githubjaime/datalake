@@ -215,6 +215,15 @@ Como vimos, noDLa demanda é para atender a legislação, e como vamos tratar de
 
 ### Direitos garantidos aos titulares de dados ###
 
+<p align="center">
+  <br> Figura 9 - </br>  
+  <img src="art6.jpg">
+  <br />
+   Fonte: Adaptado de RIELLI, 2020
+  <br />
+</p>
+
+
 A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguidos  ao  realizar tratamentos de dados pessoais:
 
 **I - finalidade:** realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades;
@@ -238,13 +247,6 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 **X - responsabilização e prestação de contas:** demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
 
 
-<p align="center">
-  <br> Figura 9 - </br>  
-  <img src="lgpd02.jpg">
-  <br />
-   Fonte: Adaptado de RIELLI, 2020
-  <br />
-</p>
 
 
 Dentro da Lei Geral de Proteção de Dados, temos no Capítulo II - Do tratamento de dados pessoais. Sobre o tratamento de dados pessoais possui as seguintes seções: Dos Requisitos para o Tratamento de Dados Pessoais, Do Tratamento de Dados Pessoais Sensíveis, Do Tratamento de Dados Pessoais de Crianças e de Adolescentes e Do Término do Tratamento de Dados. Por esse motivo teve ser levado em consideração os direitos do titular e os deveres do controlado destes dados. 
