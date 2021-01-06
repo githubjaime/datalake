@@ -306,7 +306,7 @@ de impacto à proteção de dados pessoais**, inclusive de dados sensíveis, ref
 operações de tratamento de dados, nos termos de regulamento, observados os segredos
 comercial e industrial.
 
-### Data Lakes na LGPD ###
+### Data Lake na LGPD ###
 
 Com a entrada em vigor da LGPD, as preocupações dos usuários com a privacidade de dados deve ser direcionada aos documentos não estruturados. Segundo a cartilha publicada pela Controladoria Geral do Estado de Minas Gerais (CGE-MG) de 2020, os dados não-estruturados são dados não organizados dentro de uma estrutura rígida definida, mas que estão presentes, por exemplo, em um arquivo de texto, tais como textos, planilhas, imagens, arquivos de áudio ou vídeo. Esses arquivos estão repletos de dados de usuários que precisam ser controlados e protegidos, contra vazamentos e acessos não autorizados. Esses dados não são mantidos em SGBDs, mas sim em Data Lakes.
 
