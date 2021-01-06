@@ -199,7 +199,7 @@ Para os fins de aplicação da LGPD os dados são definidos como:
 
       Áreas de monitoramento, Auditoria e Controles Internos**
 
-Como vimos, noDLa demanda é para atender a legislação, e como vamos tratar de riscos operacionais e de imagem da organização afim de evitar prejuízos financeiros, as áre*Podem acarretar em práticas discriminatórias
+A LGPD delinea as diretrizes de como tratar de riscos operacionais e de imagem da organização, afim de evitar prejuízos financeiros e riscos jurídicos, protegendo dados cujo uso indevido *Pode acarretar em práticas discriminatórias
       
       *Saúde, orientação sexual, política, biometria, genéticos
       *Dados de crianças e adolescentes
@@ -252,12 +252,10 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 
 
 
-
-Dentro da Lei Geral de Proteção de Dados, temos no Capítulo II - Do tratamento de dados pessoais. Sobre o tratamento de dados pessoais possui as seguintes seções: Dos Requisitos para o Tratamento de Dados Pessoais, Do Tratamento de Dados Pessoais Sensíveis, Do Tratamento de Dados Pessoais de Crianças e de Adolescentes e Do Término do Tratamento de Dados. Por esse motivo teve ser levado em consideração os direitos do titular e os deveres do controlado destes dados. 
-
+O capítulo II da LGPD traça as orientações e diretrizes sobre como devemos realizar o tratamento de dados pessoais. Sobre o tópico de tratamento de dados pessoais, o capítulo possui as seguintes seções: Dos Requisitos para o Tratamento de Dados Pessoais, Do Tratamento de Dados Pessoais Sensíveis, Do Tratamento de Dados Pessoais de Crianças e de Adolescentes e Do Término do Tratamento de Dados. Por esse motivo teve ser levado em consideração os direitos do titular e os deveres do controlado destes dados. 
 
 
-O tratamento de dados pessoais, conforme disposição do art. 7º da LGPD, somente poderá ocorrer nos seguintes casos:
+O tratamento de dados pessoais, conforme a disposição do art. 7º da LGPD, somente poderá ocorrer nos seguintes casos:
 
 **I** - mediante o fornecimento de consentimento pelo titular; 
 
@@ -301,7 +299,7 @@ Art. 5º Para os fins desta Lei, considera-se:
 
 **XVII - relatório de impacto à proteção de dados pessoais:** documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco; 
 
-Enquanto o art. 5º inciso XVII define o que é um RIPD, o seu conteúdo mínimo é indicado pelo
+Enquanto o art. 5º inciso XVII define o que é um RIPD, o seu conteúdo mínimo é indicado pelo o disposto
 no art. 38.
 
 **Art. 38. A autoridade nacional poderá determinar ao controlador que elabore relatório
@@ -311,7 +309,7 @@ comercial e industrial.
 
 ### O ciclo de vida dos dados pessoais ###
 
-Em resumo podemos entender o tratamento de dados como um ciclo de vida. Confome as fases apresentada na figura abaixo, as quais correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
+Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fases apresentadas na figura abaixo, correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
 
 <p align="center">
   <br> Figura 14 - Ciclo de vida dos dados pessoais </br>  
