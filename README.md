@@ -18,7 +18,7 @@
 * [Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake#lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
   * [O que norteia a LGPD](https://github.com/elainefabiola/datalake#o-que-norteia-a-lgpd)
    * [Dado pessoal](https://github.com/elainefabiola/datalake#dado-pessoal)
-  * [Direito a privacidade na era digital](#)
+  * [Direitos garantidos aos titulares de dados](#)
   * [Comparação entre a GDPR e a LGPD](#)
   * [Data Lake na LGPD](#)
  * [O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-o-data-lake)
@@ -213,6 +213,7 @@ Como vimos, noDLa demanda é para atender a legislação, e como vamos tratar de
 
 **III - dado anonimizado:** dado relativo a titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento;
 
+### Direitos garantidos aos titulares de dados ###
 
 A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguidos  ao  realizar tratamentos de dados pessoais:
 
