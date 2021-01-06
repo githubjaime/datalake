@@ -307,6 +307,10 @@ de impacto à proteção de dados pessoais**, inclusive de dados sensíveis, ref
 operações de tratamento de dados, nos termos de regulamento, observados os segredos
 comercial e industrial.
 
+### Data Lake na LGPD ###
+
+Com a entrada em vigor da LGPD das preocupações dos usuários com a privacidade de dados devem ser os documentos não estruturados. Segundo CGE de 2020 os dados não-estruturados são dados não organizados dentro de uma estrutura rígida definida, mas que estão presentes, por exemplo, em um arquivo de texto - como textos, planilhas, imagens, arquivos de áudio ou vídeo) estão cheios de dados de usuários que precisam estar controlados, e protegidos, contra vazamentos e acessos não autorizados.
+
 ### O ciclo de vida dos dados pessoais ###
 
 Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fases apresentadas na figura abaixo, correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
@@ -317,6 +321,8 @@ Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fase
   <br />
    Fonte: Elaborada pelo autor, 2020
   <br />
+  
+ 
 
 ## <a name=“sectionj1”><a/> O Data Lake 
 ### Origem do Termo
