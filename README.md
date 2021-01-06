@@ -13,8 +13,6 @@
 * [Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#governan%C3%A7a-de-dados-em-data-lake)
   * [Como promover a Governança em um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#como-promover-a-governan%C3%A7a-em-um-data-lake)
   * [Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#defini%C3%A7%C3%A3o-do-comit%C3%AA-gestor)
-  * [Política de acesso a dados](https://github.com/elainefabiola/datalake/blob/main/README.md#pol%C3%ADtica-de-acesso-a-dados)
-  * [Captação, transformação e expurgo dos dados](https://github.com/elainefabiola/datalake/blob/main/README.md#capta%C3%A7%C3%A3o-transforma%C3%A7%C3%A3o-e-expurgo-dos-dados)
 * [Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake#lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
   * [O que norteia a LGPD](https://github.com/elainefabiola/datalake#o-que-norteia-a-lgpd)
    * [Dado pessoal](https://github.com/elainefabiola/datalake#dado-pessoal)
