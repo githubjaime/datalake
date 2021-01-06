@@ -638,8 +638,7 @@ RIELLI, Mariana Marques, 2020. slides. Disponível em:
 
 SNIVELY, B. Big Data Analytics Architectural Patterns and Best Practices.
 Slideshare.net, 2018. Disponível em: <
-https://pt.slideshare.net/AmazonWebServices/big-data-analytics-architecturalpatterns-
-and-best-practices-ant201r1-aws-reinvent-2018>. Acesso em: 20 de Nov. de
+https://pt.slideshare.net/AmazonWebServices/big-data-analytics-architecturalpatterns-and-best-practices-ant201r1-aws-reinvent-2018 >. Acesso em: 20 de Nov. de
 2020.
 
 ZIELINSKI, Jerzy, 2018. Does Smart Grid need new Informatics Tools?. 
