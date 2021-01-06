@@ -171,15 +171,15 @@ O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 
   
 </p>
 
-A Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020 (FEDERAL,200). A LGPD é um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
-Conforme escrito no seu art. 1° que dispõe.
+A Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020 (FEDERAL,200). A LGPD é um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados, conforme disposto no seu art.1° abaixo.
+
 **O tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e d privacidade e o livre desenvolvimento da personalidade da pessoa natural.**
 
 
 ****
 ### Dado pessoal ###
 
-Para os fins de aplicação LGPD os dados são definidos como:
+Para os fins de aplicação da LGPD os dados são definidos como:
 
 **I - dado pessoal:** informação relacionada a pessoa natural identificada ou identificável
 
@@ -197,7 +197,7 @@ Para os fins de aplicação LGPD os dados são definidos como:
 
 **II - dado pessoal sensível:** dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;
 
-      reas de monitoramento, Auditoria e Controles Internos**
+      Áreas de monitoramento, Auditoria e Controles Internos**
 
 Como vimos, noDLa demanda é para atender a legislação, e como vamos tratar de riscos operacionais e de imagem da organização afim de evitar prejuízos financeiros, as áre*Podem acarretar em práticas discriminatórias
       
