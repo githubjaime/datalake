@@ -251,7 +251,7 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 
 <p align="center">
   <br> Figura 12 - Hipóteses de tratamento de dados pessoais </br>  
-  <img src="art7.jpg">
+  <img src="art77.jpg">
   <br />
    Fonte: Elaborada pelo autor, 2020
   <br />
