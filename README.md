@@ -216,7 +216,7 @@ Como vimos, noDLa demanda é para atender a legislação, e como vamos tratar de
 ### Direitos garantidos aos titulares de dados ###
 
 <p align="center">
-  <br> Figura 11 - </br>  
+  <br> Figura 11 - Direitos garantidos aos titulares de dados </br>  
   <img src="art6.jpg">
   <br />
    Fonte: Elaborada pelo autor, 2020
