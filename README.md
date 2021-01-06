@@ -177,7 +177,7 @@ Conforme escrito no seu art. 1° que dispõ.
 
 <p align="center">
   <br> Figura 9 -Exemplo de uso indevido de dados </br>  
-  <img src="amazon.jpg">
+  <img src="amazon.jpg" width="600">
   <br />
   Fonte: Elaborada pelo autor, 2020
   <br />
@@ -299,7 +299,7 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
 
 <p align="center">
   <br> Figura 13 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
-  <img src="ripd2.jpg" width="600">
+  <img src="ripd2.jpg" >
   <br />
    Fonte: Elaborada pelo autor, 2020
   <br />
