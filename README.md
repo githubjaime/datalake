@@ -177,7 +177,7 @@ Conforme escrito no seu art. 1° que dispõ.
   <br> Figura 9 -Exemplo de uso indevido de dados </br>  
   <img src="amazon.jpg">
   <br />
-  Fonte: Elaborada pelo autor
+  Fonte: Elaborada pelo autor, 2020
   <br />
   
 </p>
@@ -193,10 +193,10 @@ Para os fins de aplicação LGPD os dados são definidos como:
 
 
 <p align="center">
-  <br> Figura 9 -Elemento dado pessoal </br>  
+  <br> Figura 10 -Elemento dado pessoal </br>  
   <img src="elementopessoal2.jpg">
   <br />
-  Fonte: Elaborada pelo autor
+  Fonte: Elaborada pelo autor,2020
   <br />
   
 </p>
@@ -216,10 +216,10 @@ Como vimos, noDLa demanda é para atender a legislação, e como vamos tratar de
 ### Direitos garantidos aos titulares de dados ###
 
 <p align="center">
-  <br> Figura 9 - </br>  
+  <br> Figura 11 - </br>  
   <img src="art6.jpg">
   <br />
-   Fonte: Adaptado de RIELLI, 2020
+   Fonte: Elaborada pelo autor, 2020
   <br />
 </p>
 
