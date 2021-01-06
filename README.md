@@ -148,14 +148,14 @@ Composto por uma equipe multidisciplinar, é a área responsável pelos estudos 
 ## Lei Geral de Proteção de Dados (LGPD)
 ### O que norteia a LGPD ###
 
-O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 2010 foi realizada a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do  Núcleo de Informação e Coordenação do Ponto BR (NIC.br). A linha do tempo abaixo mostra os debates e o surgimento da LGPD (NIC.BR,2020):
+O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 2010 foi realizada a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do Núcleo de Informação e Coordenação do Ponto BR (NIC.br). A linha do tempo abaixo mostra os debates e o surgimento da LGPD (NIC.BR,2020):
 
 * 13.5.16: consulta pública do MJ resulta no PL 5.276/16, de autoria do Poder Executivo;
 * 17.3.18: caso Cambridge Analytica/Facebook;
 * 25.5.18: eficácia plena do GDPR;
 * 29.5.18: PL 5.276/2016 e 4.060/12 declarados prejudicados em face de Subemenda Substitutiva de Plenário (PLC 53/2018 – Orlando Silva). Texto aprovado na Câmara;
 * 10.7.18: PLC 53/18 aprovado no Senado, nos termos do parecer do CAE, restando prejudicado o PLS 330/13;
-* Sanção: 14/8/2018, com veto à criação da Autoridade Nacional de Proteção de Dados (ANPD), sob a alegação de um possível vício de iniciativa (Projeto de lei de iniciativa parlamentar que cria órgão ou entidade da Administração Pública atingiria o desenho de competências legislativas. Haveria, pois, inconstitucionalidade insuperável e insanável, a justificar o veto). Porém, . mais de 40 artigos que se referem diretamente a ANPD não foram vetados, felizmente;
+* Sanção: 14/8/2018, com veto à criação da Autoridade Nacional de Proteção de Dados (ANPD), sob a alegação de um possível vício de iniciativa (Projeto de lei de iniciativa parlamentar que cria órgão ou entidade da Administração Pública atingiria o desenho de competências legislativas. Haveria, pois, inconstitucionalidade insuperável e insanável, a justificar o veto). Porém, mais de 40 artigos que se referem diretamente a ANPD não foram vetados, felizmente;
 * Publicação no Diário Oficial da União: 15/8/2018 (inicialmente com 18 meses de prazo para sua eficácia plena – vacacio legis);
 * MP 869/18: 28/12/2018 (entre outras questões cria a ANPD e acrescenta mais seis meses de vacacio legis);
 * Eficácia plena da LGPD: 16.08.20.
@@ -171,8 +171,8 @@ O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 201
   
 </p>
 
- Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020 (FEDERAL,200). É um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
-Conforme escrito no seu art. 1° que dispõ.
+A Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 18 de setembro de 2020 a partir da sanção, pelo Presidente Jair Bolsonaro, da Lei nº 14.058/2020 (FEDERAL,200). A LGPD é um marco legal que regulamenta o uso, a proteção e a transferência de dados pessoais no Brasil. Ela garante maior vigília  sobre as informações pessoais, exigindo consentimento explícito para coleta e uso dos dados e obriga a oferta de opções para o usuário visualizar, corrigir e excluir esses dados.
+Conforme escrito no seu art. 1° que dispõe.
 **O tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e d privacidade e o livre desenvolvimento da personalidade da pessoa natural.**
 
 
