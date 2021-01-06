@@ -13,6 +13,8 @@
 * [Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#governan%C3%A7a-de-dados-em-data-lake)
   * [Como promover a Governança em um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#como-promover-a-governan%C3%A7a-em-um-data-lake)
   * [Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#defini%C3%A7%C3%A3o-do-comit%C3%AA-gestor)
+  * [Política de acesso a dados](https://github.com/elainefabiola/datalake/blob/main/README.md#pol%C3%ADtica-de-acesso-a-dados)
+  * [Captação, transformação e expurgo dos dados](https://github.com/elainefabiola/datalake/blob/main/README.md#capta%C3%A7%C3%A3o-transforma%C3%A7%C3%A3o-e-expurgo-dos-dados)
 * [Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake#lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
   * [O que norteia a LGPD](https://github.com/elainefabiola/datalake#o-que-norteia-a-lgpd)
    * [Dado pessoal](https://github.com/elainefabiola/datalake#dado-pessoal)
@@ -184,7 +186,7 @@ Para os fins de aplicação da LGPD os dados são definidos como:
 
 
 <p align="center">
-  <br> Figura 10 -Elemento dado pessoal </br>  
+  <br> Figura 9 -Elemento dado pessoal </br>  
   <img src="elementopessoal2.jpg">
   <br />
   Fonte: Elaborada pelo autor,2020
@@ -207,7 +209,7 @@ A LGPD delinea as diretrizes de como tratar de riscos operacionais e de imagem d
 ### Direitos garantidos aos titulares de dados ###
 
 <p align="center">
-  <br> Figura 11 - Direitos garantidos aos titulares de dados </br>  
+  <br> Figura 10 - Direitos garantidos aos titulares de dados </br>  
   <img src="art6.jpg">
   <br />
    Fonte: Elaborada pelo autor, 2020
@@ -241,7 +243,7 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 ### Como realizar o tratamento dos dados pessoais ###
 
 <p align="center">
-  <br> Figura 12 - Hipóteses de tratamento de dados pessoais </br>  
+  <br> Figura 11 - Hipóteses de tratamento de dados pessoais </br>  
   <img src="art777.jpg">
   <br />
    Fonte: Elaborada pelo autor, 2020
@@ -285,7 +287,7 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
 ### Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)  ###
 
 <p align="center">
-  <br> Figura 13 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
+  <br> Figura 12 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
   <img src="ripd2.jpg" >
   <br />
    Fonte: Elaborada pelo autor, 2020
@@ -314,7 +316,7 @@ Uma das medidas que podemos tomar para assegurar a proteção da maior parte dos
 Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fases apresentadas na figura abaixo, correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
 
 <p align="center">
-  <br> Figura 14 - Ciclo de vida dos dados pessoais </br>  
+  <br> Figura 13 - Ciclo de vida dos dados pessoais </br>  
   <img src="ciclovida.jpg" width="600">
   <br />
    Fonte: Elaborada pelo autor, 2020
@@ -343,7 +345,7 @@ arquitetura simples dessa tecnologia, exemplificando as grandes fases do process
 divididos entre captura, armazenamento e entrega dos dados.
 
 <p align="center">
-  Figura 11 - Arquitetura do Data Lake tradicional. 
+  Figura 14 - Arquitetura do Data Lake tradicional. 
   <br />
   <img src="IMAGEM-01.jpg" width="600" >
   <br />
@@ -393,7 +395,7 @@ de uma pessoa solicitando um motorista, dependendo da sua localização dentro d
 um centro urbano com uma determinada condição climática.
 
 <p align="center">
-  Figura 12 - “A cada um minuto em 2019...” 
+  Figura 15 - “A cada um minuto em 2019...” 
   <br />
   <img src="IMAGEM-02.jpg" width="600">
   <br />
@@ -423,7 +425,7 @@ muitos outros. Sendo assim, é interessante enxergar a arquitetura de dados como
 grandes pilares, conforme descrito na Figura 13 a seguir.
 
 <p align="center">
-  Figura 13 - Processos de Big Data simplificado. 
+  Figura 16 - Processos de Big Data simplificado. 
   <br />
   <img src="IMAGEM-03.jpg" >
   <br />
@@ -448,7 +450,7 @@ descreve uma arquitetura genérica de referência para ser utilizada em ambiente
 Big Data bem como a descrição de cada componente.
 
 <p align="center">
-  Figura 14 - Arquitetura de componentes de Big Data. 
+  Figura 17 - Arquitetura de componentes de Big Data. 
   <br />
   <img src="IMAGEM-04.jpg" >
   <br />
