@@ -175,14 +175,6 @@ O debate em torno da privacidade no Brasil é maantigo do que imaginamos. Em 201
 Conforme escrito no seu art. 1° que dispõ.
 **O tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e d privacidade e o livre desenvolvimento da personalidade da pessoa natural.**
 
-<p align="center">
-  <br> Figura 9 -Exemplo de uso indevido de dados </br>  
-  <img src="amazon.jpg" width="600">
-  <br />
-  Fonte: Elaborada pelo autor, 2020
-  <br />
-  
-</p>
 
 ****
 ### Dado pessoal ###
