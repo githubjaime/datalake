@@ -338,7 +338,7 @@ retirados e analisados”
 O Data Lake deixa o dado disponível para ser lido, permitindo que qualquer
 pessoa com o conhecimento apropriado tenha acesso para explorar e analizar toda
 a gama de dados existente no Data Lake afim de obter informação desejada. Para
-entender como o Data Lake possibilita isso, a Figura 11 abaixo mostra uma
+entender como o Data Lake possibilita isso, a Figura 14 abaixo mostra uma
 arquitetura simples dessa tecnologia, exemplificando as grandes fases do processo,
 divididos entre captura, armazenamento e entrega dos dados.
 
@@ -378,7 +378,7 @@ absorver volumes gigantescos de dados é uma característica imperativa nos
 processos de análise de dados atuais e futuros.
 
 **Velocidade:** O segundo V faz alusão à velocidade em que os dados são
-gerados ou inseridos em uma plataforma de Big Data. Na Figura 12 a seguir, podemos ver
+gerados ou inseridos em uma plataforma de Big Data. Na Figura 15 a seguir, podemos ver
 que, na média, em apenas 60 segundos do ano de 2019, foram enviados 18.100.000
 mensagens de texto entre celulares e 4.497.420 de buscas foram realizadas no
 Google, tudo isso alimentando em tempo real os sistemas de dados das empresas
@@ -420,7 +420,7 @@ Independente da arquitetura a ser implementada para Big Data, o ideal é
 que os componentes sejam desacoplados entre si, trazendo benefícios como
 facilidade de manutenção, melhoria de custos, velocidade para escalar o ambiente e
 muitos outros. Sendo assim, é interessante enxergar a arquitetura de dados como
-grandes pilares, conforme descrito na Figura 13 a seguir.
+grandes pilares, conforme descrito na Figura 16 a seguir.
 
 <p align="center">
   Figura 16 - Processos de Big Data simplificado. 
@@ -443,7 +443,7 @@ nessas informações.
 
 Para que uma estrutura de Big Dara entregue o valor descrito com as
 capacidades citadas, é importante que se tenha uma arquitetura de componentes
-que comporte as necessidades descritas anteriormente, sendo assim, a Figura 14 a seguir
+que comporte as necessidades descritas anteriormente, sendo assim, a Figura 17 a seguir
 descreve uma arquitetura genérica de referência para ser utilizada em ambientes de
 Big Data bem como a descrição de cada componente.
 
