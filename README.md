@@ -175,7 +175,7 @@ Conforme escrito no seu art. 1° que dispõ.
 
 <p align="center">
   <br> Figura 9 -Elemento dado pessoal </br>  
-  <img src="amazon.jpg.jpg">
+  <img src="amazon.jpg">
   <br />
   Fonte: Elaborada pelo autor
   <br />
