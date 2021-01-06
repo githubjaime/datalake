@@ -299,7 +299,7 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
 
 <p align="center">
   <br> Figura 13 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
-  <img src="ripd2.jpg">
+  <img src="ripd2.jpg" width="600">
   <br />
    Fonte: Elaborada pelo autor, 2020
   <br />
@@ -322,8 +322,8 @@ comercial e industrial.
 Em resumo podemos entender o tratamento de dados como um ciclo de vida. Confome as fases apresentada na figura abaixo, as quais correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
 
 <p align="center">
-  <br> Figura 13 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
-  <img src="ciclovida.jpg">
+  <br> Figura 14 - Ciclo de vida do tratamento dos dados pessoais </br>  
+  <img src="ciclovida.jpg" width="600">
   <br />
    Fonte: Elaborada pelo autor, 2020
   <br />
@@ -351,7 +351,7 @@ divididos entre captura, armazenamento e entrega dos dados.
 <p align="center">
   Figura 11 - Arquitetura do Data Lake tradicional. 
   <br />
-  <img src="IMAGEM-01.jpg" >
+  <img src="IMAGEM-01.jpg" width="600" >
   <br />
   Fonte: BAUM, 2020, p.4 - Adaptado
   <br />
