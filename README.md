@@ -600,15 +600,15 @@ https://www.dataversity.net/brief-history-data-lakes/>. Acesso em: 13 de Nov. de
 
 IBGC, Instituto Brasileiro de Governança Corporativa, 2020. Disponível em:
 https://www.ibgc.org.br/conhecimento/governanca-corporativa
-Acesso em 24 de set de 2020
+Acesso em 24 de Set de 2020
 
 IBM, Institute for Business, The new hero of big data and analytics: The Chief Data Officer
 https://www.ibm.com/thought-leadership/institute-business-value/report/chief-data-officer
-Acesso em 24 de set de 2020
+Acesso em 24 de Set de 2020
 
 IUPAR, Site de Relações com Investidores, 2020. Disponível em:
 https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt
-Acesso em 24 de set de 2020
+Acesso em 24 de Set de 2020
 
 JAMES, J. What ‘Data Never Sleeps 7.0’ Says—and Doesn’t Say. Domo.com, 2019.
 Disponível em: <https://www.domo.com/blog/what-data-never-sleeps-7-0-says-anddoesnt-
@@ -633,7 +633,7 @@ Acesso em: 16 de Dez. de 2020.
 
 PMI. Developing a proposal for implementing a PMO. PMI.org, 2020. Disponível em:
 https://www.pmi.org/learning/library/process-developing-custom-pmo-proposal-3133
-Acesso em: 24 de set de 2020.
+Acesso em: 24 de Set de 2020.
 
 RIELLI, Mariana Marques, 2020. slides. Disponível em:
 <https://edisciplinas.usp.br/pluginfile.php/5360635/mod_folder/content/0/Palestra%20Mariana%20Rielli%20sobre%20LGPD%20%28semestre%20passado%29.pdf?forcedownload=1>. Acesso em: 16 de Dez. de 2020.
