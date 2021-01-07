@@ -445,14 +445,12 @@ que comporte as necessidades descritas anteriormente, sendo assim, a Figura 17 a
 descreve uma arquitetura genérica de referência para ser utilizada em ambientes de
 Big Data bem como a descrição de cada componente.
 
-<p align="center">
-  Figura 17 - Arquitetura de componentes de Big Data. 
-  <br />
-  <img src="IMAGEM-04.jpg" >
-  <br />
-  Fonte: [MICROSOFT, 2019](https://docs.microsoft.com/pt-br/azure/architecture/guide/architecture-styles/big-data)  
-  <br />
-</p>
+Figura 17 - Arquitetura de componentes de Big Data. 
+<br />
+<img src="IMAGEM-04.jpg" >
+<br />
+Fonte: [MICROSOFT, 2019](https://docs.microsoft.com/pt-br/azure/architecture/guide/architecture-styles/big-data)  
+<br />
 
 **Origem de dados:** (Data Sources) Nada mais é do que a origem dos diversos dados que
 comporão a plataforma de Big Data e, levando em conta o conceito de Data Lake, a
