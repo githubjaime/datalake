@@ -674,7 +674,8 @@ Com a entrada em vigor da LGPD, as preocupações dos usuários com a privacidad
 Uma das medidas que podemos tomar para assegurar a proteção da maior parte dos documentos não estruturados é a adoção de sistemas de gestão eletrônica de documentos no ciclo de vida dos dados pessoais que só trafegam em modo criptografado e anonimizados. Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fases apresentadas na Figura 18 abaixo, correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
 
 Figura 18 - Ciclo de vida dos dados pessoais 
-<img src="ciclovida.jpg" width="500">
+<br />
+<img src="ciclovida.jpg" width="400">
 <br />
 Fonte: Elaborado pelos autores, 2020
 <br />
