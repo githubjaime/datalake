@@ -320,8 +320,8 @@ Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fase
   
  
 
-## <a name=“sectionj1”><a/> 4. O Data Lake 
-### Origem do Termo
+## <a name=“sectionj1”><a/> 4 O Data Lake 
+### 4.1 Origem do Termo
 
 Por conta dessa necessidade, em 2010 James Dixon cunhou o termo Data
 Lake [(FOOTE, K. 2018)](https://www.dataversity.net/brief-history-data-lakes/>), descrevendo uma arquitetura híbrida para armazenamento
@@ -331,7 +331,7 @@ arquitetura orientada à dados. Dixon [(BAUM, 2020, p.3)](https://itupdate.com.a
 água, no qual a água entra e sai por diversos dutos, e de onde exemplos podem ser
 retirados e analisados”
 
-### <a name=“section”><a/> 4.1 Arquitetura de Referência
+### <a name=“section”><a/> 4.2 Arquitetura de Referência
 
 O Data Lake deixa o dado disponível para ser lido, permitindo que qualquer
 pessoa com o conhecimento apropriado tenha acesso para explorar e analizar toda
@@ -356,7 +356,7 @@ colossal de dados, sendo o Data Lake a melhor opção conhecida para ser o
 armazenamento do que conceitualmente denominamos como Big Data [(DOMO,
 2017)](https://www.domo.com/learn/data-never-sleeps- 5?aid=ogsm072517_1&sf100871281=1).
 
-### 4.2 Arquitetura de processamento de dados em larga escala
+### 4.3 Arquitetura de processamento de dados em larga escala
 
 De acordo com [AKHATAR (2018, Cap.1)](), a definição de Big Data são “dados
 massivos em volume, com relação ao sistema de processamento, com uma
@@ -408,7 +408,7 @@ dado, melhor é qualidade de informação final.
 que gere conhecimento para o negócio, nada mais significativo do que valor como
 requisito a ser incluído na arquitetura.
 
-### 4.3 Os pilares de uma arquitetura de processamento de dados em larga escala
+### 4.4 Os pilares de uma arquitetura de processamento de dados em larga escala
 
 Independente da arquitetura a ser implementada para Big Data, o ideal é
 que os componentes sejam desacoplados entre si, trazendo benefícios como
@@ -431,7 +431,7 @@ aplicáveis. Em seguida essas informações ficam disponíveis para serem acessa
 e interpretadas por áreas de negócio ou analistas que tomam decisões baseadas
 nessas informações.
 
-### 4.4 Arquitetura de Big Data
+### 4.5 Arquitetura de Big Data
 
 Para que uma estrutura de Big Data entregue o valor descrito com as
 capacidades citadas, é importante que se tenha uma arquitetura de componentes
@@ -504,7 +504,7 @@ transformação de dados de entrada, carregamento de sistemas, inserção em
 sistemas ou tabelas, enfim, processos interdependentes que dependente de um
 componente de orquestração para serem executados.
 
-### 4.5 Cultura Data Driven
+### 4.6 Cultura Data Driven
 
 Perceba que os modelos de negócios citados acima não existiriam sem a
 disciplina de análise de dados pois exigem inúmeros tipos de dados sendo eles
