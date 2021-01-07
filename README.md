@@ -368,11 +368,12 @@ arquitetura simples dessa tecnologia, exemplificando as grandes fases do process
 divididos entre captura, armazenamento e entrega dos dados.
 
 <p align="center">
-Figura 14 - Arquitetura do Data Lake tradicional. 
-<br />
-<img src="IMAGEM-01.jpg" width="600" >
-<br />
+  Figura 14 - Arquitetura do Data Lake tradicional. 
+  <br />
+  <img src="IMAGEM-01.jpg" width="600" >
+  <br />
 </p>
+
 Fonte: [BAUM, 2020](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf), p.4 - Adaptado
 
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de dados por dia 
