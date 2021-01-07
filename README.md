@@ -29,8 +29,8 @@
    * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#44-os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#45-arquitetura-de-big-data)
    * [4.6 Big Data vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#46-big-data-vs-data-lake)
-   * [4.7 Governança vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#47-data-lake-vs-governan%C3%A7a)
-   * [4.8 LGPD vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#48-data-lake-vs-lgpd)
+   * [4.7 Governança vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#47-governan%C3%A7a-vs-data-lake)
+   * [4.8 LGPD vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#48-lgpd-vs-data-lake)
    * [4.9 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#49-cultura-data-driven)
 * [5. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#5-conclus%C3%A3o)
 
@@ -580,7 +580,7 @@ Big Data não gera valor por si. A geração de valor é quando conseguimos cria
 
 ### 4.7 Data Lake vs. Governança ###
 
-Você está criando data lakes ou data swamps? A simples colocação de dados em uma plataforma de dados Hadoop não acelerará seus esforços de análise. Sem a governança ou a qualidade adequada, os data lakes podem se transformar rapidamente em data swamps impossíveis de gerenciar. Os usuários de dados sabem que os dados necessários estão nesses data swamps, mas sem uma estratégia clara de governança de dados, não será possível encontrar, confiar ou usar esses dados.
+A pergunta é: você está criando data lakes ou data swamps? A simples colocação de dados em uma plataforma de dados Hadoop não acelerará seus esforços de análise. Sem a governança ou a qualidade adequada, os data lakes podem se transformar rapidamente em data swamps impossíveis de gerenciar. Os usuários de dados sabem que os dados necessários estão nesses data swamps, mas sem uma estratégia clara de governança de dados, não será possível encontrar, confiar ou usar esses dados.
 Um data lake governado contém dados claros e relevantes de origem estruturada e não estruturada que podem ser facilmente encontradas, acessadas, gerenciadas e protegidas. A plataforma na qual seus dados residem é altamente segura e confiável. Os dados inseridos em seu data lake são claros, classificados e protegidos corretamente em feeds de dados controlados e oportunos que preenchem e os documentam com ativos e metadados de informações confiáveis. [(IBM, 2021)](https://www.ibm.com/br-pt/analytics/use-cases/governing-data-lake).
 
 ### 4.8 Data Lake vs. LGPD ###
