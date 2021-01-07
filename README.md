@@ -1,6 +1,9 @@
 <p align="center">
   <br> Data Lake e a LGPD</br>
   <br /> Autores: Cristiano dos Santos Fortunato, Elaine Soares e Jaime Ranulfo Leite Filho <br />
+  <br> Departamento de Computação (DComp) - Janeiro/2021 </br>
+  <br> Universidade Federal de São Carlos (UFSCar) </br>
+  
 </p>
 
 ## Índice
