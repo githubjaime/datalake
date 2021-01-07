@@ -21,7 +21,7 @@
   * [3.6 Data Lake na LGPD](https://github.com/elainefabiola/datalake#data-lakes-na-lgpd)
  * [4. O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-4-o-data-lake)
    * [4.1 Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#41-origem-do-termo)
-   * [4.2 Arquitetura de referência do Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#42-arquitetura-de-refer%C3%AAncia)
+   * [4.2 Arquitetura de referência do Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#-42-arquitetura-de-refer%C3%AAncia)
    * [4.3 Arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#43-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#44-os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#45-arquitetura-de-big-data)
@@ -525,7 +525,7 @@ valor para a empresa. Conceitos como o “DataOps Manifesto” direcionam os
 princípios e boas práticas a serem seguidas por todos aqueles que desejam
 implementar uma cultura de dados [(DATAOPS MANIFESTO, 2019)]( https://www.dataopsmanifesto.org/).
 
-## 5 Conclusão ##
+## 5. Conclusão ##
 
 Estabelecer uma arquitetura de dados depende majoritariamente do objetivo
 da corporação e dos insumos de dados existentes, porém sem esse tipo de
