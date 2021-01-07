@@ -327,7 +327,7 @@ Por conta dessa necessidade, em 2010 James Dixon cunhou o termo Data
 Lake [(FOOTE, K. 2018)](https://www.dataversity.net/brief-history-data-lakes/>), descrevendo uma arquitetura híbrida para armazenamento
 massivo de informações em qualquer formato, incluindo dados não estruturados, em
 um único local, tornando o Data Lake a peça central de infra-estrutura em uma
-arquitetura orientada à dados. Dixon [(BAUM, 2020, p.3)]() defende que "o Data Lake é um grande corpo de
+arquitetura orientada à dados. Dixon [(BAUM, 2020, p.3)](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf) defende que "o Data Lake é um grande corpo de
 água, no qual a água entra e sai por diversos dutos, e de onde exemplos podem ser
 retirados e analisados”
 
@@ -345,18 +345,18 @@ divididos entre captura, armazenamento e entrega dos dados.
   <br />
   <img src="IMAGEM-01.jpg" width="600" >
   <br />
-  Fonte: [BAUM, 2020](), p.4 - Adaptado
+  Fonte: [BAUM, 2020](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf), p.4 - Adaptado
   <br />
 </p>
 
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
-dados por dia [(MARR, B., 2018)](), que mais de 80% desses dados são de
+dados por dia [(MARR, B., 2018)](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-wecreate- every-day-the-mind-blowing-stats-everyone-should-read/#23cc78e60ba9), que mais de 80% desses dados são de
 característica não estruturada e que tecnologias como IoT devem triplicar a
 quantidade de informações que geramos por dia, fica claro que a peça central de
 uma arquitetura orientada à dados deve ser capaz de suportar uma quantidade
 colossal de dados, sendo o Data Lake a melhor opção conhecida para ser o
 armazenamento do que conceitualmente denominamos como Big Data [(DOMO,
-2017)]().
+2017)](https://www.domo.com/learn/data-never-sleeps- 5?aid=ogsm072517_1&sf100871281=1).
 
 ### Arquitetura de processamento de dados em larga escala
 
@@ -395,7 +395,7 @@ um centro urbano com uma determinada condição climática.
   <br />
   <img src="IMAGEM-02.jpg" width="600">
   <br />
-  Fonte: [JAMES, 2019]()
+  Fonte: [JAMES, 2019](https://www.domo.com/blog/what-data-never-sleeps-7-0-says-anddoesnt- say/)
   <br />
 </p>
 
@@ -425,7 +425,7 @@ grandes pilares, conforme descrito na Figura 16 a seguir.
   <br />
   <img src="IMAGEM-03.jpg" >
   <br />
-  Fonte: [SNIVELY, 2018, slide 9]()  
+  Fonte: [SNIVELY, 2018, slide 9](https://pt.slideshare.net/AmazonWebServices/big-data-analytics-architecturalpatterns-and-best-practices-ant201r1-aws-reinvent-2018)  
   <br />
 </p>
 
@@ -450,7 +450,7 @@ Big Data bem como a descrição de cada componente.
   <br />
   <img src="IMAGEM-04.jpg" >
   <br />
-  Fonte: [MICROSOFT, 2019]()  
+  Fonte: [MICROSOFT, 2019](https://docs.microsoft.com/pt-br/azure/architecture/guide/architecture-styles/bigdata)  
   <br />
 </p>
 
@@ -531,7 +531,7 @@ benefícios são alcançados com dados coletados ao longo dos processos já
 existentes e precisam ser trabalhados para que se extraiam as informações que tem
 valor para a empresa. Conceitos como o “DataOps Manifesto” direcionam os
 princípios e boas práticas a serem seguidas por todos aqueles que desejam
-implementar uma cultura de dados (DATAOPS MANIFESTO, 2019).
+implementar uma cultura de dados [(DATAOPS MANIFESTO, 2019)]( https://www.dataopsmanifesto.org/).
 
 ## Conclusão ##
 
