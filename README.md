@@ -1,4 +1,4 @@
-# Data Lake e a LGPD
+# **Data Lake e a LGPD**
 ## Autores: Cristiano dos Santos Fortunato, Elaine Soares e Jaime Ranulfo Leite Filho 
 ## Disciplina Processamento Massivo de Dados - Profa. Dra. Sahudy Montenegro Gonzalez
 ## Departamento de Computação (DComp) - Janeiro/2021 
@@ -320,7 +320,7 @@ Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fase
   
  
 
-## <a name=“sectionj1”><a/> O Data Lake 
+## <a name=“sectionj1”><a/> 4. O Data Lake 
 ### Origem do Termo
 
 Por conta dessa necessidade, em 2010 James Dixon cunhou o termo Data
@@ -331,7 +331,7 @@ arquitetura orientada à dados. Dixon [(BAUM, 2020, p.3)](https://itupdate.com.a
 água, no qual a água entra e sai por diversos dutos, e de onde exemplos podem ser
 retirados e analisados”
 
-### <a name=“section”><a/> Arquitetura de Referência
+### <a name=“section”><a/> 4.1 Arquitetura de Referência
 
 O Data Lake deixa o dado disponível para ser lido, permitindo que qualquer
 pessoa com o conhecimento apropriado tenha acesso para explorar e analizar toda
@@ -340,14 +340,12 @@ entender como o Data Lake possibilita isso, a Figura 14 abaixo mostra uma
 arquitetura simples dessa tecnologia, exemplificando as grandes fases do processo,
 divididos entre captura, armazenamento e entrega dos dados.
 
-<p align="center">
-  Figura 14 - Arquitetura do Data Lake tradicional. 
-  <br />
-  <img src="IMAGEM-01.jpg" width="600" >
-  <br />
-  Fonte: [BAUM, 2020](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf), p.4 - Adaptado
-  <br />
-</p>
+Figura 14 - Arquitetura do Data Lake tradicional. 
+<br />
+<img src="IMAGEM-01.jpg" width="600" >
+<br />
+Fonte: [BAUM, 2020](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf), p.4 - Adaptado
+<br />
 
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
 dados por dia [(MARR, B., 2018)](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-wecreate- every-day-the-mind-blowing-stats-everyone-should-read/#23cc78e60ba9), que mais de 80% desses dados são de
@@ -358,7 +356,7 @@ colossal de dados, sendo o Data Lake a melhor opção conhecida para ser o
 armazenamento do que conceitualmente denominamos como Big Data [(DOMO,
 2017)](https://www.domo.com/learn/data-never-sleeps- 5?aid=ogsm072517_1&sf100871281=1).
 
-### Arquitetura de processamento de dados em larga escala
+### 4.2 Arquitetura de processamento de dados em larga escala
 
 De acordo com [AKHATAR (2018, Cap.1)](), a definição de Big Data são “dados
 massivos em volume, com relação ao sistema de processamento, com uma
@@ -390,14 +388,12 @@ possível cruzar informações de diversas características, como por exemplo o 
 de uma pessoa solicitando um motorista, dependendo da sua localização dentro de
 um centro urbano com uma determinada condição climática.
 
-<p align="center">
-  Figura 15 - “A cada um minuto em 2019...” 
-  <br />
-  <img src="IMAGEM-02.jpg" width="600">
-  <br />
-  Fonte: [JAMES, 2019](https://www.domo.com/blog/what-data-never-sleeps-7-0-says-anddoesnt- say/)
-  <br />
-</p>
+Figura 15 - “A cada um minuto em 2019...” 
+<br />
+<img src="IMAGEM-02.jpg" width="600">
+<br />
+Fonte: [JAMES, 2019](https://www.domo.com/blog/what-data-never-sleeps-7-0-says-anddoesnt- say/)
+<br />
 
 Além dos 3 V’s existem vertentes conceituais que querem transformar em 8
 V’s, adicionando muitas outras características, porém os conceitos mais amplamente
@@ -412,7 +408,7 @@ dado, melhor é qualidade de informação final.
 que gere conhecimento para o negócio, nada mais significativo do que valor como
 requisito a ser incluído na arquitetura.
 
-### Os pilares de uma arquitetura de processamento de dados em larga escala
+### 4.3 Os pilares de uma arquitetura de processamento de dados em larga escala
 
 Independente da arquitetura a ser implementada para Big Data, o ideal é
 que os componentes sejam desacoplados entre si, trazendo benefícios como
@@ -420,14 +416,12 @@ facilidade de manutenção, melhoria de custos, velocidade para escalar o ambien
 muitos outros. Sendo assim, é interessante enxergar a arquitetura de dados como
 grandes pilares, conforme descrito na Figura 16 a seguir.
 
-<p align="center">
-  Figura 16 - Processos de Big Data simplificado. 
-  <br />
-  <img src="IMAGEM-03.jpg" >
-  <br />
-  Fonte: [SNIVELY, 2018, slide 9](https://pt.slideshare.net/AmazonWebServices/big-data-analytics-architecturalpatterns-and-best-practices-ant201r1-aws-reinvent-2018)  
-  <br />
-</p>
+Figura 16 - Processos de Big Data simplificado. 
+<br />
+<img src="IMAGEM-03.jpg" >
+<br />
+Fonte: [SNIVELY, 2018, slide 9](https://pt.slideshare.net/AmazonWebServices/big-data-analytics-architecturalpatterns-and-best-practices-ant201r1-aws-reinvent-2018) 
+<br />
 
 De forma direta, os dados são coletados pela plataforma de diversas
 origens, em seguida são armazenados para que sejam acessados quando
@@ -437,7 +431,7 @@ aplicáveis. Em seguida essas informações ficam disponíveis para serem acessa
 e interpretadas por áreas de negócio ou analistas que tomam decisões baseadas
 nessas informações.
 
-### Arquitetura de Big Data
+### 4.4 Arquitetura de Big Data
 
 Para que uma estrutura de Big Data entregue o valor descrito com as
 capacidades citadas, é importante que se tenha uma arquitetura de componentes
@@ -510,7 +504,7 @@ transformação de dados de entrada, carregamento de sistemas, inserção em
 sistemas ou tabelas, enfim, processos interdependentes que dependente de um
 componente de orquestração para serem executados.
 
-### Cultura Data Driven
+### 4.5 Cultura Data Driven
 
 Perceba que os modelos de negócios citados acima não existiriam sem a
 disciplina de análise de dados pois exigem inúmeros tipos de dados sendo eles
@@ -531,7 +525,7 @@ valor para a empresa. Conceitos como o “DataOps Manifesto” direcionam os
 princípios e boas práticas a serem seguidas por todos aqueles que desejam
 implementar uma cultura de dados [(DATAOPS MANIFESTO, 2019)]( https://www.dataopsmanifesto.org/).
 
-## Conclusão ##
+## 5 Conclusão ##
 
 Estabelecer uma arquitetura de dados depende majoritariamente do objetivo
 da corporação e dos insumos de dados existentes, porém sem esse tipo de
