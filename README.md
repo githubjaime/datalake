@@ -22,7 +22,6 @@
   * [3.3 Direitos garantidos aos titulares de dados](https://github.com/elainefabiola/datalake#direitos-garantidos-aos-titulares-de-dados)
   * [3.4 Como realizar o tratamento dos dados pessoais](https://github.com/elainefabiola/datalake#como-realizar-o-tratamento-dos-dados-pessoais)
   * [3.5 Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)](https://github.com/elainefabiola/datalake#relat%C3%B3rio-de-impacto-%C3%A0-prote%C3%A7%C3%A3o-dos-dados-pessoais-ripd)
-  * [3.6 Data Lake na LGPD](https://github.com/elainefabiola/datalake#data-lakes-na-lgpd)
  * [4. O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-4-o-data-lake)
    * [4.1 Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#41-origem-do-termo)
    * [4.2 Arquitetura de referência do Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#-42-arquitetura-de-refer%C3%AAncia)
@@ -30,7 +29,9 @@
    * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#44-os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#45-arquitetura-de-big-data)
    * [4.6 Big Data vs. Data Lake]()
-   * [4.7 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#47-cultura-data-driven)
+   * [4.7 Governança vs. Data Lake]()
+   * [4.8 LGPD vs. Data Lake](https://github.com/elainefabiola/datalake#data-lakes-na-lgpd)
+   * [4.9 Cultura Data Driven]()
 * [5. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#5-conclus%C3%A3o)
 
 
@@ -386,23 +387,8 @@ de impacto à proteção de dados pessoais**, inclusive de dados sensíveis, ref
 operações de tratamento de dados, nos termos de regulamento, observados os segredos
 comercial e industrial.
 
-### Data Lake na LGPD ###
-
-Com a entrada em vigor da LGPD, as preocupações dos usuários com a privacidade de dados deve ser direcionada aos documentos não estruturados. Segundo a cartilha publicada pela Controladoria Geral do Estado de Minas Gerais (CGE-MG) de 2020, os dados não-estruturados são dados não organizados dentro de uma estrutura rígida definida, mas que estão presentes, por exemplo, em um arquivo de texto, tais como textos, planilhas, imagens, arquivos de áudio ou vídeo. Esses arquivos estão repletos de dados de usuários que precisam ser controlados e protegidos, contra vazamentos e acessos não autorizados. Esses dados não são mantidos em SGBDs, mas sim em Data Lakes.
-
-Uma das medidas que podemos tomar para assegurar a proteção da maior parte dos documentos não estruturados é a adoção de sistemas de gestão eletrônica de documentos no ciclo de vida dos dados pessoais que só trafegam em modo criptografado e anonimizados. 
 
 
-Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fases apresentadas na figura abaixo, correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
-
-<p align="center">
-  <br> Figura 13 - Ciclo de vida dos dados pessoais </br>  
-  <img src="ciclovida.jpg" width="600">
-  <br />
-   Fonte: Elaborada pelo autor, 2020
-  <br />
-</p>
-  
 
 ## <a name=“section4”><a/> 4. O Data Lake 
 ### 4.1 Origem do Termo
@@ -592,7 +578,27 @@ componente de orquestração para serem executados.
 
 Big Data não gera valor por si. A geração de valor é quando conseguimos criar insights que geram resultados tangíveis para o negócio. Entretanto, criar projetos de Big data não se constituem em tarefas simples. Existem muitas tecnologias, mas o desafio de integrar uma coleção muito diversa de dados estruturados e não estruturados não é trivial. A complexidade do trabalho é diretamente proporcional à variedade e volume dos dados que precisam ser acessados e analisados. Uma provável alternativa para este desafio é a criação de Data Lakes. Data Lake é um repositório que armazena um grande e variado volume de dados, estruturados e não estruturados. [(TIESPECIALISTAS, 2020)](https://www.tiespecialistas.com.br/big-data-e-o-data-lake/).
 
-### 4.7 Cultura Data Driven
+### 4.7 Data Lake vs. Governança ###
+
+
+
+
+### 4.8 Data Lake vs. LGPD ###
+
+Com a entrada em vigor da LGPD, as preocupações dos usuários com a privacidade de dados deve ser direcionada aos documentos não estruturados. Segundo a cartilha publicada pela Controladoria Geral do Estado de Minas Gerais (CGE-MG) de 2020, os dados não-estruturados são dados não organizados dentro de uma estrutura rígida definida, mas que estão presentes, por exemplo, em um arquivo de texto, tais como textos, planilhas, imagens, arquivos de áudio ou vídeo. Esses arquivos estão repletos de dados de usuários que precisam ser controlados e protegidos, contra vazamentos e acessos não autorizados. Esses dados não são mantidos em SGBDs, mas sim em Data Lakes.
+
+Uma das medidas que podemos tomar para assegurar a proteção da maior parte dos documentos não estruturados é a adoção de sistemas de gestão eletrônica de documentos no ciclo de vida dos dados pessoais que só trafegam em modo criptografado e anonimizados. Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fases apresentadas na Figura 13 abaixo, correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
+
+<p align="center">
+  <br> Figura 18 - Ciclo de vida dos dados pessoais </br>  
+  <img src="ciclovida.jpg" width="600">
+  <br />
+   Fonte: Elaborada pelo autor, 2020
+  <br />
+</p>
+  
+
+### 4.9 Cultura Data Driven
 
 A cultura data driven (ou DDD, Data-Driven Decision) prioriza a tomada de decisão  
 baseada em dados sob o argumento de que quanto mais informações estiverem acessíveis 
