@@ -443,7 +443,7 @@ Figura 14 - Arquitetura do Data Lake tradicional.
 Fonte: [BAUM, 2020, p.4 - Adaptado](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf)
 <br />
 
-Na Figura 14, temos uma apresentação de alto nível para uma arquitetura de Data Lake tradicional, no sub-capítulo 4.5, essa arquitetura será apresentada 
+Na Figura 14, temos uma apresentação de alto nível para uma arquitetura de Data Lake tradicional, no sub-seção 4.5, essa arquitetura será apresentada 
 de um forma mais detalhada.
 
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de dados por dia 
