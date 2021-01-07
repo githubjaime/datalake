@@ -9,10 +9,10 @@
 ## Sumário
 
 * [1. Introdução](https://github.com/elainefabiola/datalake/blob/main/README.md#1-introducao)
-  * [1.1 Motivação]()
-  * [1.2 Objetivo]()
-  * [1.3 Justificativa]()
-  * [1.4 Estrutura do Trabalho]()
+  * [1.1 Motivação](https://github.com/elainefabiola/datalake/blob/main/README.md#11-motiva%C3%A7%C3%A3o)
+  * [1.2 Objetivo](https://github.com/elainefabiola/datalake/blob/main/README.md#12-objetivo)
+  * [1.3 Justificativa](https://github.com/elainefabiola/datalake/blob/main/README.md#13-justificativa)
+  * [1.4 Estrutura do Trabalho](https://github.com/elainefabiola/datalake/blob/main/README.md#14-estrutura-do-trabalho)
 * [2. Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#governan%C3%A7a-de-dados-em-data-lake)
   * [2.1 Como promover a Governança em um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#como-promover-a-governan%C3%A7a-em-um-data-lake)
   * [2.2 Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#defini%C3%A7%C3%A3o-do-comit%C3%AA-gestor)
