@@ -20,12 +20,12 @@
   * [3.5 Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)](https://github.com/elainefabiola/datalake#relat%C3%B3rio-de-impacto-%C3%A0-prote%C3%A7%C3%A3o-dos-dados-pessoais-ripd)
   * [3.6 Data Lake na LGPD](https://github.com/elainefabiola/datalake#data-lakes-na-lgpd)
  * [4. O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-4-o-data-lake)
-   * [4.1 Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#4.1-origem-do-termo)
-   * [4.2 Arquitetura de referência do Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#4.2-arquitetura-de-refer%C3%AAncia)
-   * [4.3 Arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#4.3-arquitetura-de-processamento-de-dados-em-larga-escala)
-   * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#4.4-os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
-   * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#4.5-arquitetura-de-big-data)
-   * [4.6 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#4.6-cultura-data-driven)
+   * [4.1 Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#41-origem-do-termo)
+   * [4.2 Arquitetura de referência do Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#42-arquitetura-de-refer%C3%AAncia)
+   * [4.3 Arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#43-arquitetura-de-processamento-de-dados-em-larga-escala)
+   * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#44-os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
+   * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#45-arquitetura-de-big-data)
+   * [4.6 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#46-cultura-data-driven)
 * [5. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#5.-conclus%C3%A3o)
 
 
@@ -347,8 +347,8 @@ Figura 14 - Arquitetura do Data Lake tradicional.
 Fonte: [BAUM, 2020](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf), p.4 - Adaptado
 <br />
 
-Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
-dados por dia [(MARR, B., 2018)](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-wecreate- every-day-the-mind-blowing-stats-everyone-should-read/#23cc78e60ba9), que mais de 80% desses dados são de
+Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de dados por dia 
+[(MARR, B., 2018)](https://ciradar.com/competitive-intelligence-blog/insights/2019/08/28/how-much-data-do-we-produce), que mais de 80% desses dados são de
 característica não estruturada e que tecnologias como IoT devem triplicar a
 quantidade de informações que geramos por dia, fica claro que a peça central de
 uma arquitetura orientada à dados deve ser capaz de suportar uma quantidade
