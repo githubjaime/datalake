@@ -509,7 +509,7 @@ componente de orquestração para serem executados.
 A cultura data driven (ou DDD, Data-Driven Decision) prioriza a tomada de decisão 
 baseada em dados sob o argumento de que quanto mais informações estiverem acessíveis 
 ao decisor e quanto mais detalhadas forem essas informações, mais eficiente e assertivo 
-será o processo decisório. [(ALLSTRATEGY, 2020)](https://www.allstrategy.com.br/blog/cultura-data-driven-o-que-e-como-aplicar-no-seu-negocio-e-como-empresas-vem-utilizando#:~:text=A%20cultura%20data%20driven%20(ou,assertivo%20ser%C3%A1%20o%20processo%20decis%C3%B3rio)
+será o processo decisório. [(ALLSTRATEGY, 2020)]().
 
 
 Perceba que os modelos de negócios citados acima não existiriam sem a
