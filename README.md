@@ -510,8 +510,6 @@ A cultura data driven (ou DDD, Data-Driven Decision) prioriza a tomada de decis�
 baseada em dados sob o argumento de que quanto mais informações estiverem acessíveis 
 ao decisor e quanto mais detalhadas forem essas informações, mais eficiente e assertivo 
 será o processo decisório. [(ALLSTRATEGY, 2020)](https://www.allstrategy.com.br/blog/cultura-data-driven-o-que-e-como-aplicar-no-seu-negocio-e-como-empresas-vem-utilizando).
-
-
 Perceba que os modelos de negócios citados acima não existiriam sem a
 disciplina de análise de dados pois exigem inúmeros tipos de dados sendo eles
 estruturados, não estruturados, dados em tempo real, dados históricos, enfim, uma
@@ -527,9 +525,7 @@ aumento da produtividade e consequentemente dos lucros, antecipação de
 possíveis falhas e problemas e velocidade na tomada de decisões. Todos esses
 benefícios são alcançados com dados coletados ao longo dos processos já
 existentes e precisam ser trabalhados para que se extraiam as informações que tem
-valor para a empresa. Conceitos como o “DataOps Manifesto” direcionam os
-princípios e boas práticas a serem seguidas por todos aqueles que desejam
-implementar uma cultura de dados [(DATAOPS MANIFESTO, 2019)]( https://www.dataopsmanifesto.org/).
+valor para a empresa. 
 
 ## 5. Conclusão ##
 
