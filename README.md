@@ -34,7 +34,7 @@
 * [5. LGPD e Governança no contexto de um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#5-lgpd-e-governan%C3%A7a-no-contexto-de-um-data-lake)
    * [5.1 Governança vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#51-governan%C3%A7a-vs-data-lake)
    * [5.2 LGPD vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#52-lgpd-vs-data-lake)
-* [6. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#6-conclus%C3%A3o)
+* [6. Conclusões](https://github.com/elainefabiola/datalake/blob/main/README.md#6-conclus%C3%A3o)
    
 
 ## Resumo
@@ -135,7 +135,9 @@ suas características e formas de processamento, seguido por uma
 arquitetura de referência junto de uma comparação entre os temas Data Lake vs. 
 Big Data vs. Governança vs. LGPD e a abordagem do conceito da cultura DATA DRIVEN.
 
-Finalizando o trabalho, no Capítulo 5, são apresentadas as conclusões.
+No Capítulo 5 os conceitos de LGPD e Governança são discutidos no contexto de um Data Lake.
+
+Finalizando o trabalho, no Capítulo 6, são apresentadas as conclusões.
 
 
 ## Governança de Dados em Data Lake 
@@ -641,7 +643,7 @@ Uma das medidas que podemos tomar para assegurar a proteção da maior parte dos
 
 Figura 18 - Ciclo de vida dos dados pessoais 
 <br />
-<img src="ciclovida.jpg" width="400">
+<img src="ciclovida.jpg" width="600">
 <br />
 Fonte: Elaborado pelos autores, 2020
 <br />
