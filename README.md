@@ -1,9 +1,9 @@
 # **Data Lake e a LGPD**
-## Autores: Cristiano dos Santos Fortunato, Elaine Soares e Jaime Ranulfo Leite Filho 
-## Disciplina Processamento Massivo de Dados - Profa. Dra. Sahudy Montenegro Gonzalez
-## Departamento de Computação (DComp) - Janeiro/2021 
-## Universidade Federal de São Carlos (UFSCar)
-## 18052-780, Sorocaba, São Paulo, Brasil
+### Autores: Cristiano dos Santos Fortunato, Elaine Soares e Jaime Ranulfo Leite Filho 
+### Disciplina Processamento Massivo de Dados - Profa. Dra. Sahudy Montenegro Gonzalez
+### Departamento de Computação (DComp) - Janeiro/2021 
+### Universidade Federal de São Carlos (UFSCar)
+### 18052-780, Sorocaba, São Paulo, Brasil
 
 
 ## Índice
