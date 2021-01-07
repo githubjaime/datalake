@@ -473,7 +473,7 @@ um centro urbano com uma determinada condição climática.
 
 Figura 15 - “A cada um minuto em 2019...” 
 <br />
-<img src="IMAGEM-02.jpg" width="800">
+<img src="IMAGEM-02.jpg" width="600">
 <br />
 Fonte: [MARR, B., 2018](https://ciradar.com/competitive-intelligence-blog/insights/2019/08/28/how-much-data-do-we-produce)
 <br />
