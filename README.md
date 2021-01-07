@@ -368,7 +368,7 @@ padrões de dados a serem analisados”.
 
 Além do conceito supracitado, alguns especialistas defendem que para um
 sistema ser considerado um Big Data, ele deve conter 3 características principais, os
-3 V’s do Big Data, são eles:
+3 V’s do Big Data, são eles segundo RAMADAN (2017):
 
 **Volume:** Talvez o mais obvio dos 3 V's, fazendo referência ao “big” no
 termo Big Data, volume é uma caraterística direta do termo em questão. Como a
@@ -631,6 +631,9 @@ Acesso em: 16 de Dez. de 2020.
 PMI. Developing a proposal for implementing a PMO. PMI.org, 2020. Disponível em:
 https://www.pmi.org/learning/library/process-developing-custom-pmo-proposal-3133
 Acesso em: 24 de Set de 2020.
+
+RAMADAN, R. Big Data Tools-An Overview. Researchgate.net, 2017. Disponível em: 
+<https://www.researchgate.net/publication/325103690_Big_Data_Tools-An_Overview>. 
 
 RIELLI, Mariana Marques, 2020. slides. Disponível em:
 <https://edisciplinas.usp.br/pluginfile.php/5360635/mod_folder/content/0/Palestra%20Mariana%20Rielli%20sobre%20LGPD%20%28semestre%20passado%29.pdf?forcedownload=1>. Acesso em: 16 de Dez. de 2020.
