@@ -32,7 +32,7 @@
    * [4.6 Big Data vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#46-big-data-vs-data-lake)
    * [4.7 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#47-cultura-data-driven)
 * [5. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#5-conclus%C3%A3o)
-* [6. Comparativo LGPD e Governança no contexto de um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#-6-Comparativo LGPD e Governança no contexto de um Data Lake)
+* [6. LGPD e Governança no contexto de um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#-6-LGPD e Governança no contexto de um Data Lake)
    * [6.1 Governança vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#61-governan%C3%A7a-vs-data-lake)
    * [6.2 LGPD vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#62-lgpd-vs-data-lake)
    
@@ -660,7 +660,7 @@ disponíveis e implementar a abordagem mais coerente para o problema que deseja
 resolver.
 
 
-## Comparativo LGPD e Governança no contexto de um Data Lake
+## 6. LGPD e Governança no contexto de um Data Lake
 
 ### 6.1 Governança vs. Data Lake ###
 
