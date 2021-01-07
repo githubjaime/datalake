@@ -8,6 +8,7 @@
 
 ## Sumário
 
+* [Resumo]()
 * [1. Introdução](https://github.com/elainefabiola/datalake/blob/main/README.md#1-introducao)
   * [1.1 Motivação](https://github.com/elainefabiola/datalake/blob/main/README.md#11-motiva%C3%A7%C3%A3o)
   * [1.2 Objetivos](https://github.com/elainefabiola/datalake/blob/main/README.md#12-objetivo)
@@ -34,6 +35,28 @@
    * [4.9 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#49-cultura-data-driven)
 * [5. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#5-conclus%C3%A3o)
 
+
+## Resumo
+
+Há muito tempo as empresas utilizam dados como a matéria prima para
+executar diversas atividades, mas será que extraem desses dados informações
+relevantes para a manutenção do seu negócio? Em um mundo onde, cada vez mais,
+a informação é algo que diferencia o modelo de negócio, entender como criar uma
+cultura baseada em dados é algo mandatório para o sucesso corporativo. Sendo
+assim, conhecer um caminho de implementação de uma arquitetura de extração de
+informação é extremamente importante no contexto atual. Levando em conta que
+existem diversas abordagens que podem ser seguidas, neste trabalho é
+apresentada uma forma de criação de conhecimento à partir de dados.
+O trabalho tem início na definição de conceitos básicos como a diferença
+entre dados e informação e dados estruturados e não estruturados, explora modelos
+de arquitetura conceituais para se obter informações à partir das massas de dados
+como por exemplo Data Lake e Big Data abordando características dessas
+tecnologias e o porque dessas escolhas e, finalmente toca em questões como
+governança e segurança de dados que são importantíssimas e estão em alta no
+mundo da informação, fechando o ciclo necessário para implementação desse tipo
+de abordagem.
+
+**Palavras-chave:** DataLake. Big Data. GDPR. LGPD, Governança de Dados.
 
 ## 1. Introducao
 
