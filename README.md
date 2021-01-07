@@ -9,6 +9,10 @@
 ## Sumário
 
 * [1. Introdução](https://github.com/elainefabiola/datalake/blob/main/README.md#1-introducao)
+  * [1.1 Motivação]()
+  * [1.2 Objetivo]()
+  * [1.3 Justificativa]()
+  * [1.4 Estrutura do Trabalho]()
 * [2. Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#governan%C3%A7a-de-dados-em-data-lake)
   * [2.1 Como promover a Governança em um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#como-promover-a-governan%C3%A7a-em-um-data-lake)
   * [2.2 Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#defini%C3%A7%C3%A3o-do-comit%C3%AA-gestor)
@@ -55,6 +59,70 @@ competitividade dessa empresa no mercado atual, pois uma cultura orientada à
 dados permite que os processos de tomada de decisão sejam menos empíricos
 trazendo, em geral, mais assertividade nas decisões tomadas.
 
+## 1.1 Motivação
+
+Entender e estruturar toda a cadeia de processamento pela qual o dado
+deve passar dentro de um empresa é uma tarefa extremamente complexa que exige
+uma série de conhecimentos multidisciplinares como coleta, armazenamento, gestão
+de dados, segurança, governança, LGPD e até mesmo negócio e, vivenciando o mercado
+de tecnologia sob a ótica de implementador de sistemas de Big Data, percebe-se
+uma série de conceitos incorretos inseridos em reuniões e discussões quando a
+pauta tende à dados.
+
+## 1.2 Objetivo
+
+O desafio faz-se em estruturar um caminho de conhecimento a ser adquirido
+por profissionais em fase inicial de aprendizado, mostrando os principais conceitos
+acerca da disciplina de dados e informação com exemplos práticos e cotidianos,
+sem entrar em questões que exijam um extremo conhecimento histórico em
+tecnologia, dando um guia simples de conhecimento que balize as decisões no nível
+macro. Por fim, a proposta é ter um trabalho com informações modernas e
+relevantes para que pessoas na camada de gestão se sintam confortáveis em falar
+minimamente sobre esta disciplina que está tão em voga e ainda possui pouco
+domínio em nível executivo.
+
+## 1.3 Justificativa
+
+Gerentes, diretores e C-levels (ex: CIO e CEO), em geral, não possuem
+conhecimento para tomar as decisões necessárias e a grande maioria das fontes de
+informações é extremamente técnica e pouco elucidativa para pessoas em cadeiras
+de gestão, tornando o ganho de conhecimento algo extremamente penoso e
+desmotivador. Esses profissionais, mesmo quando assessorados por membros técnicos de
+suas respectivas equipes sentem dificuldade em entender os conceitos e os por
+quês de algumas decisões, se sentindo inseguros de levar estratégias de adoções
+de dados adiante, o que como já vimos, pode ser algo ruim para a continuidade da
+empresa.
+
+
+## 1.4 Estrutura do Trabalho
+
+No Capítulo 1 encontramos as motivações para fazer o trabalho, o objetivo
+para o qual o trabalho se presta e a justificativa de tê-lo feito.
+
+No Capítulo 2 é apresentado o por que de uma cultura de gestão baseada
+em dados, abordando casos de empresas relevantes no seu mercado que possuem
+na informação estruturada sua fonte de tomada de decisão.
+
+No Capítulo 3 introduz os principais conceitos na jornada de dados, com
+conceitos como diferença de dados e informação, os diferentes tipos de dados e as
+várias formas de armazená-los, o conceito de Data Warehouse e Data Lake e uma
+arquitetura de referência.
+
+No Capítulo 4 o conceito de Big Data é amplamente discutido, junto com as
+suas características e formas de processamento, seguido pelos perfis profissionais
+que precisam ser envolvidos numa operação cotidiana desse tipo de tecnologia, uma
+arquitetura de referência junto de uma abordagem sobre o processo de análise de
+dados.
+
+No Capítulo 5 governança e segurança de dados são a pauta principal,
+passando pelas principais leis de regulação existentes atualmente e as disciplinas
+de gestão de dados defendidas pelo Data Managment Body of Knowledge
+(DMBOK).
+
+Por fim, o Capítulo 6 mostra alguns assuntos que não foram abordados
+neste trabalho mas que podem ser relevantes dependendo do interesse do leitor e
+coloca assuntos que podem ser discutidos em futuras dissertações com base no
+conteúdo deste trabalho.
 
 ## Governança de Dados em Data Lake 
 ### Como promover a Governança em um Data Lake
