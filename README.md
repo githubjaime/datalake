@@ -354,7 +354,7 @@ quantidade de informações que geramos por dia, fica claro que a peça central 
 uma arquitetura orientada à dados deve ser capaz de suportar uma quantidade
 colossal de dados, sendo o Data Lake a melhor opção conhecida para ser o
 armazenamento do que conceitualmente denominamos como Big Data [(DOMO,
-2017)](https://www.domo.com/learn/data-never-sleeps- 5?aid=ogsm072517_1&sf100871281=1).
+2017)](https://www.domo.com/blog/data-never-sleeps-5/).
 
 ### 4.3 Arquitetura de processamento de dados em larga escala
 
