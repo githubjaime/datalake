@@ -28,10 +28,10 @@
    * [4.3 Arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#43-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#44-os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#45-arquitetura-de-big-data)
-   * [4.6 Big Data vs. Data Lake]()
-   * [4.7 Governança vs. Data Lake]()
-   * [4.8 LGPD vs. Data Lake](https://github.com/elainefabiola/datalake#data-lakes-na-lgpd)
-   * [4.9 Cultura Data Driven]()
+   * [4.6 Big Data vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#46-big-data-vs-data-lake)
+   * [4.7 Governança vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#47-data-lake-vs-governan%C3%A7a)
+   * [4.8 LGPD vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#48-data-lake-vs-lgpd)
+   * [4.9 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#49-cultura-data-driven)
 * [5. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#5-conclus%C3%A3o)
 
 
