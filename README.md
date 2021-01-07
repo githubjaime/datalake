@@ -56,7 +56,7 @@ governança e segurança de dados que são importantíssimas e estão em alta no
 mundo da informação, fechando o ciclo necessário para implementação desse tipo
 de abordagem.
 
-**Palavras-chave:** DataLake. Big Data. GDPR. LGPD, Governança de Dados.
+**Palavras-chave:** DataLake. Big Data. LGPD. Governança de Dados.
 
 ## 1. Introducao
 
