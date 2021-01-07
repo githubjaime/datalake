@@ -447,11 +447,8 @@ Big Data bem como a descrição de cada componente.
 
 <p align="center">
   Figura 17 - Arquitetura de componentes de Big Data. 
-  <br />
   <img src="IMAGEM-04.jpg" >
-  <br />
   Fonte: [MICROSOFT, 2019](https://docs.microsoft.com/pt-br/azure/architecture/guide/architecture-styles/bigdata)  
-  <br />
 </p>
 
 **Origem de dados:** (Data Sources) Nada mais é do que a origem dos diversos dados que
