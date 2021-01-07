@@ -1,9 +1,9 @@
 # **Data Lake e a LGPD**
-### Autores: Cristiano dos Santos Fortunato, Elaine Soares e Jaime Ranulfo Leite Filho 
-### Disciplina Processamento Massivo de Dados - Profa. Dra. Sahudy Montenegro Gonzalez
-### Departamento de Computação (DComp) - Janeiro/2021 
-### Universidade Federal de São Carlos (UFSCar)
-### 18052-780, Sorocaba, São Paulo, Brasil
+#### Autores: Cristiano dos Santos Fortunato, Elaine Soares e Jaime Ranulfo Leite Filho 
+#### Disciplina Processamento Massivo de Dados - Profa. Dra. Sahudy Montenegro Gonzalez
+#### Departamento de Computação (DComp) - Janeiro/2021 
+#### Universidade Federal de São Carlos (UFSCar)
+#### 18052-780, Sorocaba, São Paulo, Brasil
 
 
 ## Sumário
@@ -30,7 +30,7 @@
    * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#44-os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#45-arquitetura-de-big-data)
    * [4.6 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#46-cultura-data-driven)
-* [5. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#5.-conclus%C3%A3o)
+* [5. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#5-conclus%C3%A3o)
 
 
 ## 1. Introducao
