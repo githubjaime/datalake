@@ -108,8 +108,8 @@ de gestão de dados defendidas pelo Data Managment Body of Knowledge
 
 No Capítulo 4 o conceito de Data Lake é amplamente discutido, junto com as
 suas características e formas de processamento, seguido por uma
-arquitetura de referência junto de uma abordagem sobre o processo de análise de
-dados.
+arquitetura de referência junto de uma comparação entre os temas Data Lake vs. 
+Big Data vs. Governança vs. LGPD e a abordagem do conceito da cultura DATA DRIVEN.
 
 Finalizando o trabalho, no Capítulo 5, são apresentadas as conclusões.
 
