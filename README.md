@@ -344,8 +344,8 @@ Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fase
   <br />
    Fonte: Elaborada pelo autor, 2020
   <br />
+</p>
   
- 
 
 ## <a name=“section4”><a/> 4. O Data Lake 
 ### 4.1 Origem do Termo
@@ -367,12 +367,14 @@ entender como o Data Lake possibilita isso, a Figura 14 abaixo mostra uma
 arquitetura simples dessa tecnologia, exemplificando as grandes fases do processo,
 divididos entre captura, armazenamento e entrega dos dados.
 
+<p align="center">
 Figura 14 - Arquitetura do Data Lake tradicional. 
 <br />
 <img src="IMAGEM-01.jpg" width="600" >
 <br />
 Fonte: [BAUM, 2020](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf), p.4 - Adaptado
 <br />
+</p>
 
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de dados por dia 
 [(MARR, B., 2018)](https://ciradar.com/competitive-intelligence-blog/insights/2019/08/28/how-much-data-do-we-produce), que mais de 80% desses dados são de
