@@ -8,25 +8,25 @@
 
 ## Sumário
 
-* [1 Introdução](#introdução)
-* [2 Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#governan%C3%A7a-de-dados-em-data-lake)
+* [1. Introdução](#introdução)
+* [2. Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#governan%C3%A7a-de-dados-em-data-lake)
   * [2.1 Como promover a Governança em um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#como-promover-a-governan%C3%A7a-em-um-data-lake)
   * [2.2 Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#defini%C3%A7%C3%A3o-do-comit%C3%AA-gestor)
-* [3 Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake#lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
+* [3. Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake#lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
   * [3.1 O que norteia a LGPD](https://github.com/elainefabiola/datalake#o-que-norteia-a-lgpd)
   * [3.2 Dado pessoal](https://github.com/elainefabiola/datalake#dado-pessoal)
   * [3.3 Direitos garantidos aos titulares de dados](https://github.com/elainefabiola/datalake#direitos-garantidos-aos-titulares-de-dados)
   * [3.4 Como realizar o tratamento dos dados pessoais](https://github.com/elainefabiola/datalake#como-realizar-o-tratamento-dos-dados-pessoais)
   * [3.5 Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)](https://github.com/elainefabiola/datalake#relat%C3%B3rio-de-impacto-%C3%A0-prote%C3%A7%C3%A3o-dos-dados-pessoais-ripd)
   * [3.6 Data Lake na LGPD](https://github.com/elainefabiola/datalake#data-lakes-na-lgpd)
- * [4 O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-o-data-lake)
-   * [4.1 Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#origem-do-termo)
-   * [4.2 Arquitetura de referência do Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#-arquitetura-de-refer%C3%AAncia)
-   * [4.3 Arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#arquitetura-de-processamento-de-dados-em-larga-escala)
-   * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
-   * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#arquitetura-de-big-data)
-   * [4.6 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#cultura-data-driven)
-* [5 Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#conclus%C3%A3o)
+ * [4. O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-4-o-data-lake)
+   * [4.1 Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#4.1-origem-do-termo)
+   * [4.2 Arquitetura de referência do Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#4.2-arquitetura-de-refer%C3%AAncia)
+   * [4.3 Arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#4.3-arquitetura-de-processamento-de-dados-em-larga-escala)
+   * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#4.4-os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
+   * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#4.5-arquitetura-de-big-data)
+   * [4.6 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#4.6-cultura-data-driven)
+* [5. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#5.-conclus%C3%A3o)
 
 
 ## Governança de Dados em Data Lake 
@@ -320,7 +320,7 @@ Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fase
   
  
 
-## <a name=“sectionj1”><a/> 4 O Data Lake 
+## <a name=“section4”><a/> 4. O Data Lake 
 ### 4.1 Origem do Termo
 
 Por conta dessa necessidade, em 2010 James Dixon cunhou o termo Data
@@ -331,7 +331,7 @@ arquitetura orientada à dados. Dixon [(BAUM, 2020, p.3)](https://itupdate.com.a
 água, no qual a água entra e sai por diversos dutos, e de onde exemplos podem ser
 retirados e analisados”
 
-### <a name=“section”><a/> 4.2 Arquitetura de Referência
+### <a name=“section42”><a/> 4.2 Arquitetura de Referência
 
 O Data Lake deixa o dado disponível para ser lido, permitindo que qualquer
 pessoa com o conhecimento apropriado tenha acesso para explorar e analizar toda
