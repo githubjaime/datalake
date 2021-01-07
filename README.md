@@ -27,7 +27,6 @@
    * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#arquitetura-de-big-data)
    * [4.6 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#cultura-data-driven)
 * [5 Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#conclus%C3%A3o)
-* [Referências](https://github.com/elainefabiola/datalake/blob/main/README.md#refer%C3%AAncias)
 
 
 ## Governança de Dados em Data Lake 
@@ -325,10 +324,10 @@ Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fase
 ### Origem do Termo
 
 Por conta dessa necessidade, em 2010 James Dixon cunhou o termo Data
-Lake (FOOTE, K. 2018), descrevendo uma arquitetura híbrida para armazenamento
+Lake [(FOOTE, K. 2018)](https://www.dataversity.net/brief-history-data-lakes/>), descrevendo uma arquitetura híbrida para armazenamento
 massivo de informações em qualquer formato, incluindo dados não estruturados, em
 um único local, tornando o Data Lake a peça central de infra-estrutura em uma
-arquitetura orientada à dados. Dixon (BAUM, 2020, p.3) defende que "o Data Lake é um grande corpo de
+arquitetura orientada à dados. Dixon [(BAUM, 2020, p.3)]() defende que "o Data Lake é um grande corpo de
 água, no qual a água entra e sai por diversos dutos, e de onde exemplos podem ser
 retirados e analisados”
 
@@ -346,22 +345,22 @@ divididos entre captura, armazenamento e entrega dos dados.
   <br />
   <img src="IMAGEM-01.jpg" width="600" >
   <br />
-  Fonte: BAUM, 2020, p.4 - Adaptado
+  Fonte: [BAUM, 2020](), p.4 - Adaptado
   <br />
 </p>
 
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de
-dados por dia (MARR, B., 2018), que mais de 80% desses dados são de
+dados por dia [(MARR, B., 2018)](), que mais de 80% desses dados são de
 característica não estruturada e que tecnologias como IoT devem triplicar a
 quantidade de informações que geramos por dia, fica claro que a peça central de
 uma arquitetura orientada à dados deve ser capaz de suportar uma quantidade
 colossal de dados, sendo o Data Lake a melhor opção conhecida para ser o
-armazenamento do que conceitualmente denominamos como Big Data (DOMO,
-2017).
+armazenamento do que conceitualmente denominamos como Big Data [(DOMO,
+2017)]().
 
 ### Arquitetura de processamento de dados em larga escala
 
-De acordo com AKHATAR (2018, Cap.1), a definição de Big Data são “dados
+De acordo com [AKHATAR (2018, Cap.1)](), a definição de Big Data são “dados
 massivos em volume, com relação ao sistema de processamento, com uma
 variedade de dados estruturados e não estruturados quem contêm diferentes
 padrões de dados a serem analisados”.
@@ -396,7 +395,7 @@ um centro urbano com uma determinada condição climática.
   <br />
   <img src="IMAGEM-02.jpg" width="600">
   <br />
-  Fonte: JAMES, 2019
+  Fonte: [JAMES, 2019]()
   <br />
 </p>
 
@@ -426,7 +425,7 @@ grandes pilares, conforme descrito na Figura 16 a seguir.
   <br />
   <img src="IMAGEM-03.jpg" >
   <br />
-  Fonte: SNIVELY, 2018, slide 9  
+  Fonte: [SNIVELY, 2018, slide 9]()  
   <br />
 </p>
 
@@ -451,7 +450,7 @@ Big Data bem como a descrição de cada componente.
   <br />
   <img src="IMAGEM-04.jpg" >
   <br />
-  Fonte: MICROSOFT, 2019  
+  Fonte: [MICROSOFT, 2019]()  
   <br />
 </p>
 
