@@ -392,7 +392,7 @@ Figura 15 - “A cada um minuto em 2019...”
 <br />
 <img src="IMAGEM-02.jpg" width="600">
 <br />
-Fonte: [JAMES, 2019](https://www.domo.com/blog/what-data-never-sleeps-7-0-says-anddoesnt- say/)
+Fonte: [MARR, B., 2018](https://ciradar.com/competitive-intelligence-blog/insights/2019/08/28/how-much-data-do-we-produce)
 <br />
 
 Além dos 3 V’s existem vertentes conceituais que querem transformar em 8
