@@ -420,7 +420,7 @@ Figura 16 - Processos de Big Data simplificado.
 <br />
 <img src="IMAGEM-03.jpg" >
 <br />
-Fonte: [SNIVELY, 2018, slide 9](https://pt.slideshare.net/AmazonWebServices/big-data-analytics-architecturalpatterns-and-best-practices-ant201r1-aws-reinvent-2018) 
+Fonte: [SNIVELY, 2018, slide 9](https://www.slideshare.net/AmazonWebServices/big-data-analytics-architectural-patterns-and-best-practices-ant201r1-aws-reinvent-2018) 
 <br />
 
 De forma direta, os dados são coletados pela plataforma de diversas
