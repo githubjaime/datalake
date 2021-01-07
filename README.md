@@ -6,7 +6,7 @@
 ### 18052-780, Sorocaba, São Paulo, Brasil
 
 
-## Índice
+## Sumários
 
 * [1 Introdução](#introdução)
 * [2 Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#governan%C3%A7a-de-dados-em-data-lake)
