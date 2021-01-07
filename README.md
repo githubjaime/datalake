@@ -578,12 +578,12 @@ componente de orquestração para serem executados.
 
 Big Data não gera valor por si. A geração de valor é quando conseguimos criar insights que geram resultados tangíveis para o negócio. Entretanto, criar projetos de Big data não se constituem em tarefas simples. Existem muitas tecnologias, mas o desafio de integrar uma coleção muito diversa de dados estruturados e não estruturados não é trivial. A complexidade do trabalho é diretamente proporcional à variedade e volume dos dados que precisam ser acessados e analisados. Uma provável alternativa para este desafio é a criação de Data Lakes. Data Lake é um repositório que armazena um grande e variado volume de dados, estruturados e não estruturados. [(TIESPECIALISTAS, 2020)](https://www.tiespecialistas.com.br/big-data-e-o-data-lake/).
 
-### 4.7 Data Lake vs. Governança ###
+### 4.7 Governança vs. Data Lake ###
 
 A pergunta é: você está criando data lakes ou data swamps? A simples colocação de dados em uma plataforma de dados Hadoop não acelerará seus esforços de análise. Sem a governança ou a qualidade adequada, os data lakes podem se transformar rapidamente em data swamps impossíveis de gerenciar. Os usuários de dados sabem que os dados necessários estão nesses data swamps, mas sem uma estratégia clara de governança de dados, não será possível encontrar, confiar ou usar esses dados.
 Um data lake governado contém dados claros e relevantes de origem estruturada e não estruturada que podem ser facilmente encontradas, acessadas, gerenciadas e protegidas. A plataforma na qual seus dados residem é altamente segura e confiável. Os dados inseridos em seu data lake são claros, classificados e protegidos corretamente em feeds de dados controlados e oportunos que preenchem e os documentam com ativos e metadados de informações confiáveis. [(IBM, 2021)](https://www.ibm.com/br-pt/analytics/use-cases/governing-data-lake).
 
-### 4.8 Data Lake vs. LGPD ###
+### 4.8 LGPD vs. Data Lake ###
 
 Com a entrada em vigor da LGPD, as preocupações dos usuários com a privacidade de dados deve ser direcionada aos documentos não estruturados. Segundo a cartilha publicada pela Controladoria Geral do Estado de Minas Gerais (CGE-MG) de 2020, os dados não-estruturados são dados não organizados dentro de uma estrutura rígida definida, mas que estão presentes, por exemplo, em um arquivo de texto, tais como textos, planilhas, imagens, arquivos de áudio ou vídeo. Esses arquivos estão repletos de dados de usuários que precisam ser controlados e protegidos, contra vazamentos e acessos não autorizados. Esses dados não são mantidos em SGBDs, mas sim em Data Lakes.
 
