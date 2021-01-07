@@ -31,7 +31,39 @@
 
 ## 1. Introducao
 
-Faltou a introdução !!!
+Em 2017, o jornal The Economist publicou uma história com o título “O
+recurso mais vailoso não é mais petróleo, mas dados” (do original em inglês “The
+world most valuable resource is no longer oil, but data”) exemplificando a relevância
+que o dado tem na economia global. Nos últimos anos, algumas empresas surgiram
+e se tornaram as grandes causadoras de disrrupção de modelos de negócios
+estabelecidos à anos, simplesmente porque tinham uma estratégia de negócio
+direcionada à dados [(THE ECONOMIST, 2017)]().
+
+No movimento contrário às empresas que nasceram e transformaram o
+mercado, outras empresas quebraram pelo simples fato de não conseguir concorrer
+com as entrantes modernas e, em alguns casos, o motivo pode ser porque seu
+modelo de negócio estava solidificado em uma base que não usufruía dos dados à
+disposição para tomar decisões, tornando o negócio pouco eficiente, ou muitas
+vezes, nada rentável. À exemplo da Amazon, varejista americana que está
+transformando o mercado de compras na última década está quebrando empresas
+como Macy’s e Sears, além de ser a responsável por fechar cerca 9100 lojas nos
+Estados Unidos no ano de 2019 [(CIMENT, 2019)]().
+
+Mesmo em situações onde os dados não são a principal fonte de receita,
+uma cultura de gestão voltada à dados já é algo imperativo para a manutenção da
+competitividade dessa empresa no mercado atual, pois uma cultura orientada à
+dados permite que os processos de tomada de decisão sejam menos empíricos
+trazendo, em geral, mais assertividade nas decisões tomadas.
+
+Além desses fatores, é sabido por muitos que a quantidade de dados
+gerados por segundo no mundo cresce de forma descomunal, sendo que o IDC
+prevê que a quantidade de dados gerados apenas por dispositivos de IoT em 2025
+seja de 79.4 zettabytes, por esses motivos é extremamente importante saber como
+extrair informações de qualidade dos dados à disposição e, para isso, é necessário
+ter uma arquitetura que seja capaz de capturar os dados em questão, processá-los e
+deixar as informações disponíveis para serem consumidas por qualquer pessoa com
+capacidade de interpretação para tomar uma decisão.
+
 
 ## Governança de Dados em Data Lake 
 ### Como promover a Governança em um Data Lake
