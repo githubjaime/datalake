@@ -10,7 +10,7 @@
 
 * [1. Introdução](https://github.com/elainefabiola/datalake/blob/main/README.md#1-introducao)
   * [1.1 Motivação](https://github.com/elainefabiola/datalake/blob/main/README.md#11-motiva%C3%A7%C3%A3o)
-  * [1.2 Objetivo](https://github.com/elainefabiola/datalake/blob/main/README.md#12-objetivo)
+  * [1.2 Objetivos](https://github.com/elainefabiola/datalake/blob/main/README.md#12-objetivo)
   * [1.3 Justificativa](https://github.com/elainefabiola/datalake/blob/main/README.md#13-justificativa)
   * [1.4 Estrutura do Trabalho](https://github.com/elainefabiola/datalake/blob/main/README.md#14-estrutura-do-trabalho)
 * [2. Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#governan%C3%A7a-de-dados-em-data-lake)
@@ -99,7 +99,7 @@ empresa.
 No Capítulo 1 encontramos as motivações para fazer o trabalho, o objetivo
 para o qual o trabalho se presta e a justificativa de tê-lo feito.
 
-No Capítulo 2 e 3 a governança e segurança de dados são a pauta principal,
+Nos Capítulos 2 e 3 a governança e segurança de dados são a pauta principal,
 passando pelas principais leis de regulação existentes atualmente e as disciplinas
 de gestão de dados defendidas pelo Data Managment Body of Knowledge
 (DMBOK).
