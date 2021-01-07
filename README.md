@@ -368,7 +368,7 @@ padrões de dados a serem analisados”.
 
 Além do conceito supracitado, alguns especialistas defendem que para um
 sistema ser considerado um Big Data, ele deve conter 3 características principais, os
-3 V’s do Big Data, são eles segundo RAMADAN (2017):
+3 V’s do Big Data, são eles segundo [RAMADAN (2017)](https://www.researchgate.net/publication/325103690_Big_Data_Tools-An_Overview.):
 
 **Volume:** Talvez o mais obvio dos 3 V's, fazendo referência ao “big” no
 termo Big Data, volume é uma caraterística direta do termo em questão. Como a
