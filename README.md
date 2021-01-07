@@ -99,30 +99,18 @@ empresa.
 No Capítulo 1 encontramos as motivações para fazer o trabalho, o objetivo
 para o qual o trabalho se presta e a justificativa de tê-lo feito.
 
-No Capítulo 2 é apresentado o por que de uma cultura de gestão baseada
-em dados, abordando casos de empresas relevantes no seu mercado que possuem
-na informação estruturada sua fonte de tomada de decisão.
-
-No Capítulo 3 introduz os principais conceitos na jornada de dados, com
-conceitos como diferença de dados e informação, os diferentes tipos de dados e as
-várias formas de armazená-los, o conceito de Data Warehouse e Data Lake e uma
-arquitetura de referência.
-
-No Capítulo 4 o conceito de Big Data é amplamente discutido, junto com as
-suas características e formas de processamento, seguido pelos perfis profissionais
-que precisam ser envolvidos numa operação cotidiana desse tipo de tecnologia, uma
-arquitetura de referência junto de uma abordagem sobre o processo de análise de
-dados.
-
-No Capítulo 5 governança e segurança de dados são a pauta principal,
+No Capítulo 2 e 3 a governança e segurança de dados são a pauta principal,
 passando pelas principais leis de regulação existentes atualmente e as disciplinas
 de gestão de dados defendidas pelo Data Managment Body of Knowledge
 (DMBOK).
 
-Por fim, o Capítulo 6 mostra alguns assuntos que não foram abordados
-neste trabalho mas que podem ser relevantes dependendo do interesse do leitor e
-coloca assuntos que podem ser discutidos em futuras dissertações com base no
-conteúdo deste trabalho.
+No Capítulo 4 o conceito de Data Lake é amplamente discutido, junto com as
+suas características e formas de processamento, seguido por uma
+arquitetura de referência junto de uma abordagem sobre o processo de análise de
+dados.
+
+Finalizando o trabalho, no Capítulo 5, são apresentadas as conclusões.
+
 
 ## Governança de Dados em Data Lake 
 ### Como promover a Governança em um Data Lake
