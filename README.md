@@ -29,7 +29,8 @@
    * [4.3 Arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#43-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#44-os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#45-arquitetura-de-big-data)
-   * [4.6 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#46-cultura-data-driven)
+   * [4.6 Big Data vs. Data Lake]()
+   * [4.7 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#47-cultura-data-driven)
 * [5. Conclusão](https://github.com/elainefabiola/datalake/blob/main/README.md#5-conclus%C3%A3o)
 
 
@@ -587,7 +588,11 @@ transformação de dados de entrada, carregamento de sistemas, inserção em
 sistemas ou tabelas, enfim, processos interdependentes que dependente de um
 componente de orquestração para serem executados.
 
-### 4.6 Cultura Data Driven
+### 4.6 Big Data vs. Data Lake
+
+Big Data não gera valor por si. A geração de valor é quando conseguimos criar insights que geram resultados tangíveis para o negócio. Entretanto, criar projetos de Big data não se constituem em tarefas simples. Existem muitas tecnologias, mas o desafio de integrar uma coleção muito diversa de dados estruturados e não estruturados não é trivial. A complexidade do trabalho é diretamente proporcional à variedade e volume dos dados que precisam ser acessados e analisados. Uma provável alternativa para este desafio é a criação de Data Lakes. Data Lake é um repositório que armazena um grande e variado volume de dados, estruturados e não estruturados. [(TIESPECIALISTAS, 2020)](https://www.tiespecialistas.com.br/big-data-e-o-data-lake/).
+
+### 4.7 Cultura Data Driven
 
 A cultura data driven (ou DDD, Data-Driven Decision) prioriza a tomada de decisão  
 baseada em dados sob o argumento de que quanto mais informações estiverem acessíveis 
