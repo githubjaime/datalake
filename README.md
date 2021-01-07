@@ -372,9 +372,8 @@ Figura 14 - Arquitetura do Data Lake tradicional.
 <br />
 <img src="IMAGEM-01.jpg" width="600" >
 <br />
-Fonte: [BAUM, 2020](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf), p.4 - Adaptado
-<br />
 </p>
+Fonte: [BAUM, 2020](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf), p.4 - Adaptado
 
 Levando em conta que atualmente são gerados 2.5 quintilhões de bytes de dados por dia 
 [(MARR, B., 2018)](https://ciradar.com/competitive-intelligence-blog/insights/2019/08/28/how-much-data-do-we-produce), que mais de 80% desses dados são de
