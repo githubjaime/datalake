@@ -65,7 +65,7 @@ Entender e estruturar toda a cadeia de processamento pela qual o dado
 deve passar dentro de um empresa é uma tarefa extremamente complexa que exige
 uma série de conhecimentos multidisciplinares como coleta, armazenamento, gestão
 de dados, segurança, governança, LGPD e até mesmo negócio e, vivenciando o mercado
-de tecnologia sob a ótica de implementador de sistemas de Big Data, percebe-se
+de tecnologia sob a ótica de implementador de sistemas de Big Data e o conceito de Data Lake, percebe-se
 uma série de conceitos incorretos inseridos em reuniões e discussões quando a
 pauta tende à dados.
 
