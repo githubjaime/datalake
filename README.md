@@ -294,7 +294,7 @@ Para os fins de aplicação da LGPD os dados são definidos como:
   <br> Figura 9 -Elemento dado pessoal </br>  
   <img src="elementopessoal2.jpg">
   <br />
-  Fonte: Elaborada pelo autor,2020
+  Fonte: Elaborado pelos autores, 2020
   <br />
   
 </p>
@@ -317,7 +317,7 @@ A LGPD delinea as diretrizes de como tratar de riscos operacionais e de imagem d
   <br> Figura 10 - Direitos garantidos aos titulares de dados </br>  
   <img src="art6.jpg">
   <br />
-   Fonte: Elaborada pelo autor, 2020
+   Fonte: Elaborado pelos autores, 2020
   <br />
 </p>
 
@@ -351,7 +351,7 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
   <br> Figura 11 - Hipóteses de tratamento de dados pessoais </br>  
   <img src="art777.jpg">
   <br />
-   Fonte: Elaborada pelo autor, 2020
+   Fonte: Elaborado pelos autores, 2020
   <br />
 
 
@@ -395,7 +395,7 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
   <br> Figura 12 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
   <img src="ripd2.jpg" >
   <br />
-   Fonte: Elaborada pelo autor, 2020
+   Fonte: Elaborado pelos autores, 2020
   <br />
 
 
@@ -673,15 +673,12 @@ Com a entrada em vigor da LGPD, as preocupações dos usuários com a privacidad
 
 Uma das medidas que podemos tomar para assegurar a proteção da maior parte dos documentos não estruturados é a adoção de sistemas de gestão eletrônica de documentos no ciclo de vida dos dados pessoais que só trafegam em modo criptografado e anonimizados. Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fases apresentadas na Figura 18 abaixo, correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
 
-<p align="center">
-  <br> Figura 18 - Ciclo de vida dos dados pessoais </br>  
-  <img src="ciclovida.jpg" width="600">
-  <br />
-   Fonte: Elaborada pelo autor, 2020
-  <br />
-</p>
+Figura 18 - Ciclo de vida dos dados pessoais 
+<img src="ciclovida.jpg" width="500">
+<br />
+Fonte: Elaborado pelos autores, 2020
+<br />
   
-
 
 ## Referências ##
 
