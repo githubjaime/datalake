@@ -1,11 +1,7 @@
 <p align="center">
-<br> Figura 1 - Data Lake </br>
-<img src="Data-Lake-1024x541.png" width="800">
+  <br> Data Lake e a LGPD</br>
+  <br /> Autores: Cristiano dos Santos Fortunato, Elaine Soares e Jaime Ranulfo Leite Filho <br />
 </p>
-
-# PROJETO PRÁTICO - DATA LAKE
-<sub>Autores: Cristiano dos Santos Fortunato, Elaine Soares e Jaime Leite</sub>
-
 
 ## Índice
 
