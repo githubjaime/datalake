@@ -441,7 +441,7 @@ nessas informações.
 
 ### Arquitetura de Big Data
 
-Para que uma estrutura de Big Dara entregue o valor descrito com as
+Para que uma estrutura de Big Data entregue o valor descrito com as
 capacidades citadas, é importante que se tenha uma arquitetura de componentes
 que comporte as necessidades descritas anteriormente, sendo assim, a Figura 17 a seguir
 descreve uma arquitetura genérica de referência para ser utilizada em ambientes de
