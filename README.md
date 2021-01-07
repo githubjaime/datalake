@@ -324,7 +324,7 @@ Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fase
 ### 4.1 Origem do Termo
 
 Por conta dessa necessidade, em 2010 James Dixon cunhou o termo Data
-Lake [(FOOTE, K. 2018)](https://www.dataversity.net/brief-history-data-lakes/>), descrevendo uma arquitetura híbrida para armazenamento
+Lake [(FOOTE, K. 2018)](https://www.dataversity.net/brief-history-data-lakes/), descrevendo uma arquitetura híbrida para armazenamento
 massivo de informações em qualquer formato, incluindo dados não estruturados, em
 um único local, tornando o Data Lake a peça central de infra-estrutura em uma
 arquitetura orientada à dados. Dixon [(BAUM, 2020, p.3)](https://itupdate.com.au/assets/snowflake/snowflake-cloud-data-lakes-for-dummies-special-edition.pdf) defende que "o Data Lake é um grande corpo de
@@ -358,7 +358,7 @@ armazenamento do que conceitualmente denominamos como Big Data [(DOMO,
 
 ### 4.3 Arquitetura de processamento de dados em larga escala
 
-De acordo com [AKHATAR (2018, Cap.1)](), a definição de Big Data são “dados
+De acordo com [AKHATAR (2018, Cap.1)](https://www.amazon.com/Big-Data-Architects-Handbook-proficiency/dp/1788835824), a definição de Big Data são “dados
 massivos em volume, com relação ao sistema de processamento, com uma
 variedade de dados estruturados e não estruturados quem contêm diferentes
 padrões de dados a serem analisados”.
