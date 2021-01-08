@@ -59,7 +59,7 @@ de abordagem.
    * [5.2 LGPD vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#52-lgpd-vs-data-lake)
 * [6. Conclusões](https://github.com/elainefabiola/datalake/blob/main/README.md#6-conclus%C3%A3o)
 * [Contribuições e Trabalhos Futuros](https://github.com/elainefabiola/datalake/blob/main/README.md#contribui%C3%A7%C3%B5es-e-trabalhos-futuros)
-* [Referências]()
+* [Referências](https://github.com/elainefabiola/datalake/blob/main/README.md#refer%C3%AAncias)
 
     
 
