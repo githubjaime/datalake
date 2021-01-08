@@ -52,7 +52,7 @@ de abordagem.
    * [4.4 Os pilares de uma arquitetura de processamento de dados em larga escala](https://github.com/elainefabiola/datalake/blob/main/README.md#44-os-pilares-de-uma-arquitetura-de-processamento-de-dados-em-larga-escala)
    * [4.5 Arquitetura de Big Data](https://github.com/elainefabiola/datalake/blob/main/README.md#45-arquitetura-de-big-data)
    * [4.6 Big Data vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#46-big-data-vs-data-lake)
-   * [4.7 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#47-cultura-data-driven)
+   * [4.7 Cultura Data Driven](https://github.com/elainefabiola/datalake/blob/main/README.md#47-cultura-data-driven) 
 * [5. LGPD e Governança no contexto de um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#5-lgpd-e-governan%C3%A7a-no-contexto-de-um-data-lake)
    * [5.1 Governança vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#51-governan%C3%A7a-vs-data-lake)
    * [5.2 LGPD vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#52-lgpd-vs-data-lake)
