@@ -720,9 +720,6 @@ BRASIL. Lei nº. 13.709, de 14 de agosto de 2018.Dispõe sobre a proteção de d
 
 CGE-MG. Cartilha LGPD Disponível em: <https://cge.mg.gov.br/download/category/35-arquivos-diversos?download=450:cartilha-lgpd> Acesso em: 02 de Jan. de 2021
 
-DATAOPS MANIFESTO, DataOps Manifesto.org, 2019 Disponível em: <
-https://www.dataopsmanifesto.org/>. Acesso em: 25 de Nov. de 2020.
-
 DOMO, Data Never Sleeps 5.0, Domo.com, 2017. Disponível em:
 <https://www.domo.com/learn/data-never-sleeps-
 5?aid=ogsm072517_1&sf100871281=1>. Acesso em: 25 de Nov. de 2020.
