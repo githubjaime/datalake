@@ -17,10 +17,9 @@ assim, conhecer um caminho de implementação de uma arquitetura de extração d
 informação é extremamente importante no contexto atual. Levando em conta que
 existem diversas abordagens que podem ser seguidas, neste trabalho é
 apresentada uma forma de criação de conhecimento à partir de dados.
-O trabalho tem início na definição de conceitos básicos como a diferença
-entre dados e informação e dados estruturados e não estruturados, explora modelos
-de arquitetura conceituais para se obter informações à partir das massas de dados
-como por exemplo Data Lake e Big Data abordando características dessas
+O trabalho tem início na definição de conceitos fundamentais como governança 
+de dados e LGPD, explora modelos de arquitetura conceituais para se obter informações 
+à partir das massas de dados como por exemplo Data Lake e Big Data abordando características dessas
 tecnologias e o porque dessas escolhas e, finalmente toca em questões como
 governança e segurança de dados que são importantíssimas e estão em alta no
 mundo da informação, fechando o ciclo necessário para implementação desse tipo
