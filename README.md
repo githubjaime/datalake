@@ -21,7 +21,7 @@ O trabalho tem início na definição de conceitos fundamentais como governança
 de dados e LGPD, explora modelos de arquitetura conceituais para se obter informações 
 à partir das massas de dados como por exemplo Data Lake e Big Data abordando características dessas
 tecnologias e o porque dessas escolhas e, finalmente toca em questões como
-governança e segurança de dados que são importantíssimas e estão em alta no
+dados sensíveis e segurança de dados que são importantíssimas e estão em alta no
 mundo da informação, fechando o ciclo necessário para implementação desse tipo
 de abordagem.
 
