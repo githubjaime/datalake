@@ -58,7 +58,8 @@ de abordagem.
    * [5.1 Governança vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#51-governan%C3%A7a-vs-data-lake)
    * [5.2 LGPD vs. Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#52-lgpd-vs-data-lake)
 * [6. Conclusões](https://github.com/elainefabiola/datalake/blob/main/README.md#6-conclus%C3%A3o)
-   
+* [Contribuições e Trabalhos Futuros]()
+    
 
 ## 1. Introducao
 
@@ -686,7 +687,20 @@ disponíveis e implementar a abordagem mais coerente para o problema que deseja
 resolver.
 
 
+## Contribuições e Trabalhos Futuros ##
 
+Por se tratar de um trabalho conceitual, explorar o detalhamento técnico de
+como se implementar as diversas tecnologias citadas neste trabalho, como por
+exemplo, Big Data, Data Warehouse, governança de dados ou segurança, são
+trabalhos interessantes que complementariam este documento. Além disso,
+questões não abordadas aqui como exploração e visualização de dados também
+são disciplinas mais comumente dominadas no mercado que podem ser abordadas
+em trabalhos futuros.
+Outra evolução de tecnologia bastante relevante que tem ganho cada vez
+mais espaço é o aprendizado de máquina (ou machine learning), que faz uso de
+conceitos matemáticos para criar predições baseadas em dados históricos e
+entender tendências futuras, sendo cada vez mais utilizado em sistemas de
+exploração de dados.
 
 ## Referências ##
 
