@@ -708,6 +708,9 @@ exploração de dados.
 AKHATAR, S. Big Data Architect’s Handbook: A guide to biulding proficiency in tools
 systems used by leading big data experts. Birminghan: Packt, 2018.
 
+ALLSTRATEGY, 2020. Disponível em: <https://www.allstrategy.com.br/blog/cultura-data-driven-o-que-e-como-aplicar-no-seu-negocio-e-como-empresas-vem-utilizando>. 
+Acesso em 07 de Jan. de 2021.
+
 BARBIERI, CARLOS. Governanca de Dados - Práticas, Conceitos e Novos Caminhos. Rio de Janeiro, Alta Book, 2019
 
 BAUM, D. Cloud Data Lakes for Dummies. Edição Especial. New Jersey: Snowflake.
@@ -738,6 +741,9 @@ Acesso em 24 de Set de 2020
 IBM, Institute for Business, The new hero of big data and analytics: The Chief Data Officer
 https://www.ibm.com/thought-leadership/institute-business-value/report/chief-data-officer
 Acesso em 24 de Set de 2020
+
+IBM, Institute for Business, 2021. Disponível em: <https://www.ibm.com/br-pt/analytics/use-cases/governing-data-lake>. 
+Acesso em: 07 de Jan 2021.
 
 IUPAR, Site de Relações com Investidores, 2020. Disponível em:
 https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt
@@ -778,6 +784,8 @@ SNIVELY, B. Big Data Analytics Architectural Patterns and Best Practices.
 Slideshare.net, 2018. Disponível em: <
 https://pt.slideshare.net/AmazonWebServices/big-data-analytics-architecturalpatterns-and-best-practices-ant201r1-aws-reinvent-2018 >. Acesso em: 20 de Nov. de
 2020.
+
+TIESPECIALISTAS, 2020. Disponível em: <https://www.tiespecialistas.com.br/big-data-e-o-data-lake/>. Acesso em 07 de Jan. de 2021.
 
 ZIELINSKI, Jerzy, 2018. Does Smart Grid need new Informatics Tools?. 
 PRZEGLĄD ELEKTROTECHNICZNY. 1. 32-34. 10.15199/48.2018.04.08. Disponível em:<https://www.researchgate.net/publication/324230350_Does_Smart_Grid_need_new_Informatics_Tools>. Acesso em: 20 de Nov. de
