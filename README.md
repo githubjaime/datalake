@@ -644,14 +644,7 @@ Um data lake governado contém dados claros e relevantes de origem estruturada e
 
 Com a entrada em vigor da LGPD, as preocupações dos usuários com a privacidade de dados deve ser direcionada aos documentos não estruturados. Segundo a cartilha publicada pela Controladoria Geral do Estado de Minas Gerais [(CGE-MG, 2020)](https://cge.mg.gov.br/phocadownload/manuais_cartilhas/pdf/Cartilha%20LGPD4%202.pdf), os dados não-estruturados são dados não organizados dentro de uma estrutura rígida definida, mas que estão presentes, por exemplo, em um arquivo de texto, tais como textos, planilhas, imagens, arquivos de áudio ou vídeo. Esses arquivos estão repletos de dados de usuários que precisam ser controlados e protegidos, contra vazamentos e acessos não autorizados. Esses dados não são mantidos em SGBDs, mas sim em Data Lakes.
 
-Uma das medidas que podemos tomar para assegurar a proteção da maior parte dos documentos não estruturados é a adoção de sistemas de gestão eletrônica de documentos no ciclo de vida dos dados pessoais que só trafegam em modo criptografado e anonimizados. Em resumo, podemos entender o tratamento de dados como um ciclo de vida. As fases apresentadas na Figura 18 abaixo, correspondem aos tipos de tratamentos de dados estabelecidos na LGPD.
-
-Figura 18 - Ciclo de vida dos dados pessoais 
-<br />
-<img src="ciclovida.jpg" width="500">
-<br />
-Fonte: Elaborado pelos autores, 2020
-<br />
+Uma das medidas que podemos tomar para assegurar a proteção da maior parte dos documentos não estruturados é a adoção de sistemas de gestão eletrônica de documentos no ciclo de vida dos dados pessoais que só trafegam em modo criptografado e anonimizados. Em resumo, podemos entender o tratamento de dados como um ciclo de vida. 
   
 ## 6. Conclusão ##
 
