@@ -142,8 +142,8 @@ No Capítulo 5 os conceitos de LGPD e Governança são discutidos no contexto de
 Finalizando o trabalho, no Capítulo 6, são apresentadas as conclusões.
 
 
-## Governança de Dados em Data Lake 
-### Como promover a Governança em um Data Lake
+## 2. Governança de Dados em Data Lake 
+### 2.1 Como promover a Governança em um Data Lake
 
 O sucesso da Governança em um Data Lake deve-se ao alinhamento com os princípios básicos da Governaça Corporativa, com o patrocinio dos principais executivos e envolvimento de todas as pessoas da organização, indistintamente, pois todos, de alguma forma produz ou manipula os dados.
 
@@ -183,7 +183,7 @@ Os princípios básicos de governança corporativa permeiam, em maior ou menor g
 
 Fonte: IBGC, 2020.
 
-### Definição do comitê Gestor
+### 2.2 Definição do comitê Gestor
 
 Para facilitar a compreensão da Governança em um Data Lake, vamos criar um "case", utilizando uma estrututura organizacional simples, com algumas áreas.
 
@@ -253,8 +253,8 @@ Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem
 
 Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da IBM, 2018. é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
 
-## Lei Geral de Proteção de Dados (LGPD)
-### O que norteia a LGPD ###
+## 3. Lei Geral de Proteção de Dados (LGPD)
+### 3.1 O que norteia a LGPD ###
 
 O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 2010 foi realizada a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do Núcleo de Informação e Coordenação do Ponto BR (NIC.br). A linha do tempo abaixo mostra os debates e o surgimento da LGPD (NIC.BR,2020):
 
@@ -285,7 +285,7 @@ A Lei Geral de Proteção de Dados (LGPD), Lei 13.709/2018, entrou em vigor em 1
 
 
 ****
-### Dado pessoal ###
+### 3.2 Dado pessoal ###
 
 Para os fins de aplicação da LGPD os dados são definidos como:
 
@@ -315,7 +315,7 @@ A LGPD delinea as diretrizes de como tratar de riscos operacionais e de imagem d
 
 **III - dado anonimizado:** dado relativo a titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento;
 
-### Direitos garantidos aos titulares de dados ###
+### 3.3 Direitos garantidos aos titulares de dados ###
 
 <p align="center">
   <br> Figura 10 - Direitos garantidos aos titulares de dados </br>  
@@ -349,7 +349,7 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 **X - responsabilização e prestação de contas:** demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
 
 
-### Como realizar o tratamento dos dados pessoais ###
+### 3.4 Como realizar o tratamento dos dados pessoais ###
 
 <p align="center">
   <br> Figura 11 - Hipóteses de tratamento de dados pessoais </br>  
@@ -393,7 +393,7 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
 
 
 
-### Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)  ###
+### 3.5 Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)  ###
 
 <p align="center">
   <br> Figura 12 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
