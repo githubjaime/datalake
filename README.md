@@ -650,7 +650,7 @@ Uma das medidas que podemos tomar para assegurar a proteção da maior parte dos
 
 Figura 18 - Ciclo de vida dos dados pessoais 
 <br />
-<img src="ciclovida.jpg" width="600">
+<img src="ciclovida.jpg" width="500">
 <br />
 Fonte: Elaborado pelos autores, 2020
 <br />
