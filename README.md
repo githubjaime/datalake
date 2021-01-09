@@ -159,20 +159,16 @@ Segundo [(IUPAR - 2020)](<https://www.itau.com.br/relacoes-com-investidores/show
   <br> Figura 2 - Os três pilares principais da estrutura de governança corporativa:</br>
   <img src="PilaresGovIU.jpg" width="700">
   <br /> 
-  Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt)
-  <br />
 </p>
-Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt)
+Fonte: [(IUPAR - 2020)](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt)
   
 
 <p align="center">
   <br> Figura 3 - Organograma da estrutura da administração, estruturado em fórum colegiados, visando uma abordagem diversificada dos assuntos para uma tomada de decisão.</br>
   <img src="GovIU.png" >
 <br /> 
-Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt) 
-<br />
 </p>
-Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt) 
+Fonte: [(IUPAR - 2020)](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt) 
 
 **Princípios Básicos da Governança Corporativa**
 
