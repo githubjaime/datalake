@@ -155,13 +155,6 @@ Para exemplificar, abaixo vamos apresentar um modelo de Governança, escolhemos 
 
 Segundo [(IUPAR - 2020)](<https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt>), O principal objetivo da estrutura de governança corporativa é criar um conjunto eficiente de mecanismos de incentivo e monitoramento para assegurar que os administradores estejam sempre alinhados aos interesses dos acionistas de forma sustentável e perene. 
 
-<br />
-<img src="PilaresGovIU.jpg" width="700">
-<br />
-Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt)
-<br />
-
-
 <p align="center">
   <br> Figura 2 - Os três pilares principais da estrutura de governança corporativa:</br>
   <img src="PilaresGovIU.jpg" width="700">
@@ -169,7 +162,8 @@ Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.asp
   Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt)
   <br />
 </p>
-
+Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt)
+  
 
 <p align="center">
   <br> Figura 3 - Organograma da estrutura da administração, estruturado em fórum colegiados, visando uma abordagem diversificada dos assuntos para uma tomada de decisão.</br>
@@ -178,6 +172,7 @@ Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.asp
 Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt) 
 <br />
 </p>
+Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt) 
 
 **Princípios Básicos da Governança Corporativa**
 
