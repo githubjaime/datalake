@@ -159,14 +159,18 @@ Segundo [(IUPAR - 2020)](<https://www.itau.com.br/relacoes-com-investidores/show
 <p align="center">
   <br> Figura 2 - Os três pilares principais da estrutura de governança corporativa:</br>
   <img src="PilaresGovIU.jpg" width="700">
-  <br /> Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt) <br />
+  <br /> 
+  Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt)
+  <br />
 </p>
 
 
 <p align="center">
   <br> Figura 3 - Organograma da estrutura da administração, estruturado em fórum colegiados, visando uma abordagem diversificada dos assuntos para uma tomada de decisão.</br>
   <img src="GovIU.png" >
-<br /> Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt) <br />
+<br /> 
+Fonte: [IUPAR - 2020](https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt) 
+<br />
 </p>
 
 **Princípios Básicos da Governança Corporativa**
@@ -251,7 +255,7 @@ Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem
   <br /> Fonte: [phila.gov, 2020] (https://www.phila.gov/hhs/data/Pages/default.aspx)<br />
 </p>
 
-Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da [IBM, 2018)] <https://www.ibm.com/thought-leadership/institute-business-value/report/chief-data-officer>). é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
+Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da [(IBM, 2018)] <https://www.ibm.com/thought-leadership/institute-business-value/report/chief-data-officer>). é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
 
 ## 3. Lei Geral de Proteção de Dados (LGPD)
 ### 3.1 O que norteia a LGPD ###
