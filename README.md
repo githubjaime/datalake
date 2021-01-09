@@ -149,9 +149,10 @@ O sucesso da Governança Dados deve-se ao alinhamento com os princípios básico
 
 **Governança Corporativa**
 
-Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas, (Instituto Brasileiro de Governança Corporativa –IBGC–, 2020)(https://ibgc.org.br/XXXXXX), ainda segundo o IBGC, 2020, as boas práticas de governança corporativa convertem princípios básicos em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econômico de longo prazo da organização, facilitando seu acesso a recursos e contribuindo para a qualidade da gestão da organização, sua longevidade e o bem comum.
+Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas, [(Instituto Brasileiro de Governança Corporativa –IBGC–, 2020)](https://www.ibgc.org.br/conhecimento/governanca-corporativa), ainda segundo o IBGC, 2020, as boas práticas de governança corporativa convertem princípios básicos em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econômico de longo prazo da organização, facilitando seu acesso a recursos e contribuindo para a qualidade da gestão da organização, sua longevidade e o bem comum.
 
-Para exemplificar, abaixo vamos apresentar um modelo de Governança, escolhemos o IUPAR - Itaú Unibanco Participações, 2020(https://itau.com.br/riXXXXXX)
+Para exemplificar, abaixo vamos apresentar um modelo de Governança, escolhemos o [(IUPAR - Itaú Unibanco Participações, 2020)](
+https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt)
 
 Segundo IUPAR, 2020, O principal objetivo da estrutura de governança corporativa é criar um conjunto eficiente de mecanismos de incentivo e monitoramento para assegurar que os administradores estejam sempre alinhados aos interesses dos acionistas de forma sustentável e perene. 
 
