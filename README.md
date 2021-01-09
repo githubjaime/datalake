@@ -91,7 +91,7 @@ trazendo, em geral, mais assertividade nas decisões tomadas.
 ## 1.1 Motivação
 
 Entender e estruturar toda a cadeia de processamento pela qual o dado
-deve passar dentro de um empresa é uma tarefa extremamente complexa que exige
+deve passar dentro de uma empresa é uma tarefa extremamente complexa que exige
 uma série de conhecimentos multidisciplinares como coleta, armazenamento, gestão
 de dados, segurança, governança, LGPD e até mesmo negócio e, vivenciando o mercado
 de tecnologia sob a ótica de implementador de sistemas de Big Data e o conceito de Data Lake, percebe-se
@@ -145,13 +145,13 @@ Finalizando o trabalho, no Capítulo 6, são apresentadas as conclusões.
 ## 2. Governança de Dados 
 ### 2.1 Como promover a Governança de Dados
 
-O sucesso da Governança Dados deve-se ao alinhamento com os princípios básicos da Governaça Corporativa, com o patrocinio dos principais executivos e envolvimento de todas as pessoas da organização, indistintamente, pois todos, de alguma forma produz ou manipula os dados.
+O sucesso da Governança Dados deve-se ao alinhamento com os princípios básicos da Governança Corporativa, com o patrocínio dos principais executivos e envolvimento de todas as pessoas da organização, indistintamente, pois todos, de alguma forma produz ou manipula os dados.
 
 **Governança Corporativa**
 
-Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas, (Instituto Brasileiro de Governança Corporativa –IBGC–, 2020), ainda segundo o IBGC, 2020, as boas práticas de governança corporativa convertem princípios básicos em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econômico de longo prazo da organização, facilitando seu acesso a recursos e contribuindo para a qualidade da gestão da organização, sua longevidade e o bem comum.
+Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas, (Instituto Brasileiro de Governança Corporativa –IBGC–, 2020)(https://ibgc.org.br/XXXXXX), ainda segundo o IBGC, 2020, as boas práticas de governança corporativa convertem princípios básicos em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econômico de longo prazo da organização, facilitando seu acesso a recursos e contribuindo para a qualidade da gestão da organização, sua longevidade e o bem comum.
 
-Para exemplificar, abaixo vamos apresentar um modelo de Governanca, escolhemos o IUPAR - Itaú Unibanco Participações, 2020
+Para exemplificar, abaixo vamos apresentar um modelo de Governança, escolhemos o IUPAR - Itaú Unibanco Participações, 2020(https://itau.com.br/riXXXXXX)
 
 Segundo IUPAR, 2020, O principal objetivo da estrutura de governança corporativa é criar um conjunto eficiente de mecanismos de incentivo e monitoramento para assegurar que os administradores estejam sempre alinhados aos interesses dos acionistas de forma sustentável e perene. 
 
@@ -185,7 +185,7 @@ Fonte: IBGC, 2020.
 
 ### 2.2 Definição do comitê Gestor
 
-Para facilitar a compreensão da Governança em um Data Lake, vamos criar um "case", utilizando uma estrututura organizacional simples, com algumas áreas.
+Para facilitar a compreensão da Governança em um Data Lake, vamos criar um "case", utilizando uma estrutura organizacional simples, com algumas áreas.
 
 **O PMO, Project Management Office, ou em português, Escritório de Gerenciamento de Projetos**
 
@@ -197,13 +197,13 @@ O PMO tem como objetivo desenvolver e fornecer recursos intelectuais, processos 
 <br /> Fonte:  PMI, 2020 <br />
 </p>
 
-Conforme diagrama de dependencia, o PMO é uma área com visão de toda a organização, e depende de receber a demanda para estabelecer processos, ferramentas e rotinas de monitoramento e controle no planejamento e execução dos projetos. Ao receber uma demanda, o responsável pelo PMO, seleciona uma pessoa e o apresenta como Gerente do Programa, com a finalidade de engajar um time de projeto capaz de integrar as áreas envolvidas para entender a demanda e produzir o resultado esperado pelos demandates, com restrição de prazo e orçamento.
+Conforme diagrama de dependência, PMI, 2020 (https://www.pmi.org/XXXXXX), o PMO é uma área com visão de toda a organização, e depende de receber a demanda para estabelecer processos, ferramentas e rotinas de monitoramento e controle no planejamento e execução dos projetos. Ao receber uma demanda, o responsável pelo PMO, seleciona uma pessoa e o apresenta como Gerente do Programa, com a finalidade de engajar um time de projeto capaz de integrar as áreas envolvidas para entender a demanda e produzir o resultado esperado pelos demandantes, com restrição de prazo e orçamento.
 
 Para uma melhor contextualização do nosso artigo, vamos descrever o objetivo do programa como **“adequação a legislação de proteção dos dados, identificar e corrigir possíveis vazamentos de informação ou acesso indevido, com fins alheios aos interesses da empresa, que possam vir a trazer algum prejuízo financeiro via indenizações ou a imagem da empresa”**.
 
 **As áreas de suporte intelectual e operacional, Pessoas, Tecnologia e Jurídico**
 
-Conforme nosso artigo, a área de tecnologia juntamente com a área Jurídica tem papel fundamental no programa, e é a partir das necessidades apresentadas pelo jurídico que os estudos tecnológicos que são realizados, e algumas alternativas são discutidas, sendo necessário estabelecer um grupo multidisciplinar com pessoas capacitadas em suas áreas de conhecimento para administrar os dados da empresa, canais de entrada, transformação e armazenamento, este grupo pode recomendar um estudo de maturidade da empresa em relação aos dados, onde estão e como são protegidos. O grupo pode definir o uso conceitual do DataLake, e neste momento é submetido ao PMO a carta de viabilidade, recursos intelectuais aquisições necessárias, bem como plano de implantação e de investimentos.
+Conforme nosso artigo, a área de tecnologia juntamente com a área Jurídica tem papel fundamental no programa, e é a partir das necessidades apresentadas pelo jurídico que os estudos tecnológicos são realizados, e algumas alternativas são discutidas, sendo necessário estabelecer um grupo multidisciplinar com pessoas capacitadas em suas áreas de conhecimento para administrar os dados da empresa, canais de entrada, transformação e armazenamento, este grupo pode recomendar um estudo de maturidade da empresa em relação aos dados, onde estão e como são protegidos. O grupo pode definir o uso conceitual de uma ferramanenta e/ou tecnologia, e neste momento é submetido ao PMO a carta de viabilidade, recursos intelectuais aquisições necessárias, bem como plano de implantação e de investimentos.
 
 **As áreas de monitoramento, Auditoria e Controles Internos**
 
@@ -251,7 +251,7 @@ Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem
   <br /> Fonte: phila.gov, 2020 <br />
 </p>
 
-Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da IBM, 2018. é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
+Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da IBM, 2018(https://www.ibm.com/XXXXX). é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
 
 ## 3. Lei Geral de Proteção de Dados (LGPD)
 ### 3.1 O que norteia a LGPD ###
