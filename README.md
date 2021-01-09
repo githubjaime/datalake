@@ -36,8 +36,8 @@ de abordagem.
   * [1.2 Objetivos](https://github.com/elainefabiola/datalake/blob/main/README.md#12-objetivo)
   * [1.3 Justificativa](https://github.com/elainefabiola/datalake/blob/main/README.md#13-justificativa)
   * [1.4 Estrutura do Trabalho](https://github.com/elainefabiola/datalake/blob/main/README.md#14-estrutura-do-trabalho)
-* [2. Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#2-governan%C3%A7a-de-dados-em-data-lake)
-  * [2.1 Como promover a Governança em um Data Lake](https://github.com/elainefabiola/datalake/blob/main/README.md#21-como-promover-a-governan%C3%A7a-em-um-data-lake)
+* [2. Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#2-governan%C3%A7a-de-dados)
+  * [2.1 Como promover a Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#21-como-promover-a-governan%C3%A7a-de-dados)
   * [2.2 Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#22-defini%C3%A7%C3%A3o-do-comit%C3%AA-gestor)
 * [3. Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake/blob/main/README.md#3-lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
   * [3.1 O que norteia a LGPD](https://github.com/elainefabiola/datalake/blob/main/README.md#31-o-que-norteia-a-lgpd)
@@ -142,10 +142,10 @@ No Capítulo 5 os conceitos de LGPD e Governança são discutidos no contexto de
 Finalizando o trabalho, no Capítulo 6, são apresentadas as conclusões.
 
 
-## 2. Governança de Dados em Data Lake 
-### 2.1 Como promover a Governança em um Data Lake
+## 2. Governança de Dados 
+### 2.1 Como promover a Governança de Dados
 
-O sucesso da Governança em um Data Lake deve-se ao alinhamento com os princípios básicos da Governaça Corporativa, com o patrocinio dos principais executivos e envolvimento de todas as pessoas da organização, indistintamente, pois todos, de alguma forma produz ou manipula os dados.
+O sucesso da Governança Dados deve-se ao alinhamento com os princípios básicos da Governaça Corporativa, com o patrocinio dos principais executivos e envolvimento de todas as pessoas da organização, indistintamente, pois todos, de alguma forma produz ou manipula os dados.
 
 **Governança Corporativa**
 
