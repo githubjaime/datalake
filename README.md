@@ -149,25 +149,24 @@ O sucesso da Governança Dados deve-se ao alinhamento com os princípios básico
 
 **Governança Corporativa**
 
-Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas, [(Instituto Brasileiro de Governança Corporativa –IBGC–, 2020)](https://www.ibgc.org.br/conhecimento/governanca-corporativa), ainda segundo o IBGC, 2020, as boas práticas de governança corporativa convertem princípios básicos em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econômico de longo prazo da organização, facilitando seu acesso a recursos e contribuindo para a qualidade da gestão da organização, sua longevidade e o bem comum.
+Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas, Instituto Brasileiro de Governança Corporativa, [(IBGC, 2020)](<https://www.ibgc.org.br/conhecimento/governanca-corporativa>), ainda segundo o [(IBGC, 2020)](<https://www.ibgc.org.br/conhecimento/governanca-corporativa>), as boas práticas de governança corporativa convertem princípios básicos em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econômico de longo prazo da organização, facilitando seu acesso a recursos e contribuindo para a qualidade da gestão da organização, sua longevidade e o bem comum.
 
-Para exemplificar, abaixo vamos apresentar um modelo de Governança, escolhemos o [(IUPAR - Itaú Unibanco Participações, 2020)](
-https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt)
+Para exemplificar, abaixo vamos apresentar um modelo de Governança, escolhemos o Itaú Unibanco Participações, [(IUPAR - 2020)](<https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt>)
 
-Segundo IUPAR, 2020, O principal objetivo da estrutura de governança corporativa é criar um conjunto eficiente de mecanismos de incentivo e monitoramento para assegurar que os administradores estejam sempre alinhados aos interesses dos acionistas de forma sustentável e perene. 
+Segundo [(IUPAR - 2020)](<https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt>), O principal objetivo da estrutura de governança corporativa é criar um conjunto eficiente de mecanismos de incentivo e monitoramento para assegurar que os administradores estejam sempre alinhados aos interesses dos acionistas de forma sustentável e perene. 
 
 
 <p align="center">
   <br> Figura 2 - Os três pilares principais da estrutura de governança corporativa:</br>
   <img src="PilaresGovIU.jpg" width="700">
-  <br /> Fonte:  IUPAR, 2020 <br />
+  <br /> Fonte: [(IUPAR - 2020)](<https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt>) <br />
 </p>
 
 
 <p align="center">
   <br> Figura 3 - Organograma da estrutura da administração, estruturado em fórum colegiados, visando uma abordagem diversificada dos assuntos para uma tomada de decisão.</br>
   <img src="GovIU.png" >
-<br /> Fonte:  IUPAR, 2020 <br />
+<br /> Fonte: [(IUPAR - 2020)](<https://www.itau.com.br/relacoes-com-investidores/show.aspx?idCanal=vwRz5Vohb4ufKQ5nOZ68dw==&linguagem=pt>) <br />
 </p>
 
 **Princípios Básicos da Governança Corporativa**
@@ -182,7 +181,7 @@ Os princípios básicos de governança corporativa permeiam, em maior ou menor g
 
 **Responsabilidade corporativa** – Os agentes de governança devem zelar pela viabilidade econômico-financeira das organizações, reduzir as externalidades negativas de seus negócios e suas operações e aumentar as positivas, levando em consideração, no seu modelo de negócios, os diversos capitais (financeiro, manufaturado, intelectual, humano, social, ambiental, reputacional, etc.) no curto, médio e longo prazos.
 
-Fonte: IBGC, 2020.
+Fonte: [(IBGC, 2020)](<https://www.ibgc.org.br/conhecimento/governanca-corporativa>)
 
 ### 2.2 Definição do comitê Gestor
 
@@ -195,10 +194,10 @@ O PMO tem como objetivo desenvolver e fornecer recursos intelectuais, processos 
 <p align="center">
   <br> Figura 4 - Escritório de Gerenciamento de Projetos.</br>
   <img src="PMO.jpg" >
-<br /> Fonte:  PMI, 2020 <br />
+<br /> Fonte:  [(PMI, 2020)](<https://www.pmi.org/learning/library/process-developing-custom-pmo-proposal-3133>) <br />
 </p>
 
-Conforme diagrama de dependência, PMI, 2020 (https://www.pmi.org/XXXXXX), o PMO é uma área com visão de toda a organização, e depende de receber a demanda para estabelecer processos, ferramentas e rotinas de monitoramento e controle no planejamento e execução dos projetos. Ao receber uma demanda, o responsável pelo PMO, seleciona uma pessoa e o apresenta como Gerente do Programa, com a finalidade de engajar um time de projeto capaz de integrar as áreas envolvidas para entender a demanda e produzir o resultado esperado pelos demandantes, com restrição de prazo e orçamento.
+Conforme diagrama de dependência, [(PMI, 2020)](<https://www.pmi.org/learning/library/process-developing-custom-pmo-proposal-3133>), o PMO é uma área com visão de toda a organização, e depende de receber a demanda para estabelecer processos, ferramentas e rotinas de monitoramento e controle no planejamento e execução dos projetos. Ao receber uma demanda, o responsável pelo PMO, seleciona uma pessoa e o apresenta como Gerente do Programa, com a finalidade de engajar um time de projeto capaz de integrar as áreas envolvidas para entender a demanda e produzir o resultado esperado pelos demandantes, com restrição de prazo e orçamento.
 
 Para uma melhor contextualização do nosso artigo, vamos descrever o objetivo do programa como **“adequação a legislação de proteção dos dados, identificar e corrigir possíveis vazamentos de informação ou acesso indevido, com fins alheios aos interesses da empresa, que possam vir a trazer algum prejuízo financeiro via indenizações ou a imagem da empresa”**.
 
@@ -218,7 +217,7 @@ Atualmente temos fonte infinita para captura dos dados, que pode ser por um apli
 <p align="center">
   <br> Figura 5 - Fonte de Dados</br>
   <img src="Examples-of-Big-Data-sources-1.png" >
-<br /> Fonte: ZIELINSKI, 2018 <br />
+<br /> Fonte: [(ZIELINSKI, 2018)](<https://www.researchgate.net/publication/324230350_Does_Smart_Grid_need_new_Informatics_Tools>) <br />
 </p>
 
 A origem, os canais de captura e o formato dos dados não tem tanta importância em relação ao armazenamento, pois devemos estar preparados para armazenar todo tipo de dado, mas para implementar uma estratégia de proteção e acesso aos dados, as áreas de negócios devem conhecer profundamente qual o tipo de informação que é importante para alavancar os negócios, bem como o tipo de acesso que cada pessoa ou grupo de pessoas devem ter em seus canais de captura e inserção de dados e manipulação de relatórios. 
@@ -249,10 +248,10 @@ Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem
 <p align="center">
   <br> Figura 7 - Escritório de Gerenciamento de Dados</br>
   <img src="dmo.png" >
-  <br /> Fonte: phila.gov, 2020 <br />
+  <br /> Fonte: [(phila.gov, 2020)] (<https://www.phila.gov/hhs/data/Pages/default.aspx>)<br />
 </p>
 
-Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da IBM, 2018(https://www.ibm.com/XXXXX). é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
+Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da [IBM, 2018)] <https://www.ibm.com/thought-leadership/institute-business-value/report/chief-data-officer>). é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
 
 ## 3. Lei Geral de Proteção de Dados (LGPD)
 ### 3.1 O que norteia a LGPD ###
