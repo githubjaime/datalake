@@ -194,8 +194,9 @@ O PMO tem como objetivo desenvolver e fornecer recursos intelectuais, processos 
 <p align="center">
   <br> Figura 4 - Escritório de Gerenciamento de Projetos.</br>
   <img src="PMO.jpg" >
-<br /> Fonte:  [PMI, 2020](https://www.pmi.org/learning/library/process-developing-custom-pmo-proposal-3133) <br />
 </p>
+
+Fonte:  [(PMI, 2020)](https://www.pmi.org/learning/library/process-developing-custom-pmo-proposal-3133) <br />
 
 Conforme diagrama de dependência, [(PMI, 2020)](<https://www.pmi.org/learning/library/process-developing-custom-pmo-proposal-3133>), o PMO é uma área com visão de toda a organização, e depende de receber a demanda para estabelecer processos, ferramentas e rotinas de monitoramento e controle no planejamento e execução dos projetos. Ao receber uma demanda, o responsável pelo PMO, seleciona uma pessoa e o apresenta como Gerente do Programa, com a finalidade de engajar um time de projeto capaz de integrar as áreas envolvidas para entender a demanda e produzir o resultado esperado pelos demandantes, com restrição de prazo e orçamento.
 
@@ -217,8 +218,9 @@ Atualmente temos fonte infinita para captura dos dados, que pode ser por um apli
 <p align="center">
   <br> Figura 5 - Fonte de Dados</br>
   <img src="Examples-of-Big-Data-sources-1.png" >
-<br /> Fonte: [ZIELINSKI, 2018](https://www.researchgate.net/publication/324230350_Does_Smart_Grid_need_new_Informatics_Tools) <br />
 </p>
+
+Fonte: [(ZIELINSKI, 2018)](https://www.researchgate.net/publication/324230350_Does_Smart_Grid_need_new_Informatics_Tools)
 
 A origem, os canais de captura e o formato dos dados não tem tanta importância em relação ao armazenamento, pois devemos estar preparados para armazenar todo tipo de dado, mas para implementar uma estratégia de proteção e acesso aos dados, as áreas de negócios devem conhecer profundamente qual o tipo de informação que é importante para alavancar os negócios, bem como o tipo de acesso que cada pessoa ou grupo de pessoas devem ter em seus canais de captura e inserção de dados e manipulação de relatórios. 
 
@@ -241,17 +243,18 @@ Comitê formado pelos principais executivos da empresa, que tem como missão tom
 
 **Comitê Operacional**
 
-Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem como principal motivação resolver conflitos operacionais, analisar alternativas para o perfeito funcionamento e acesso aos dados, aprovar políticas e controles internos para o uso adequado da informação, oferecer suporte as áreas para identificar e miticar e/ou eliminar os risco de perda e de vazamento de informação restrita.
+Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem como principal motivação resolver conflitos operacionais, analisar alternativas para o perfeito funcionamento e acesso aos dados, aprovar políticas e controles internos para o uso adequado da informação, oferecer suporte as áreas para identificar e miticar (e/ou eliminar o)s risco de perda e de vazamento de informação rest
 
 **Escritório de Gerenciamento de Dados**
 
 <p align="center">
   <br> Figura 7 - Escritório de Gerenciamento de Dados</br>
-  <img src="dmo.png" >
-  <br /> Fonte: [phila.gov, 2020] (https://www.phila.gov/hhs/data/Pages/default.aspx)<br />
+  <img src="dmo.png">
 </p>
 
-Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da [(IBM, 2018)] <https://www.ibm.com/thought-leadership/institute-business-value/report/chief-data-officer>). é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
+Fonte: [(phila.gov, 2020)] (https://www.phila.gov/hhs/data/Pages/default.aspx)
+
+Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da [(IBM, 2018)]( <https://www.ibm.com/thought-leadership/institute-business-value/report/chief-data-officer>). é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
 
 ## 3. Lei Geral de Proteção de Dados (LGPD)
 ### 3.1 O que norteia a LGPD ###
