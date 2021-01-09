@@ -243,7 +243,7 @@ Comitê formado pelos principais executivos da empresa, que tem como missão tom
 
 **Comitê Operacional**
 
-Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem como principal motivação resolver conflitos operacionais, analisar alternativas para o perfeito funcionamento e acesso aos dados, aprovar políticas e controles internos para o uso adequado da informação, oferecer suporte as áreas para identificar e miticar (e/ou eliminar o)s risco de perda e de vazamento de informação rest
+Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem como principal motivação resolver conflitos operacionais, analisar alternativas para o perfeito funcionamento e acesso aos dados, aprovar políticas e controles internos para o uso adequado da informação, oferecer suporte as áreas para identificar e mitigar ou eliminar o risco de perda e de vazamento de informação restrita.
 
 **Escritório de Gerenciamento de Dados**
 
@@ -252,7 +252,7 @@ Os executivos responsáveis pelos dados da empresa, em suas diversas áreas, tem
   <img src="dmo.png">
 </p>
 
-Fonte: [(phila.gov, 2020)] (https://www.phila.gov/hhs/data/Pages/default.aspx)
+Fonte: [(phila.gov, 2020)](https://www.phila.gov/hhs/data/Pages/default.aspx)
 
 Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da [(IBM, 2018)]( <https://www.ibm.com/thought-leadership/institute-business-value/report/chief-data-officer>). é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
 
