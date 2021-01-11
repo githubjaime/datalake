@@ -40,7 +40,7 @@ de abordagem.
   * [2.1 Como promover a Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#21-como-promover-a-governan%C3%A7a-de-dados)
   * [2.2 Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#22-defini%C3%A7%C3%A3o-do-comit%C3%AA-gestor)
 * [3. Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake/blob/main/README.md#3-lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
-  * [3.1 O que norteia a LGPD ?](https://github.com/elainefabiola/datalake/blob/main/README.md#31-o-que-norteia-a-lgpd)
+  * [3.1 O que norteia a LGPD ?](https://github.com/elainefabiola/datalake/blob/main/README.md#31-o-que-norteia-a-lgpd-)
   * [3.2 Dado pessoal](https://github.com/elainefabiola/datalake/blob/main/README.md#32-dado-pessoal)
   * [3.3 Direitos garantidos aos titulares de dados](https://github.com/elainefabiola/datalake/blob/main/README.md#33-direitos-garantidos-aos-titulares-de-dados)
   * [3.4 Como realizar o tratamento dos dados pessoais ?](https://github.com/elainefabiola/datalake/blob/main/README.md#34-como-realizar-o-tratamento-dos-dados-pessoais)
