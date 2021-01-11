@@ -40,10 +40,10 @@ de abordagem.
   * [2.1 Como promover a Governança de Dados](https://github.com/elainefabiola/datalake/blob/main/README.md#21-como-promover-a-governan%C3%A7a-de-dados)
   * [2.2 Definição do comitê Gestor](https://github.com/elainefabiola/datalake/blob/main/README.md#22-defini%C3%A7%C3%A3o-do-comit%C3%AA-gestor)
 * [3. Lei  Geral  de  Proteção  de  Dados  Pessoais  (LGPD  –  Lei  n°  13.709)](https://github.com/elainefabiola/datalake/blob/main/README.md#3-lei-geral-de-prote%C3%A7%C3%A3o-de-dados-lgpd)
-  * [3.1 O que norteia a LGPD](https://github.com/elainefabiola/datalake/blob/main/README.md#31-o-que-norteia-a-lgpd)
+  * [3.1 O que norteia a LGPD ?](https://github.com/elainefabiola/datalake/blob/main/README.md#31-o-que-norteia-a-lgpd)
   * [3.2 Dado pessoal](https://github.com/elainefabiola/datalake/blob/main/README.md#32-dado-pessoal)
   * [3.3 Direitos garantidos aos titulares de dados](https://github.com/elainefabiola/datalake/blob/main/README.md#33-direitos-garantidos-aos-titulares-de-dados)
-  * [3.4 Como realizar o tratamento dos dados pessoais](https://github.com/elainefabiola/datalake/blob/main/README.md#34-como-realizar-o-tratamento-dos-dados-pessoais)
+  * [3.4 Como realizar o tratamento dos dados pessoais ?](https://github.com/elainefabiola/datalake/blob/main/README.md#34-como-realizar-o-tratamento-dos-dados-pessoais)
   * [3.5 Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)](https://github.com/elainefabiola/datalake/blob/main/README.md#35-relat%C3%B3rio-de-impacto-%C3%A0-prote%C3%A7%C3%A3o-dos-dados-pessoais-ripd)
  * [4. O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-4-o-data-lake)
    * [4.1 Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#41-origem-do-termo)
@@ -257,7 +257,7 @@ Fonte: [(phila.gov, 2020)](https://www.phila.gov/hhs/data/Pages/default.aspx)
 Composto por uma equipe multidisciplinar, é a área responsável pelos estudos e implementação das melhores práticas na gestão dos dados da organização, de onde nascem as políticas e diretrizes de vão permear toda organização. Área liderado por um CDO (Chief Data Officer), segundo a definição da [(IBM, 2018)]( <https://www.ibm.com/thought-leadership/institute-business-value/report/chief-data-officer>). é um líder de negócios que cria e executa estratégias de dados e análises para gerar valor de negócios. Responsável por definir, desenvolver e implementar a estratégia e os métodos pelos quais a organização adquire, gerencia, analisa e governa os dados. também tem a responsabilidade estratégica de conduzir a identificação de novas oportunidades de negócios por meio do uso mais eficaz e criativo de dados
 
 ## 3. Lei Geral de Proteção de Dados (LGPD)
-### 3.1 O que norteia a LGPD ###
+### 3.1 O que norteia a LGPD ? ###
 
 O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 2010 foi realizada a primeira consulta pública sobre o tema pelo Ministério da Justiça (cerca de 2.500 contribuições) segundo dados do Núcleo de Informação e Coordenação do Ponto BR (NIC.br). A linha do tempo abaixo mostra os debates e o surgimento da LGPD (NIC.BR,2020):
 
@@ -352,7 +352,7 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 **X - responsabilização e prestação de contas:** demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
 
 
-### 3.4 Como realizar o tratamento dos dados pessoais ###
+### 3.4 Como realizar o tratamento dos dados pessoais ? ###
 
 <p align="center">
   <br> Figura 11 - Hipóteses de tratamento de dados pessoais </br>  
