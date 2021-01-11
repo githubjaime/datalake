@@ -43,7 +43,7 @@ de abordagem.
   * [3.1 O que norteia a LGPD ?](https://github.com/elainefabiola/datalake/blob/main/README.md#31-o-que-norteia-a-lgpd-)
   * [3.2 Dado pessoal](https://github.com/elainefabiola/datalake/blob/main/README.md#32-dado-pessoal)
   * [3.3 Direitos garantidos aos titulares de dados](https://github.com/elainefabiola/datalake/blob/main/README.md#33-direitos-garantidos-aos-titulares-de-dados)
-  * [3.4 Como realizar o tratamento dos dados pessoais ?](https://github.com/elainefabiola/datalake/blob/main/README.md#34-como-realizar-o-tratamento-dos-dados-pessoais)
+  * [3.4 Como realizar o tratamento dos dados pessoais ?](https://github.com/elainefabiola/datalake/blob/main/README.md#34-como-realizar-o-tratamento-dos-dados-pessoais-)
   * [3.5 Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)](https://github.com/elainefabiola/datalake/blob/main/README.md#35-relat%C3%B3rio-de-impacto-%C3%A0-prote%C3%A7%C3%A3o-dos-dados-pessoais-ripd)
  * [4. O Datalake](https://github.com/elainefabiola/datalake/blob/main/README.md#-4-o-data-lake)
    * [4.1 Origem do Termo](https://github.com/elainefabiola/datalake/blob/main/README.md#41-origem-do-termo)
