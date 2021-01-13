@@ -409,7 +409,7 @@ Para auxiliar na elaboração do relatório de impacto à proteção de dados pe
 
 <p align="center">
   <br> Figura 12 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
-  <img src="figura1222" >
+  <img src="figura1222.jpg" >
   <br />
    Fonte: Elaborado pelos autores, 2020
   <br />
