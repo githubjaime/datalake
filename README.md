@@ -271,6 +271,7 @@ O debate em torno da privacidade no Brasil é mais antigo do que imaginamos. Em 
 * MP 869/18: 28/12/2018 (entre outras questões cria a ANPD e acrescenta mais seis meses de vacacio legis);
 * Eficácia plena da LGPD: 16.08.20.
 
+Como ilustrado na figura 8 abaixo, a discussão acerca da LGPD não é nova e está presente desde 2010 no cenário legislativo. 
 
 
 <p align="center">
@@ -296,6 +297,7 @@ Para os fins de aplicação da LGPD os dados são definidos como:
 
       * Identificada e Identificável (cookies, outros identificadores eletrônicos e geoloacionais)
 
+A figura 9 apresenta exemplos do que podem ser classificados ou não como elementos do dado pessoal.
 
 <p align="center">
   <br> Figura 9 -Elemento dado pessoal </br>  
@@ -319,6 +321,8 @@ A LGPD delinea as diretrizes de como tratar de riscos operacionais e de imagem d
 **III - dado anonimizado:** dado relativo a titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento;
 
 ### 3.3 Direitos garantidos aos titulares de dados ###
+
+Na figura 10, podemos observar a relação dos artigos da lei que discorrem sobre os direitos garantidos aos titulares de dados.
 
 <p align="center">
   <br> Figura 10 - Direitos garantidos aos titulares de dados </br>  
@@ -353,6 +357,8 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 
 
 ### 3.4 Como realizar o tratamento dos dados pessoais ? ###
+
+Na figura 1, temos a relação dos artigos da lei que contém as diretrizes para o tratamento de dados pessoais.
 
 <p align="center">
   <br> Figura 11 - Hipóteses de tratamento de dados pessoais </br>  
