@@ -404,6 +404,9 @@ O tratamento de dados pessoais de crianças e de adolescentes, conforme disposi�
 
 ### 3.5 Relatório de Impacto à Proteção dos Dados Pessoais (RIPD)  ###
 
+Para auxiliar na elaboração do relatório de impacto à proteção de dados pessoais são sugeridas sete etapas, que estão apresentadas na figura 12.
+ 
+
 <p align="center">
   <br> Figura 12 - Relatório de Impacto à Proteção dos Dados Pessoais (RIPD) </br>  
   <img src="figura12.jpg" >
