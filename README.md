@@ -358,7 +358,7 @@ A  LGPD  nos  traz  em  seu  art.  6°  os  princípios  que  devem  ser  seguid
 
 ### 3.4 Como realizar o tratamento dos dados pessoais ? ###
 
-Na figura 1, temos a relação dos artigos da lei que contém as diretrizes para o tratamento de dados pessoais.
+Na figura 11, temos a relação dos artigos da lei que contém as diretrizes para o tratamento de dados pessoais.
 
 <p align="center">
   <br> Figura 11 - Hipóteses de tratamento de dados pessoais </br>  
