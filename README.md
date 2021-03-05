@@ -3,7 +3,7 @@
 #### Disciplina Processamento Massivo de Dados - Profa. Dra. Sahudy Montenegro Gonzalez
 #### Departamento de Computação (DComp) - Janeiro/2021 
 #### Universidade Federal de São Carlos (UFSCar)
-#### 18052-780, Sorocaba, São Paulo, Brasil
+#### 18052-780, Sorocaba, São Paulo, Brasil 
 
 
 ## Resumo
