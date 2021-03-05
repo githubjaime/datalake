@@ -1,5 +1,5 @@
 # **Data Lake, Data Governance e a LGPD**
-#### Autores: Cristiano dos Santos Fortunato, Elaine Fabíola Soares e Jaime Ranulfo Leite Filho 
+#### Autores: Jaime Ranulfo Leite Filho, Cristiano dos Santos Fortunato e Elaine Fabíola Soares
 #### Disciplina Processamento Massivo de Dados - Profa. Dra. Sahudy Montenegro Gonzalez
 #### Departamento de Computação (DComp) - Janeiro/2021 
 #### Universidade Federal de São Carlos (UFSCar)
